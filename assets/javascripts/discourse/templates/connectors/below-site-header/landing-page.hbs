@@ -1,8 +1,40 @@
+{{#if render_page}}
 <div class="heading-top">
-    <div>Live Events:</div>
-    {{#each topics as |event| }}
-        <div class="live-event">
-            {{event.title}}
+    <div class="intro-video">
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wXNMubPYw70?ecver=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="event-wrapper">
+
+        <div class="live-events-wrapper">
+            <span class="current-events">Now on</span><span class="events-time">{{time}}</span>
+            {{#each topics as |event| }}
+                <div class="live-event">
+                    <a style="display:block" href="/t/operational-excellence-developing-dcu-campuses-for-the-future/25/1">
+                        <div class="event-content">
+                            <span>
+                                <div class="event-category"></div>
+                            </span>
+                            <div class="event-title">
+                                <span>{{event.title}}</span>
+                            </div>
+                            <span>
+                                {{!--<div class="event-arrow"></div>--}}
+                                <div class="arrow-right"></div>
+                            </span>
+                        </div>
+                    </a>
+                </div>
+            {{/each}}
         </div>
-    {{/each}}
+
+        <div class="next-events-wrapper">
+
+        </div>
+
+        <div class="twitter-wrapper">
+
+        </div>
+
+    </div>
 </div>
+{{/if}}
