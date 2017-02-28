@@ -3,4 +3,4 @@
 # version: 0.0.1
 # authors: Daniel Turner daniel.turner@adaptcentre.ie
 
-register_asset "stylesheets/landing-page.css"
+register_asset "stylesheets/landing-page.scss"

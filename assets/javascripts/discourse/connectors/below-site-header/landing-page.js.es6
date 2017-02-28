@@ -11,52 +11,47 @@ var render_page = false;
 
 export default {
   setupComponent(args, component) {
-    withPluginApi('0.8', api => initializePlugin(api, component));
-
-    var categoryId;
-    var live_topics;
-
-    ajax(`/categories.json${query_end}`).then((result) => {
-
-      if (result) {
-        var categories = result.category_list.categories;
-        categories.forEach(function(element, index, array) {
-          if(element.name === 'Live') {
-            categoryId = element.id;
-
-            ajax(`/c/${categoryId}.json${query_end}`).then((cat) => {
-              if (cat && cat.topic_list) {
-                var topics = cat.topic_list.topics;
-                var result = [];
-                for (var i = 0; i < topics.length; i++) {
-                  if (!(topics[i].title === "About the Live category")) {
-                    result.push(topics[i]);
-                  }
-                }
-                component.set('topics', result);
-              }
-            });
-          }
-        });
-      }
-      else {
-
-      }
-    });
-
-    var date = "10:00 - 12:00"
-    component.set('today', new Date());
-    component.set('time', date);
+    withPluginApi('0.8', api => initializePlugin(api, component, args));
   }
 }
 
-function initializePlugin(api, component)
+function initializePlugin(api, component, args)
 {
-  api.onPageChange((url, title) => {
-      console.log('bla bla');
+  var categoryId;
+  var live_topics;
+  var date = "10:00 - 12:00"
+  component.set('today', new Date());
+  component.set('time', date);
 
+  api.onPageChange((url, title) => {
       if (url === "/") {
         render_page = true;
+        ajax(`/categories.json${query_end}`).then((result) => {
+          if (result) {
+            var categories = result.category_list.categories;
+            categories.forEach(function(element, index, array) {
+              if(element.name === 'Live') {
+                categoryId = element.id;
+
+                ajax(`/c/${categoryId}.json${query_end}`).then((cat) => {
+                  if (cat && cat.topic_list) {
+                    var topics = cat.topic_list.topics;
+                    var result = [];
+                    for (var i = 0; i < topics.length; i++) {
+                      if (!(topics[i].title === "About the Live category")) {
+                        result.push(topics[i]);
+                      }
+                    }
+                    component.set('topics', result);
+                  }
+                });
+              }
+            });
+          }
+          else {
+
+          }
+        });
       }
       else {
         render_page = false;

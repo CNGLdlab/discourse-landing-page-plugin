@@ -6,29 +6,11 @@
     <div class="event-wrapper">
 
         <div class="live-events-wrapper">
-            <span class="current-events">Now on</span><span class="events-time">{{time}}</span>
-            {{#each topics as |event| }}
-                <div class="live-event">
-                    <a style="display:block" href="/t/operational-excellence-developing-dcu-campuses-for-the-future/25/1">
-                        <div class="event-content">
-                            <span>
-                                <div class="event-category"></div>
-                            </span>
-                            <div class="event-title">
-                                <span>{{event.title}}</span>
-                            </div>
-                            <span>
-                                {{!--<div class="event-arrow"></div>--}}
-                                <div class="arrow-right"></div>
-                            </span>
-                        </div>
-                    </a>
-                </div>
-            {{/each}}
+            {{event-list events=topics type="current-events" time=time label="Now on"}}
         </div>
 
         <div class="next-events-wrapper">
-
+            {{event-list events=topics type="current-events" time=time label="Next"}}
         </div>
 
         <div class="twitter-wrapper">
