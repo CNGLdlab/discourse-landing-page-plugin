@@ -2,9 +2,21 @@ import { ajax } from 'discourse/lib/ajax';
 import { withPluginApi } from 'discourse/lib/plugin-api';
 
 
-const api_key = '6d4ecfdab5251a24e6f67a698772b324dc134e8e30b4379f962d39588f8d1497';
-const username = 'daniel.turner';
+const api_key = 'e4845a00fa279bdf7493a74a4ac26f696695f870f68cc40636dc7926cfd140de';
+const username = 'api_user';
 const query_end = `?api_key=${api_key}&api_username=${username}`;
+
+// This is needs to be updated and checked for each instance
+const live_category = {
+  name: "Live Management",
+  id: 16,
+  slug: "live-management"
+}
+const next_category = {
+  name: "Next Management",
+  id: 17,
+  slug: "next-management"
+}
 
 var render_page = false;
 
@@ -17,40 +29,31 @@ export default {
 
 function initializePlugin(api, component, args)
 {
-  var categoryId;
-  var live_topics;
+
   var date = "10:00 - 12:00"
   component.set('today', new Date());
-  component.set('time', date);
-
+  component.set('time-now', date);
   api.onPageChange((url, title) => {
-      if (url === "/") {
+      //console.log(api.container);
+      /**
+       *  Can add more endpoints to the list here
+       *
+      **/
+      if (url === '/') {
         render_page = true;
-        ajax(`/categories.json${query_end}`).then((result) => {
-          if (result) {
-            var categories = result.category_list.categories;
-            categories.forEach(function(element, index, array) {
-              if(element.name === 'Live') {
-                categoryId = element.id;
 
-                ajax(`/c/${categoryId}.json${query_end}`).then((cat) => {
-                  if (cat && cat.topic_list) {
-                    var topics = cat.topic_list.topics;
-                    var result = [];
-                    for (var i = 0; i < topics.length; i++) {
-                      if (!(topics[i].title === "About the Live category")) {
-                        result.push(topics[i]);
-                      }
-                    }
-                    component.set('topics', result);
-                  }
-                });
-              }
-            });
-          }
-          else {
+        // get the live_category topic list
+        ajax(`/c/${live_category.id}.json${query_end}`).then((res) => {
+          getCategoryCallback(res, component, 'live-topics')
+        }).catch((e) => {
+          console.log(e);
+        });
 
-          }
+        // get the next_category topic list
+        ajax(`/c/${next_category.id}.json${query_end}`).then((res) => {
+          getCategoryCallback(res, component, 'next-topics')
+        }).catch((e) => {
+          console.log(e);
         });
       }
       else {
@@ -58,4 +61,24 @@ function initializePlugin(api, component, args)
       }
       component.set('render_page', render_page);
   });
+}
+
+function getCategoryCallback(result, component, componentString) {
+  if (result && result.topic_list) {
+    var topics = result.topic_list.topics;
+    var time = '';
+    var arr = [];
+    for (var i = 0; i < topics.length; i++) {
+      if (!(topics[i].title.startsWith("About the")) && topics[i].closed == false) {
+        arr.push(topics[i]);
+
+        console.log(topics[i]);//var body = topics[i];
+      }
+    }
+    component.set('time-next', time);
+    component.set(componentString, arr);
+  }
+  else {
+    // console.log("Could not get category!);
+  }
 }
