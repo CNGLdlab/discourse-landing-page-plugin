@@ -20,7 +20,7 @@
 
 .live-events-wrapper {
     float: left;
-    width: 33%;
+    width: 40%;
     height: 100%;
     border-width: 0px 1px 0px 1px;
     border-style: solid;
@@ -32,6 +32,13 @@
     height: 100%;
     border-width: 0px 1px 0px 1px;
     border-style: solid;
+}
+
+.right-hand-wrapper-4 {
+    width: 32%;
+    height: 100%;
+    float: right;
+    background-color: black;
 }
 
 .live-event {
@@ -93,45 +100,6 @@
     height: 100%;
 }
 
-/* Mobile definitions
-@media screen and (min-width: 860px) {
-    .live-events-wrapper {
-        float: left;
-        width: 50%;
-        height: 100%;
-        border-width: 0px 1px 0px 1px;
-        border-style: solid;
-    }
+div > iframe {
+    max-height: 100%;
 }
-
-.next-events-wrapper {
-    display: inline-block;
-    width: 49%;
-    height: 100%;
-    border-width: 0px 1px 0px 1px;
-    border-style: solid;
-}
-
-.twitter-wrapper {
-    display: none;
-}
-
-@media screen and (max-width: 550px) {
-    .live-events-wrapper {
-        float: left;
-        width: 100%;
-        height: 100%;
-        border-width: 0px 1px 0px 1px;
-        border-style: solid;
-    }
-
-    .next-events-wrapper {
-        display: none;
-        width: 49%;
-        height: 100%;
-        border-width: 0px 1px 0px 1px;
-        border-style: solid;
-    }
-
-}
-*/
