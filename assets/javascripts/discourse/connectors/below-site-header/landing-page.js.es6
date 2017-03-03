@@ -2,19 +2,19 @@ import { ajax } from 'discourse/lib/ajax';
 import { withPluginApi } from 'discourse/lib/plugin-api';
 
 
-const api_key = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742';
+const api_key = 'e4845a00fa279bdf7493a74a4ac26f696695f870f68cc40636dc7926cfd140de';
 const username = 'api_user';
 const query_end = `?api_key=${api_key}&api_username=${username}`;
 
 // This is needs to be updated and checked for each instance
 const live_category = {
   name: "Live Management",
-  id: 16,
+  id: 7,
   slug: "live-management"
 }
 const next_category = {
   name: "Next Management",
-  id: 17,
+  id: 8,
   slug: "next-management"
 }
 
@@ -39,7 +39,7 @@ function initializePlugin(api, component, args)
        *  Can add more endpoints to the list here
        *
       **/
-      if (url === '/') {
+      if (url === '/' || url === '/categories') {
         render_page = true;
 
         // get the live_category topic list
