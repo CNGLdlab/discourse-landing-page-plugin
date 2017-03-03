@@ -48,9 +48,20 @@
     height: 22%;
     // margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.box-off {
+    padding: 0px 10px 0px 10px
+}
+
+.event-link {
     border-top-color: rgba(15, 70, 100, 0.12);
     border-top-style: solid;
     border-top-width: 1px;
+}
+
+.event-link:hover {
+    background-color: rgba(160,200,220,.12);
 }
 
 .event-content {
@@ -59,6 +70,10 @@
     /*top: 40%;
     position: relative;
     transform: translateY(-50%);*/
+}
+
+.event-content:hover {
+    background-color: rgba(160,200,220,.12);
 }
 
 .events {
