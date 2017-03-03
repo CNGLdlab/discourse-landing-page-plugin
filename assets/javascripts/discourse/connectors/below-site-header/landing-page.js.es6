@@ -46,6 +46,7 @@ function initializePlugin(api, component, args)
         ajax(`/c/${live_category.id}.json${query_end}`).then((res) => {
           getCategoryCallback(res, component, 'live-topics')
         }).catch((e) => {
+          console.log("An error occurred: ")
           console.log(e);
         });
 
@@ -53,6 +54,7 @@ function initializePlugin(api, component, args)
         ajax(`/c/${next_category.id}.json${query_end}`).then((res) => {
           getCategoryCallback(res, component, 'next-topics')
         }).catch((e) => {
+          console.log("An error occurred: ")
           console.log(e);
         });
       }
@@ -71,8 +73,8 @@ function getCategoryCallback(result, component, componentString) {
     for (var i = 0; i < topics.length; i++) {
       if (!(topics[i].title.startsWith("About the")) && topics[i].closed == false) {
         arr.push(topics[i]);
-
-        console.log(topics[i]);//var body = topics[i];
+        // console.log(topics[i]);
+        //var body = topics[i];
       }
     }
     component.set('time-next', time);
