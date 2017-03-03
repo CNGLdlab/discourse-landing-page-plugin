@@ -3,18 +3,20 @@
 </div>
 {{#each events as |event| }}
     <div class="live-event">
-        <a style="display:block" href="/t/operational-excellence-developing-dcu-campuses-for-the-future/25/1">
-            <div class="event-content">
-                <span>
-                    <div class="event-category"></div>
-                </span>
-                <div class="event-title">
-                    <span>{{event.title}}</span>
+        <div class="box-off" >
+            <a class="event-link" style="display:block" href="/t/operational-excellence-developing-dcu-campuses-for-the-future/25/1">
+                <div class="event-content">
+                    <span>
+                        <div class="event-category"></div>
+                    </span>
+                    <div class="event-title">
+                        <span>{{event.title}}</span>
+                    </div>
+                    <span>
+                        <div class="arrow-right"></div>
+                    </span>
                 </div>
-                <span>
-                    <div class="arrow-right"></div>
-                </span>
-            </div>
-        </a>
+            </a>
+        </div>
     </div>
 {{/each}}
