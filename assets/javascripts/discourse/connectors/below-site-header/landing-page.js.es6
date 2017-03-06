@@ -1,86 +1,106 @@
-import { ajax } from 'discourse/lib/ajax';
-import { withPluginApi } from 'discourse/lib/plugin-api';
+import {ajax} from 'discourse/lib/ajax';
+import {withPluginApi} from 'discourse/lib/plugin-api';
 
 
-const api_key = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742';
+const apiKey = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742';
 const username = 'api_user';
-const query_end = `?api_key=${api_key}&api_username=${username}`;
-
+const queryEnd = `?api_key=${apiKey}&api_username=${username}`;
+let renderPage = false;
 // This is needs to be updated and checked for each instance
-const live_category = {
-  name: "Live Management",
+const liveCategory = {
+  name: 'Live Management',
   id: 16,
-  slug: "live-management"
-}
-const next_category = {
-  name: "Next Management",
+  slug: 'live-management',
+};
+const nextCategory = {
+  name: 'Next Management',
   id: 17,
-  slug: "next-management"
-}
-
-var render_page = false;
+  slug: 'next-management',
+};
 
 
-export default {
-  setupComponent(args, component) {
-    withPluginApi('0.8', api => initializePlugin(api, component, args));
-  }
-}
-
-function initializePlugin(api, component, args)
-{
-
-  var date = "10:00 - 12:00"
-  component.set('today', new Date());
-  component.set('time-now', date);
-  api.onPageChange((url, title) => {
-      //console.log(api.container);
-      /**
-       *  Can add more endpoints to the list here
-       *
-      **/
-      if (url === '/' || url === '/categories') {
-        render_page = true;
-
-        // get the live_category topic list
-        ajax(`/c/${live_category.id}.json${query_end}`).then((res) => {
-          getCategoryCallback(res, component, 'live-topics')
-        }).catch((e) => {
-          console.log("An error occurred: ")
-          console.log(e);
-        });
-
-        // get the next_category topic list
-        ajax(`/c/${next_category.id}.json${query_end}`).then((res) => {
-          getCategoryCallback(res, component, 'next-topics')
-        }).catch((e) => {
-          console.log("An error occurred: ")
-          console.log(e);
-        });
-      }
-      else {
-        render_page = false;
-      }
-      component.set('render_page', render_page);
+function resolveTopic(res, arr) {
+  const body = res.post_stream.posts[0].cooked;
+  let lines = [];
+  let time = '';
+  let url = '';
+  lines = body.split('<br>');
+  lines.forEach((line) => {
+    line = line.replace('<p>', '');
+    line = line.replace('</p>', '');
+    console.log(line);
+    if (line.startsWith('Actual URL:' || line.startsWith('URL:') || line.startsWith('url:'))) {
+      url = line.split(':')[1].trim();
+    }
+    else if (line.startsWith('Time:') || line.startsWith('time:')) {
+      time = line.split('=')[1].trim();
+      console.log(`Time: ${time}`);
+    }
+  });
+  arr.forEach((cat, index, theArray) => {
+    theArray[index].url = url;
+    theArray[index].time = time;
   });
 }
 
 function getCategoryCallback(result, component, componentString) {
   if (result && result.topic_list) {
-    var topics = result.topic_list.topics;
-    var time = '';
-    var arr = [];
-    for (var i = 0; i < topics.length; i++) {
-      if (!(topics[i].title.startsWith("About the")) && topics[i].closed == false) {
+    const topics = result.topic_list.topics;
+    const arr = [];
+    const topicPromiseArr = [];
+    for (let i = 0; i < topics.length; i += 1) {
+      if (!(topics[i].title.startsWith('About the')) && topics[i].closed === false) {
         arr.push(topics[i]);
-        // console.log(topics[i]);
-        //var body = topics[i];
+        const p1 = ajax(`/t/${topics[i].id}.json${queryEnd}`);
+        topicPromiseArr.push(p1);
       }
     }
-    component.set('time-next', time);
-    component.set(componentString, arr);
-  }
-  else {
-    // console.log("Could not get category!);
+    Promise.all(topicPromiseArr).then((values) => {
+      values.forEach((value) => {
+        resolveTopic(value, arr);
+      });
+    }).then(() => {
+      component.set(componentString, arr);
+      console.log(arr);
+    });
   }
 }
+
+function initializePlugin(api, component) {
+  api.onPageChange((url) => {
+    // console.log(api.container);
+    /**
+     *  Can add more endpoints to the list here
+     *
+    **/
+    if (url === '/' || url === '/latest') {
+      renderPage = true;
+
+      // get the live_category topic list
+      ajax(`/c/${liveCategory.id}.json${queryEnd}`).then((res) => {
+        getCategoryCallback(res, component, 'live-topics');
+      }).catch((e) => {
+        console.log('A liveCategory error occurred: ');
+        console.log(e);
+      });
+
+      // get the next_category topic list
+      ajax(`/c/${nextCategory.id}.json${queryEnd}`).then((res) => {
+        getCategoryCallback(res, component, 'next-topics');
+      }).catch((e) => {
+        console.log('A nextCategory error occurred: ');
+        console.log(e);
+      });
+    }
+    else {
+      renderPage = false;
+    }
+    component.set('renderPage', renderPage);
+  });
+}
+
+export default {
+  setupComponent(args, component) {
+    withPluginApi('0.8', api => initializePlugin(api, component, args));
+  },
+};
