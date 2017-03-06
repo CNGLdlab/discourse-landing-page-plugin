@@ -24,6 +24,7 @@ function resolveTopic(res, arr, i) {
   let lines = [];
   let time = '';
   let url = '';
+  let speakers = [];
   lines = body.split('<br>');
   lines.forEach((text) => {
     let line = text;
@@ -36,9 +37,16 @@ function resolveTopic(res, arr, i) {
     else if (line.startsWith('Time=') || line.startsWith('time=')) {
       time = line.split('=')[1].trim();
     }
+    else if (line.startsWith('Speakers:') || line.startsWith('speakers:')) {
+      speakers = line.split(':')[1].trim().split(',');
+      if (speakers.length === 1 && speakers[0] === '') {
+        speakers = [];
+      }
+    }
   });
   arr[i].url = url;
   arr[i].time = time;
+  arr[i].speakers = speakers;
 }
 
 function getCategoryCallback(result, component, componentString) {
@@ -59,6 +67,9 @@ function getCategoryCallback(result, component, componentString) {
       });
     }).then(() => {
       component.set(componentString, arr);
+    }).catch((e) => {
+      console.log('Promise error:');
+      console.log(e);
     });
   }
 }
