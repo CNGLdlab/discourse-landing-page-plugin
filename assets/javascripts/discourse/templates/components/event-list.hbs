@@ -1,10 +1,10 @@
 <div class="title-header">
-    <span class="events">{{label}}</span><span class="events-time">{{time}}</span>
+    <span class="events">{{label}}</span><span class="events-time">{{events.1.time}}</span>
 </div>
 {{#each events as |event| }}
     <div class="live-event">
         <div class="box-off" >
-            <a class="event-link" style="display:block" href="/t/operational-excellence-developing-dcu-campuses-for-the-future/25/1">
+            <a class="event-link" style="display:block" href="{{event.url}}">
                 <div class="clearfix event-content">
                     <span>
                         <div class="event-category"></div>
