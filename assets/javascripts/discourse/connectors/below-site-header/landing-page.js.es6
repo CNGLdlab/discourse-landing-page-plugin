@@ -19,28 +19,26 @@ const nextCategory = {
 };
 
 
-function resolveTopic(res, arr) {
+function resolveTopic(res, arr, i) {
   const body = res.post_stream.posts[0].cooked;
   let lines = [];
   let time = '';
   let url = '';
   lines = body.split('<br>');
-  lines.forEach((line) => {
+  lines.forEach((text) => {
+    let line = text;
     line = line.replace('<p>', '');
     line = line.replace('</p>', '');
-    console.log(line);
+    line = line.trim();
     if (line.startsWith('Actual URL:' || line.startsWith('URL:') || line.startsWith('url:'))) {
       url = line.split(':')[1].trim();
     }
-    else if (line.startsWith('Time:') || line.startsWith('time:')) {
+    else if (line.startsWith('Time=') || line.startsWith('time=')) {
       time = line.split('=')[1].trim();
-      console.log(`Time: ${time}`);
     }
   });
-  arr.forEach((cat, index, theArray) => {
-    theArray[index].url = url;
-    theArray[index].time = time;
-  });
+  arr[i].url = url;
+  arr[i].time = time;
 }
 
 function getCategoryCallback(result, component, componentString) {
@@ -56,12 +54,11 @@ function getCategoryCallback(result, component, componentString) {
       }
     }
     Promise.all(topicPromiseArr).then((values) => {
-      values.forEach((value) => {
-        resolveTopic(value, arr);
+      values.forEach((value, index) => {
+        resolveTopic(value, arr, index);
       });
     }).then(() => {
       component.set(componentString, arr);
-      console.log(arr);
     });
   }
 }
