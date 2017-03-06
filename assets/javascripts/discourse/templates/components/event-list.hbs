@@ -15,6 +15,14 @@
                     <span>
                         <div class="arrow-right"></div>
                     </span>
+                    <div class='speaker-list'>
+                        {{#if event.speakers}}
+                            <span>Speakers: </span>
+                            {{#each event.speakers as |speaker|}}
+                                {{{speaker}}}
+                            {{/each}}
+                        {{/if}}
+                    </div>
                 </div>
             </a>
         </div>
