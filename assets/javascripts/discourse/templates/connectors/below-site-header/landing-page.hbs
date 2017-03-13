@@ -1,8 +1,12 @@
 {{#if renderPage}}
 <div class="heading-top">
+    {{#if image}}
+    {{/if}}
+    {{#if video}}
     <div class="intro-video">
-        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wXNMubPYw70?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="100%" src="{{video}}" frameborder="0" allowfullscreen></iframe>
     </div>
+    {{/if}}
     <div class="event-wrapper">
 
         <div class="live-events-wrapper">
