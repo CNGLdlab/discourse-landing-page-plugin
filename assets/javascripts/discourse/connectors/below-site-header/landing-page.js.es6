@@ -75,6 +75,28 @@ function getCategoryCallback(result, component, componentString) {
 }
 
 function initializePlugin(api, component) {
+  ajax(`/t/139.json${queryEnd}`).then((res) => {
+    let body = res.post_stream.posts[0].cooked;
+    body = body.replace('<p>', '');
+    body = body.replace('</p>', '');
+    const lines = body.split('<br>');
+    lines.forEach((line) => {
+      let x = '';
+      let type = '';
+      if (line.startsWith('video')) {
+        x = line.split('=')[1].trim();
+        type = 'video';
+      }
+      else if (line.startsWith('image')) {
+        x = line.split('=')[1].trim();
+        type = 'image';
+      }
+      if (x !== '') {
+        component.set(type, x);
+      }
+    });
+  });
+
   api.onPageChange((url) => {
     // console.log(api.container);
     /**
