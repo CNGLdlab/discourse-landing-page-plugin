@@ -88,11 +88,13 @@ function initializePlugin(api, component) {
         type = 'video';
       }
       else if (line.startsWith('image')) {
-        x = line.split('=')[1].trim();
+        x = line.split('@')[1].trim();
         type = 'image';
       }
       if (x !== '') {
         component.set(type, x);
+        console.log(type);
+        console.log(x);
       }
     });
   });
