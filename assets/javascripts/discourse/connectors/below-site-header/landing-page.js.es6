@@ -25,6 +25,8 @@ function resolveTopic(res, arr, i) {
   let time = '';
   let url = '';
   let speakers = [];
+  let other = '';
+  let description = '';
   lines = body.split('<br>');
   lines.forEach((text) => {
     let line = text;
@@ -43,10 +45,18 @@ function resolveTopic(res, arr, i) {
         speakers = [];
       }
     }
+    else if (line.startsWith('Other:') || line.startsWith('other:')) {
+      other = line.split(':')[1].trim();
+    }
+    else if (line.startsWith('Description:') || line.startsWith('description:')) {
+      description = line.split(':')[1].trim();
+    }
   });
   arr[i].url = url;
   arr[i].time = time;
   arr[i].speakers = speakers;
+  arr[i].other = other;
+  arr[i].description = description;
 }
 
 function getCategoryCallback(result, component, componentString) {
@@ -84,12 +94,16 @@ function initializePlugin(api, component) {
       let x = '';
       let type = '';
       if (line.startsWith('video')) {
-        x = line.split('=')[1].trim();
+        x = line.split('@')[1].trim();
         type = 'video';
       }
       else if (line.startsWith('image')) {
         x = line.split('@')[1].trim();
         type = 'image';
+      }
+      else if(line.startsWith('other')) {
+        x = line.split('@')[1].trim();
+        type = 'other';
       }
       if (x !== '') {
         component.set(type, x);
