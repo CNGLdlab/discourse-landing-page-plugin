@@ -6,7 +6,7 @@ const apiKey = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742
 const username = 'api_user';
 const queryEnd = `?api_key=${apiKey}&api_username=${username}`;
 
-const apiAccess = {api_user: apiKey, api_username: username};
+const apiAccess = {api_key: apiKey, api_username: username};
 let renderPage = false;
 // This is needs to be updated and checked for each instance
 const liveCategory = {
@@ -106,7 +106,7 @@ function initializePlugin(api, component) {
         x = line.split('@')[1].trim();
         type = 'image';
       }
-      else if(line.startsWith('other')) {
+      else if (line.startsWith('other')) {
         x = line.split('@')[1].trim();
         type = 'other';
       }
@@ -128,7 +128,10 @@ function initializePlugin(api, component) {
       renderPage = true;
 
       // get the live_category topic list
-      ajax(`/c/${liveCategory.id}.json${queryEnd}`).then((res) => {
+      ajax({
+        url: `/c/${liveCategory.id}.json`,
+        data: apiAccess,
+      }).then((res) => {
         getCategoryCallback(res, component, 'live-topics');
       }).catch((e) => {
         console.log('A liveCategory error occurred: ');
@@ -136,7 +139,10 @@ function initializePlugin(api, component) {
       });
 
       // get the next_category topic list
-      ajax(`/c/${nextCategory.id}.json${queryEnd}`).then((res) => {
+      ajax({
+        url: `/c/${nextCategory.id}.json`,
+        data: apiAccess,
+      }).then((res) => {
         getCategoryCallback(res, component, 'next-topics');
       }).catch((e) => {
         console.log('A nextCategory error occurred: ');
