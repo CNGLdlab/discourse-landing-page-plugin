@@ -5,6 +5,8 @@ import {withPluginApi} from 'discourse/lib/plugin-api';
 const apiKey = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742';
 const username = 'api_user';
 const queryEnd = `?api_key=${apiKey}&api_username=${username}`;
+
+const apiAccess = {api_user: apiKey, api_username: username};
 let renderPage = false;
 // This is needs to be updated and checked for each instance
 const liveCategory = {
@@ -85,7 +87,10 @@ function getCategoryCallback(result, component, componentString) {
 }
 
 function initializePlugin(api, component) {
-  ajax(`/t/139.json${queryEnd}`).then((res) => {
+  ajax({
+    url: '/t/139.json',
+    data: apiAccess,
+  }).then((res) => {
     let body = res.post_stream.posts[0].cooked;
     body = body.replace('<p>', '');
     body = body.replace('</p>', '');
