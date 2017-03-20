@@ -128,10 +128,7 @@ function initializePlugin(api, component) {
       renderPage = true;
 
       // get the live_category topic list
-      ajax({
-        url: `/c/${liveCategory.id}.json`,
-        data: apiAccess,
-      }).then((res) => {
+      ajax(`/c/${liveCategory.id}.json${queryEnd}`).then((res) => {
         getCategoryCallback(res, component, 'live-topics');
       }).catch((e) => {
         console.log('A liveCategory error occurred: ');
@@ -139,10 +136,7 @@ function initializePlugin(api, component) {
       });
 
       // get the next_category topic list
-      ajax({
-        url: `/c/${nextCategory.id}.json`,
-        data: apiAccess,
-      }).then((res) => {
+      ajax(`/c/${nextCategory.id}.json${queryEnd}`).then((res) => {
         getCategoryCallback(res, component, 'next-topics');
       }).catch((e) => {
         console.log('A nextCategory error occurred: ');
