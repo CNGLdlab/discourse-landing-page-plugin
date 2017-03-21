@@ -11,4 +11,4 @@
 # dcufuse.adaptcentre live category.id: 16
 # dcufuse.adaptcentre next category.id: 17
 
-register_asset "stylesheets/landing-page.scss"
+#register_asset "stylesheets/landing-page.scss"
