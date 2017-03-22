@@ -63,6 +63,7 @@ function resolveTopic(res, arr, i) {
       faviconColor = line.split(':')[1].trim();
     }
   });
+
   arr[i].url = url;
   arr[i].time = time;
   arr[i].speakers = speakers;
@@ -123,23 +124,21 @@ function initializePlugin(api, component) {
       }
       if (x !== '') {
         component.set(type, x);
-        console.log(type);
-        console.log(x);
       }
     });
   });
 
   api.onPageChange((url) => {
     switch (window.location.pathname) {
-      case '/': 
-        document.getElementById('main-outlet').style.display = "none";
+      case '/':
+        document.getElementById('main-outlet').style.display = 'none';
         break;
-      default: 
-        document.getElementById('main-outlet').style.display = "block"; 
+      default:
+        document.getElementById('main-outlet').style.display = 'block';
         break;
     }
 
-    if (url === '/' || url === '/latest') {
+    if (url === '/' || url === '/categories') {
       renderPage = true;
 
       // get the live_category topic list
