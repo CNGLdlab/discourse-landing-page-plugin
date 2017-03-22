@@ -120,8 +120,12 @@ function initializePlugin(api, component) {
 
   api.onPageChange((url) => {
     switch (window.location.pathname) {
-      case '/': $('#main-outlet').removeClass('display-page-list'); break;
-      default: $('#main-outlet').addClass('display-page-list'); break;
+      case '/': 
+        document.getElementById('main-outlet').style.display = "none";
+        break;
+      default: 
+        document.getElementById('main-outlet').style.display = "block"; 
+        break;
     }
 
     if (url === '/' || url === '/latest') {
