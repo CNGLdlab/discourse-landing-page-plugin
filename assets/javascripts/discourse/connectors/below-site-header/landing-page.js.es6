@@ -29,6 +29,8 @@ function resolveTopic(res, arr, i) {
   let speakers = [];
   let other = '';
   let description = '';
+  let favicon = '';
+  let favicon-color = '';
   lines = body.split('<br>');
   lines.forEach((text) => {
     let line = text;
@@ -53,12 +55,20 @@ function resolveTopic(res, arr, i) {
     else if (line.startsWith('Description:') || line.startsWith('description:')) {
       description = line.split(':')[1].trim();
     }
+    else if (line.startsWith('Favicon:') || line.startsWith('favicon:')) {
+      favicon = line.split(':')[1].trim();
+    }
+    else if (line.startsWith('Favicon-color:') || line.startsWith('favicon-color:') || line.startsWith('Favicon-colour:') || line.startsWith('favicon-colour:')) {
+      favicon-color = line.split(':')[1].trim();
+    }
   });
   arr[i].url = url;
   arr[i].time = time;
   arr[i].speakers = speakers;
   arr[i].other = other;
   arr[i].description = description;
+  arr[i].favicon = favicon;
+  arr[i].favicon-color = favicon-color;
 }
 
 function getCategoryCallback(result, component, componentString) {
