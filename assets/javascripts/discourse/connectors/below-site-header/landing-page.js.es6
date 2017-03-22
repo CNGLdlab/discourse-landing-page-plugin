@@ -119,11 +119,11 @@ function initializePlugin(api, component) {
   });
 
   api.onPageChange((url) => {
-    // console.log(api.container);
-    /**
-     *  Can add more endpoints to the list here
-     *
-    **/
+    switch (window.location.pathname) {
+      case '/': $('#main-outlet').removeClass('display-page-list'); break;
+      default: $('#main-outlet').addClass('display-page-list'); break;
+    }
+
     if (url === '/' || url === '/latest') {
       renderPage = true;
 
