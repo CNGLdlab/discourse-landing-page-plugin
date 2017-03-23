@@ -14,10 +14,14 @@
 
         <div class="live-events-wrapper">
             {{event-list events=live-topics time=time-now label="Now on"}}
+            <a class="widget-button btn-primary btn-large" aria-label="Join other conversations" 
+            title="Join other conversations" href="/latest">Join other conversations</button>
         </div>
 
         <div class="next-events-wrapper">
             {{event-list events=next-topics time=time-next label="Next"}}
+            <a class="widget-button btn-primary btn-large" aria-label="View the full schedule of events" 
+            title="View the full schedule of events" href="/#">View the full schedule of events</button>
         </div>
 
         <div class="right-hand-wrapper-4">
