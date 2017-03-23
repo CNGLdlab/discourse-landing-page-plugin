@@ -131,6 +131,7 @@ function initializePlugin(api, component) {
   api.onPageChange((url) => {
     switch (window.location.pathname) {
       case '/':
+      case '/categories':
         document.getElementById('main-outlet').style.display = 'none';
         break;
       default:
