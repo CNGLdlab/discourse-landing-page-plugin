@@ -203,7 +203,7 @@ function initializePlugin(api, component) {
       let deadline = new Date(2017, 2, 30, 11, 0, 0);
       setTimeout(function() {
           initializeClock('clockdiv', deadline);
-      }, 2000);
+      }, 500);
     }
     else {
       renderPage = false;
