@@ -1,5 +1,5 @@
 <div class="title-header">
-    <span class="events">{{label}}</span><span class="events-time">{{events.[0].time}}</span>
+    <span class="events">{{label}}</span><span class="events-time"></span>
 </div>
 {{#each events as |event| }}
     <div class="live-event">
@@ -22,6 +22,11 @@
                                 {{{speaker}}}
                             {{/each}}
                         {{/if}}
+                    </div>
+                    <div class='event-time'>
+                        {{if {{event.time}}
+                        <span>{{event.time}}</span> 
+                        {{/if}}   
                     </div>
                 </div>
             </a>
