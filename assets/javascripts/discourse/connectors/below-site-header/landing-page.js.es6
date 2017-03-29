@@ -122,6 +122,10 @@ function initializePlugin(api, component) {
         x = line.split('@')[1].trim();
         type = 'other';
       }
+      else if (line.startsWith('clocktitle')) {
+        x = line.split('@')[1].trim();
+        type = 'clocktitle';
+      }
       if (x !== '') {
         component.set(type, x);
       }
