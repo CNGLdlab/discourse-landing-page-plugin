@@ -200,7 +200,7 @@ function initializePlugin(api, component) {
 
 
       // clock stuff
-      let deadline = new Date(2017, 2, 30, 11, 0, 0);
+      let deadline = new Date(2017, 2, 31, 12, 0, 0);
       setTimeout(function() {
           initializeClock('clockdiv', deadline);
       }, 500);
