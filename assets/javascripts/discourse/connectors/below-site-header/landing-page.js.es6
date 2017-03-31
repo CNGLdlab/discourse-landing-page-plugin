@@ -20,33 +20,6 @@ const nextCategory = {
   slug: 'next-management',
 };
 
-function getTimeRemaining(endtime) {
-  var t = Date.parse(endtime) - Date.parse(new Date());
-  var seconds = Math.floor((t / 1000) % 60);
-  var minutes = Math.floor((t / 1000 / 60) % 60);
-  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
-  var days = Math.floor(t / (1000 * 60 * 60 * 24));
-  return {
-    'total': t,
-    'days': days,
-    'hours': hours,
-    'minutes': minutes,
-    'seconds': seconds
-  };
-}
-
-function initializeClock(id, endtime) {
-  var clock = document.getElementById(id);
-  var hoursSpan = clock.querySelector('.hours');
-  var minutesSpan = clock.querySelector('.minutes');
-  var secondsSpan = clock.querySelector('.seconds');
-
-  function updateClock() {
-  }
-
-  updateClock();
-  var timeinterval = setInterval(updateClock, 1000);
-}
 
 function resolveTopic(res, arr, i) {
   const body = res.post_stream.posts[0].cooked;
@@ -188,13 +161,6 @@ function initializePlugin(api, component) {
         console.log('A nextCategory error occurred: ');
         console.log(e);
       });
-
-
-      // clock stuff
-      let deadline = new Date(2017, 2, 31, 12, 0, 0);
-      setTimeout(function() {
-          initializeClock('clockdiv', deadline);
-      }, 500);
     }
     else {
       renderPage = false;
