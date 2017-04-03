@@ -136,7 +136,7 @@ function initializePlugin(api, component) {
     switch (window.location.pathname) {
       case '/':
       case '/categories':
-        document.getElementById('main-outlet').style.display = 'none';
+        document.getElementById('main-outlet').style.display = 'block';
         break;
       default:
         document.getElementById('main-outlet').style.display = 'block';
