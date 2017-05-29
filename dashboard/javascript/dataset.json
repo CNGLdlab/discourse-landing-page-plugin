@@ -1,0 +1,1725 @@
+{
+    "stats": [
+        {
+            "id": 32,
+            "topic": "sport-at-dcu",
+            "topictotal": 17,
+            "acaStaff": {
+                "total": 2,
+                "percentage": "11.765"
+            },
+            "profStaff": {
+                "total": 3,
+                "percentage": "17.647"
+            },
+            "undergrad": {
+                "total": 8,
+                "percentage": "47.059"
+            },
+            "postgrad": {
+                "total": 4,
+                "percentage": "23.529"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 0,
+                "percentage": "0.000"
+            }
+        },
+        {
+            "id": 33,
+            "topic": "global-challenges-for-higher-education-a-conversation-with-steve-maharey",
+            "topictotal": 85,
+            "acaStaff": {
+                "total": 55,
+                "percentage": "64.706"
+            },
+            "profStaff": {
+                "total": 15,
+                "percentage": "17.647"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "1.176"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 14,
+                "percentage": "16.471"
+            }
+        },
+        {
+            "id": 21,
+            "topic": "continuing-the-conversation-research-and-innovation",
+            "topictotal": 121,
+            "acaStaff": {
+                "total": 66,
+                "percentage": "54.545"
+            },
+            "profStaff": {
+                "total": 19,
+                "percentage": "15.702"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.826"
+            },
+            "postgrad": {
+                "total": 7,
+                "percentage": "5.785"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 8,
+                "percentage": "6.612"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 20,
+                "percentage": "16.529"
+            }
+        },
+        {
+            "id": 34,
+            "topic": "continuing-the-conversation-learning-in-the-digital-age",
+            "topictotal": 111,
+            "acaStaff": {
+                "total": 72,
+                "percentage": "64.865"
+            },
+            "profStaff": {
+                "total": 14,
+                "percentage": "12.613"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.901"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.802"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 22,
+                "percentage": "19.820"
+            }
+        },
+        {
+            "id": 28,
+            "topic": "enhancing-the-environmental-sustainability-of-our-campuses",
+            "topictotal": 177,
+            "acaStaff": {
+                "total": 57,
+                "percentage": "32.203"
+            },
+            "profStaff": {
+                "total": 79,
+                "percentage": "44.633"
+            },
+            "undergrad": {
+                "total": 17,
+                "percentage": "9.605"
+            },
+            "postgrad": {
+                "total": 4,
+                "percentage": "2.260"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.565"
+            },
+            "other": {
+                "total": 19,
+                "percentage": "10.734"
+            }
+        },
+        {
+            "id": 27,
+            "topic": "dcu-civic-engagement",
+            "topictotal": 94,
+            "acaStaff": {
+                "total": 30,
+                "percentage": "31.915"
+            },
+            "profStaff": {
+                "total": 35,
+                "percentage": "37.234"
+            },
+            "undergrad": {
+                "total": 5,
+                "percentage": "5.319"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 21,
+                "percentage": "22.340"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "3.191"
+            }
+        },
+        {
+            "id": 30,
+            "topic": "diversifying-income-to-dcu",
+            "topictotal": 121,
+            "acaStaff": {
+                "total": 38,
+                "percentage": "31.405"
+            },
+            "profStaff": {
+                "total": 52,
+                "percentage": "42.975"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.653"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 5,
+                "percentage": "4.132"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.826"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 23,
+                "percentage": "19.008"
+            }
+        },
+        {
+            "id": 23,
+            "topic": "continuing-conversation-sustaining-our-alumni-relationships",
+            "topictotal": 32,
+            "acaStaff": {
+                "total": 4,
+                "percentage": "12.500"
+            },
+            "profStaff": {
+                "total": 13,
+                "percentage": "40.625"
+            },
+            "undergrad": {
+                "total": 2,
+                "percentage": "6.250"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 10,
+                "percentage": "31.250"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "9.375"
+            }
+        },
+        {
+            "id": 13,
+            "topic": "dcus-impact-on-the-social-and-cultural-life-of-north-dublin",
+            "topictotal": 172,
+            "acaStaff": {
+                "total": 61,
+                "percentage": "35.465"
+            },
+            "profStaff": {
+                "total": 49,
+                "percentage": "28.488"
+            },
+            "undergrad": {
+                "total": 39,
+                "percentage": "22.674"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.163"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 7,
+                "percentage": "4.070"
+            },
+            "partner": {
+                "total": 10,
+                "percentage": "5.814"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.581"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "1.744"
+            }
+        },
+        {
+            "id": 35,
+            "topic": "enriching-the-student-experience-a-conversation-with-maria-lambides",
+            "topictotal": 53,
+            "acaStaff": {
+                "total": 10,
+                "percentage": "18.868"
+            },
+            "profStaff": {
+                "total": 9,
+                "percentage": "16.981"
+            },
+            "undergrad": {
+                "total": 11,
+                "percentage": "20.755"
+            },
+            "postgrad": {
+                "total": 8,
+                "percentage": "15.094"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 15,
+                "percentage": "28.302"
+            }
+        },
+        {
+            "id": 20,
+            "topic": "enhancing-student-life-outside-the-lecture-theatre",
+            "topictotal": 267,
+            "acaStaff": {
+                "total": 28,
+                "percentage": "10.487"
+            },
+            "profStaff": {
+                "total": 119,
+                "percentage": "44.569"
+            },
+            "undergrad": {
+                "total": 59,
+                "percentage": "22.097"
+            },
+            "postgrad": {
+                "total": 28,
+                "percentage": "10.487"
+            },
+            "phd": {
+                "total": 8,
+                "percentage": "2.996"
+            },
+            "alum": {
+                "total": 11,
+                "percentage": "4.120"
+            },
+            "partner": {
+                "total": 1,
+                "percentage": "0.375"
+            },
+            "friend": {
+                "total": 5,
+                "percentage": "1.873"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 8,
+                "percentage": "2.996"
+            }
+        },
+        {
+            "id": 2,
+            "topic": "building-on-our-research-strengths",
+            "topictotal": 181,
+            "acaStaff": {
+                "total": 108,
+                "percentage": "59.669"
+            },
+            "profStaff": {
+                "total": 43,
+                "percentage": "23.757"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.552"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 1,
+                "percentage": "0.552"
+            },
+            "alum": {
+                "total": 18,
+                "percentage": "9.945"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.552"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 9,
+                "percentage": "4.972"
+            }
+        },
+        {
+            "id": 36,
+            "topic": "student-engagement-with-politics-and-society",
+            "topictotal": 99,
+            "acaStaff": {
+                "total": 41,
+                "percentage": "41.414"
+            },
+            "profStaff": {
+                "total": 8,
+                "percentage": "8.081"
+            },
+            "undergrad": {
+                "total": 12,
+                "percentage": "12.121"
+            },
+            "postgrad": {
+                "total": 13,
+                "percentage": "13.131"
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "2.020"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 7,
+                "percentage": "7.071"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "1.010"
+            },
+            "other": {
+                "total": 15,
+                "percentage": "15.152"
+            }
+        },
+        {
+            "id": 22,
+            "topic": "continuing-conversation-education-at-dcu",
+            "topictotal": 80,
+            "acaStaff": {
+                "total": 36,
+                "percentage": "45.000"
+            },
+            "profStaff": {
+                "total": 14,
+                "percentage": "17.500"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 6,
+                "percentage": "7.500"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 24,
+                "percentage": "30.000"
+            }
+        },
+        {
+            "id": 37,
+            "topic": "wrap-up-session-with-prof-brian-maccraith",
+            "topictotal": 48,
+            "acaStaff": {
+                "total": 25,
+                "percentage": "52.083"
+            },
+            "profStaff": {
+                "total": 12,
+                "percentage": "25.000"
+            },
+            "undergrad": {
+                "total": 3,
+                "percentage": "6.250"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "4.167"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "2.083"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "2.083"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "8.333"
+            }
+        },
+        {
+            "id": 19,
+            "topic": "developing-life-long-supportive-relationships-with-our-graduates",
+            "topictotal": 138,
+            "acaStaff": {
+                "total": 19,
+                "percentage": "13.768"
+            },
+            "profStaff": {
+                "total": 85,
+                "percentage": "61.594"
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "2.899"
+            },
+            "postgrad": {
+                "total": 8,
+                "percentage": "5.797"
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.174"
+            },
+            "alum": {
+                "total": 17,
+                "percentage": "12.319"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.449"
+            }
+        },
+        {
+            "id": 11,
+            "topic": "advancing-dcu-s-innovation-impact",
+            "topictotal": 134,
+            "acaStaff": {
+                "total": 25,
+                "percentage": "18.657"
+            },
+            "profStaff": {
+                "total": 87,
+                "percentage": "64.925"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.746"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 21,
+                "percentage": "15.672"
+            }
+        },
+        {
+            "id": 17,
+            "topic": "inclusion-widening-participation-in-education",
+            "topictotal": 242,
+            "acaStaff": {
+                "total": 108,
+                "percentage": "44.628"
+            },
+            "profStaff": {
+                "total": 48,
+                "percentage": "19.835"
+            },
+            "undergrad": {
+                "total": 29,
+                "percentage": "11.983"
+            },
+            "postgrad": {
+                "total": 3,
+                "percentage": "1.240"
+            },
+            "phd": {
+                "total": 4,
+                "percentage": "1.653"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 11,
+                "percentage": "4.545"
+            },
+            "guest": {
+                "total": 12,
+                "percentage": "4.959"
+            },
+            "other": {
+                "total": 27,
+                "percentage": "11.157"
+            }
+        },
+        {
+            "id": 25,
+            "topic": "supporting-dcu-researchers",
+            "topictotal": 125,
+            "acaStaff": {
+                "total": 56,
+                "percentage": "44.800"
+            },
+            "profStaff": {
+                "total": 34,
+                "percentage": "27.200"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 6,
+                "percentage": "4.800"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 16,
+                "percentage": "12.800"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 13,
+                "percentage": "10.400"
+            }
+        },
+        {
+            "id": 8,
+            "topic": "maximising-the-effectiveness-efficiency",
+            "topictotal": 142,
+            "acaStaff": {
+                "total": 48,
+                "percentage": "33.803"
+            },
+            "profStaff": {
+                "total": 90,
+                "percentage": "63.380"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "2.817"
+            }
+        },
+        {
+            "id": 1,
+            "topic": "opening-conversation-chaired-by-brian-maccraith-president-of-dcu",
+            "topictotal": 62,
+            "acaStaff": {
+                "total": 27,
+                "percentage": "43.548"
+            },
+            "profStaff": {
+                "total": 28,
+                "percentage": "45.161"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "1.613"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 4,
+                "percentage": "6.452"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "3.226"
+            }
+        },
+        {
+            "id": 5,
+            "topic": "dcu-digital-campus",
+            "topictotal": 130,
+            "acaStaff": {
+                "total": 18,
+                "percentage": "13.846"
+            },
+            "profStaff": {
+                "total": 87,
+                "percentage": "66.923"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.769"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 24,
+                "percentage": "18.462"
+            }
+        },
+        {
+            "id": 30,
+            "topic": "developing-our-campuses-2022-and-beyond",
+            "topictotal": 104,
+            "acaStaff": {
+                "total": 14,
+                "percentage": "13.462"
+            },
+            "profStaff": {
+                "total": 79,
+                "percentage": "75.962"
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "3.846"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "1.923"
+            },
+            "alum": {
+                "total": 2,
+                "percentage": "1.923"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "2.885"
+            }
+        },
+        {
+            "id": 4,
+            "topic": "enhancing-dcus-societal-impact",
+            "topictotal": 106,
+            "acaStaff": {
+                "total": 61,
+                "percentage": "57.547"
+            },
+            "profStaff": {
+                "total": 32,
+                "percentage": "30.189"
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.943"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.943"
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.830"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "2.830"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "4.717"
+            }
+        },
+        {
+            "id": 10,
+            "topic": "promoting-a-culture-of-sustainability-at-dcu",
+            "topictotal": 129,
+            "acaStaff": {
+                "total": 75,
+                "percentage": "58.140"
+            },
+            "profStaff": {
+                "total": 35,
+                "percentage": "27.132"
+            },
+            "undergrad": {
+                "total": 2,
+                "percentage": "1.550"
+            },
+            "postgrad": {
+                "total": 5,
+                "percentage": "3.876"
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.326"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "2.326"
+            },
+            "partner": {
+                "total": 1,
+                "percentage": "0.775"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.775"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "3.101"
+            }
+        },
+        {
+            "id": 6,
+            "topic": "developing-graduates-to-meet-21st-century-challenges",
+            "topictotal": 135,
+            "acaStaff": {
+                "total": 88,
+                "percentage": "65.185"
+            },
+            "profStaff": {
+                "total": 31,
+                "percentage": "22.963"
+            },
+            "undergrad": {
+                "total": 6,
+                "percentage": "4.444"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.741"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 6,
+                "percentage": "4.444"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "2.222"
+            }
+        },
+        {
+            "id": 12,
+            "topic": "enhancing-learning-through-technology",
+            "topictotal": 195,
+            "acaStaff": {
+                "total": 132,
+                "percentage": "67.692"
+            },
+            "profStaff": {
+                "total": 45,
+                "percentage": "23.077"
+            },
+            "undergrad": {
+                "total": 14,
+                "percentage": "7.179"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.513"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "0.513"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.026"
+            }
+        },
+        {
+            "id": 16,
+            "topic": "sport-and-wellness-at-dcu",
+            "topictotal": 182,
+            "acaStaff": {
+                "total": 9,
+                "percentage": "4.945"
+            },
+            "profStaff": {
+                "total": 121,
+                "percentage": "66.484"
+            },
+            "undergrad": {
+                "total": 37,
+                "percentage": "20.330"
+            },
+            "postgrad": {
+                "total": 3,
+                "percentage": "1.648"
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "1.648"
+            },
+            "alum": {
+                "total": 4,
+                "percentage": "2.198"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.549"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "2.198"
+            }
+        },
+        {
+            "id": 24,
+            "topic": "continuing-the-conversation-student-life-at-dcu",
+            "topictotal": 403,
+            "acaStaff": {
+                "total": 44,
+                "percentage": "10.918"
+            },
+            "profStaff": {
+                "total": 84,
+                "percentage": "20.844"
+            },
+            "undergrad": {
+                "total": 202,
+                "percentage": "50.124"
+            },
+            "postgrad": {
+                "total": 59,
+                "percentage": "14.640"
+            },
+            "phd": {
+                "total": 7,
+                "percentage": "1.737"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 2,
+                "percentage": "0.496"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "1.241"
+            }
+        },
+        {
+            "id": 15,
+            "topic": "the-new-dcu-student-centre",
+            "topictotal": 104,
+            "acaStaff": {
+                "total": 11,
+                "percentage": "10.577"
+            },
+            "profStaff": {
+                "total": 60,
+                "percentage": "57.692"
+            },
+            "undergrad": {
+                "total": 16,
+                "percentage": "15.385"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.962"
+            },
+            "phd": {
+                "total": 4,
+                "percentage": "3.846"
+            },
+            "alum": {
+                "total": 10,
+                "percentage": "9.615"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.923"
+            }
+        },
+        {
+            "id": 29,
+            "topic": "creating-a-staff-community",
+            "topictotal": 115,
+            "acaStaff": {
+                "total": 22,
+                "percentage": "19.130"
+            },
+            "profStaff": {
+                "total": 88,
+                "percentage": "76.522"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "0.870"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "3.478"
+            }
+        },
+        {
+            "id": 9,
+            "topic": "fostering-a-culture-of-creativity-at-dcu",
+            "topictotal": 90,
+            "acaStaff": {
+                "total": 48,
+                "percentage": "53.333"
+            },
+            "profStaff": {
+                "total": 26,
+                "percentage": "28.889"
+            },
+            "undergrad": {
+                "total": 8,
+                "percentage": "8.889"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "2.222"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "3.333"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "3.333"
+            }
+        },
+        {
+            "id": 14,
+            "topic": "the-global-student-experience",
+            "topictotal": 147,
+            "acaStaff": {
+                "total": 19,
+                "percentage": "12.925"
+            },
+            "profStaff": {
+                "total": 81,
+                "percentage": "55.102"
+            },
+            "undergrad": {
+                "total": 23,
+                "percentage": "15.646"
+            },
+            "postgrad": {
+                "total": 7,
+                "percentage": "4.762"
+            },
+            "phd": {
+                "total": 1,
+                "percentage": "0.680"
+            },
+            "alum": {
+                "total": 8,
+                "percentage": "5.442"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 8,
+                "percentage": "5.442"
+            }
+        },
+        {
+            "id": 26,
+            "topic": "international-engagement-students-institutions",
+            "topictotal": 122,
+            "acaStaff": {
+                "total": 51,
+                "percentage": "41.803"
+            },
+            "profStaff": {
+                "total": 61,
+                "percentage": "50.000"
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "3.279"
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.639"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 2,
+                "percentage": "1.639"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.639"
+            }
+        },
+        {
+            "id": 31,
+            "topic": "diversity-at-dcu-living-up-to-our-values",
+            "topictotal": 91,
+            "acaStaff": {
+                "total": 20,
+                "percentage": "21.978"
+            },
+            "profStaff": {
+                "total": 58,
+                "percentage": "63.736"
+            },
+            "undergrad": {
+                "total": 7,
+                "percentage": "7.692"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "1.099"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "5.495"
+            }
+        },
+        {
+            "id": 7,
+            "topic": "enhancing-the-working-environment",
+            "topictotal": 229,
+            "acaStaff": {
+                "total": 31,
+                "percentage": "13.537"
+            },
+            "profStaff": {
+                "total": 171,
+                "percentage": "74.672"
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.437"
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "1.310"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.437"
+            },
+            "guest": {
+                "total": 16,
+                "percentage": "6.987"
+            },
+            "other": {
+                "total": 6,
+                "percentage": "2.620"
+            }
+        },
+        {
+            "id": 18,
+            "topic": "an-ghaeilge-i-dcu",
+            "topictotal": 236,
+            "acaStaff": {
+                "total": 94,
+                "percentage": "39.831"
+            },
+            "profStaff": {
+                "total": 47,
+                "percentage": "19.915"
+            },
+            "undergrad": {
+                "total": 33,
+                "percentage": "13.983"
+            },
+            "postgrad": {
+                "total": 28,
+                "percentage": "11.864"
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "0.847"
+            },
+            "alum": {
+                "total": 5,
+                "percentage": "2.119"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 14,
+                "percentage": "5.932"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 13,
+                "percentage": "5.508"
+            }
+        },
+        {
+            "id": 3,
+            "topic": "optimising-the-student-learning-experience-at-dcu",
+            "topictotal": 451,
+            "acaStaff": {
+                "total": 240,
+                "percentage": "53.215"
+            },
+            "profStaff": {
+                "total": 103,
+                "percentage": "22.838"
+            },
+            "undergrad": {
+                "total": 57,
+                "percentage": "12.639"
+            },
+            "postgrad": {
+                "total": 12,
+                "percentage": "2.661"
+            },
+            "phd": {
+                "total": 11,
+                "percentage": "2.439"
+            },
+            "alum": {
+                "total": 26,
+                "percentage": "5.765"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "0.443"
+            }
+        }
+    ],
+    "total": 5470,
+    "acaStaff": 1893,
+    "profStaff": 2065,
+    "undergrad": 609,
+    "postgrad": 214,
+    "phd": 54,
+    "alum": 178,
+    "partner": 12,
+    "friend": 44,
+    "guest": 55,
+    "other": 346
+}

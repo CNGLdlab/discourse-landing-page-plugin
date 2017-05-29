@@ -1,0 +1,3701 @@
+{
+    "stats": [
+        {
+            "id": 32,
+            "topic": "sport-at-dcu",
+            "name": "Sport at DCU",
+            "type": "cross",
+            "topictotal": 17,
+            "acaStaff": {
+                "total": 2,
+                "percentage": "11.765",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 2
+                }
+            },
+            "profStaff": {
+                "total": 3,
+                "percentage": "17.647",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 3
+                }
+            },
+            "undergrad": {
+                "total": 8,
+                "percentage": "47.059",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 5,
+                    "fourty": 6,
+                    "sixty": 6,
+                    "eighty": 6,
+                    "hun": 6,
+                    "huntwenty": 7,
+                    "plus": 8
+                }
+            },
+            "postgrad": {
+                "total": 4,
+                "percentage": "23.529",
+                "timeline": {
+                    "zero": 3,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 4
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            }
+        },
+        {
+            "id": 33,
+            "topic": "global-challenges-for-higher-education-a-conversation-with-steve-maharey",
+            "name": "Global challenges for higher education a conversation with Steve Maharey",
+            "type": "international",
+            "topictotal": 85,
+            "acaStaff": {
+                "total": 55,
+                "percentage": "64.706",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 23,
+                    "fourty": 51,
+                    "sixty": 54,
+                    "eighty": 54,
+                    "hun": 55,
+                    "huntwenty": 55,
+                    "plus": 55
+                }
+            },
+            "profStaff": {
+                "total": 15,
+                "percentage": "17.647",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 13,
+                    "sixty": 14,
+                    "eighty": 15,
+                    "hun": 15,
+                    "huntwenty": 15,
+                    "plus": 15
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "1.176",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 14,
+                "percentage": "16.471",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 9,
+                    "fourty": 14,
+                    "sixty": 14,
+                    "eighty": 14,
+                    "hun": 14,
+                    "huntwenty": 14,
+                    "plus": 14
+                }
+            }
+        },
+        {
+            "id": 21,
+            "topic": "continuing-the-conversation-research-and-innovation",
+            "name": "Continuing the conversation: Research and Innovation",
+            "type": "research",
+            "topictotal": 121,
+            "acaStaff": {
+                "total": 66,
+                "percentage": "54.545",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 14,
+                    "fourty": 32,
+                    "sixty": 39,
+                    "eighty": 44,
+                    "hun": 45,
+                    "huntwenty": 47,
+                    "plus": 66
+                }
+            },
+            "profStaff": {
+                "total": 19,
+                "percentage": "15.702",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 4,
+                    "fourty": 8,
+                    "sixty": 11,
+                    "eighty": 12,
+                    "hun": 13,
+                    "huntwenty": 16,
+                    "plus": 19
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.826",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 7,
+                "percentage": "5.785",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 7
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 8,
+                "percentage": "6.612"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 20,
+                "percentage": "16.529",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 12,
+                    "fourty": 19,
+                    "sixty": 19,
+                    "eighty": 19,
+                    "hun": 19,
+                    "huntwenty": 19,
+                    "plus": 20
+                }
+            }
+        },
+        {
+            "id": 34,
+            "topic": "continuing-the-conversation-learning-in-the-digital-age",
+            "name": "Continuing the conversation: Learning in the Digital Age",
+            "type": "learning",
+            "topictotal": 111,
+            "acaStaff": {
+                "total": 72,
+                "percentage": "64.865",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 33,
+                    "fourty": 64,
+                    "sixty": 71,
+                    "eighty": 71,
+                    "hun": 71,
+                    "huntwenty": 71,
+                    "plus": 72
+                }
+            },
+            "profStaff": {
+                "total": 14,
+                "percentage": "12.613",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 11,
+                    "sixty": 14,
+                    "eighty": 14,
+                    "hun": 14,
+                    "huntwenty": 14,
+                    "plus": 14
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.901",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.802",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 22,
+                "percentage": "19.820",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 12,
+                    "fourty": 22,
+                    "sixty": 22,
+                    "eighty": 22,
+                    "hun": 22,
+                    "huntwenty": 22,
+                    "plus": 22
+                }
+            }
+        },
+        {
+            "id": 28,
+            "topic": "enhancing-the-environmental-sustainability-of-our-campuses",
+            "name": "Enhancing the environmental sustainability of our campuses",
+            "type": "sustainability",
+            "topictotal": 177,
+            "acaStaff": {
+                "total": 57,
+                "percentage": "32.203",
+                "timeline": {
+                    "zero": 4,
+                    "twenty": 19,
+                    "fourty": 28,
+                    "sixty": 36,
+                    "eighty": 43,
+                    "hun": 53,
+                    "huntwenty": 55,
+                    "plus": 57
+                }
+            },
+            "profStaff": {
+                "total": 79,
+                "percentage": "44.633",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 15,
+                    "fourty": 38,
+                    "sixty": 52,
+                    "eighty": 64,
+                    "hun": 77,
+                    "huntwenty": 78,
+                    "plus": 79
+                }
+            },
+            "undergrad": {
+                "total": 17,
+                "percentage": "9.605",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 10,
+                    "fourty": 15,
+                    "sixty": 15,
+                    "eighty": 17,
+                    "hun": 17,
+                    "huntwenty": 17,
+                    "plus": 17
+                }
+            },
+            "postgrad": {
+                "total": 4,
+                "percentage": "2.260",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 2,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.565"
+            },
+            "other": {
+                "total": 19,
+                "percentage": "10.734",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 13,
+                    "fourty": 17,
+                    "sixty": 17,
+                    "eighty": 17,
+                    "hun": 19,
+                    "huntwenty": 19,
+                    "plus": 19
+                }
+            }
+        },
+        {
+            "id": 27,
+            "topic": "dcu-civic-engagement",
+            "name": " DCU civic engagement",
+            "type": "engagement",
+            "topictotal": 94,
+            "acaStaff": {
+                "total": 30,
+                "percentage": "31.915",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 9,
+                    "fourty": 20,
+                    "sixty": 27,
+                    "eighty": 30,
+                    "hun": 30,
+                    "huntwenty": 30,
+                    "plus": 30
+                }
+            },
+            "profStaff": {
+                "total": 35,
+                "percentage": "37.234",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 16,
+                    "sixty": 24,
+                    "eighty": 34,
+                    "hun": 34,
+                    "huntwenty": 35,
+                    "plus": 35
+                }
+            },
+            "undergrad": {
+                "total": 5,
+                "percentage": "5.319",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 3,
+                    "sixty": 5,
+                    "eighty": 5,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 5
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 21,
+                "percentage": "22.340"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "3.191",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 30,
+            "topic": "diversifying-income-to-dcu",
+            "name": "Diversifying income to DCU",
+            "type": "sustainability",
+            "topictotal": 121,
+            "acaStaff": {
+                "total": 38,
+                "percentage": "31.405",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 21,
+                    "sixty": 32,
+                    "eighty": 38,
+                    "hun": 38,
+                    "huntwenty": 38,
+                    "plus": 38
+                }
+            },
+            "profStaff": {
+                "total": 52,
+                "percentage": "42.975",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 17,
+                    "fourty": 34,
+                    "sixty": 42,
+                    "eighty": 52,
+                    "hun": 52,
+                    "huntwenty": 52,
+                    "plus": 52
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.653",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 5,
+                "percentage": "4.132"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.826"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 23,
+                "percentage": "19.008",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 11,
+                    "sixty": 17,
+                    "eighty": 23,
+                    "hun": 23,
+                    "huntwenty": 23,
+                    "plus": 23
+                }
+            }
+        },
+        {
+            "id": 23,
+            "topic": "continuing-conversation-sustaining-our-alumni-relationships",
+            "name": "Continuing the conversation: Sustaining our alumni relationships",
+            "type": "international",
+            "topictotal": 32,
+            "acaStaff": {
+                "total": 4,
+                "percentage": "12.500",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 4
+                }
+            },
+            "profStaff": {
+                "total": 13,
+                "percentage": "40.625",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 4,
+                    "sixty": 4,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 5,
+                    "plus": 13
+                }
+            },
+            "undergrad": {
+                "total": 2,
+                "percentage": "6.250",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 10,
+                "percentage": "31.250"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "9.375",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 13,
+            "topic": "dcus-impact-on-the-social-and-cultural-life-of-north-dublin",
+            "name": "DCU's impact on the social and cultural life of North Dublin",
+            "type": "engagement",
+            "topictotal": 172,
+            "acaStaff": {
+                "total": 61,
+                "percentage": "35.465",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 19,
+                    "fourty": 30,
+                    "sixty": 42,
+                    "eighty": 48,
+                    "hun": 58,
+                    "huntwenty": 59,
+                    "plus": 61
+                }
+            },
+            "profStaff": {
+                "total": 49,
+                "percentage": "28.488",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 24,
+                    "fourty": 36,
+                    "sixty": 38,
+                    "eighty": 42,
+                    "hun": 46,
+                    "huntwenty": 46,
+                    "plus": 49
+                }
+            },
+            "undergrad": {
+                "total": 39,
+                "percentage": "22.674",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 19,
+                    "sixty": 28,
+                    "eighty": 31,
+                    "hun": 37,
+                    "huntwenty": 37,
+                    "plus": 39
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.163",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 7,
+                "percentage": "4.070"
+            },
+            "partner": {
+                "total": 10,
+                "percentage": "5.814"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.581"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "1.744",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 35,
+            "topic": "enriching-the-student-experience-a-conversation-with-maria-lambides",
+            "name": "Enriching the student experience a conversation with Maria Lambides",
+            "type": "lived",
+            "topictotal": 53,
+            "acaStaff": {
+                "total": 10,
+                "percentage": "18.868",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 8,
+                    "sixty": 9,
+                    "eighty": 9,
+                    "hun": 9,
+                    "huntwenty": 10,
+                    "plus": 10
+                }
+            },
+            "profStaff": {
+                "total": 9,
+                "percentage": "16.981",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 5,
+                    "fourty": 8,
+                    "sixty": 9,
+                    "eighty": 9,
+                    "hun": 9,
+                    "huntwenty": 9,
+                    "plus": 9
+                }
+            },
+            "undergrad": {
+                "total": 11,
+                "percentage": "20.755",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 9,
+                    "sixty": 11,
+                    "eighty": 11,
+                    "hun": 11,
+                    "huntwenty": 11,
+                    "plus": 11
+                }
+            },
+            "postgrad": {
+                "total": 8,
+                "percentage": "15.094",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 5,
+                    "sixty": 8,
+                    "eighty": 8,
+                    "hun": 8,
+                    "huntwenty": 8,
+                    "plus": 8
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 15,
+                "percentage": "28.302",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 9,
+                    "fourty": 13,
+                    "sixty": 15,
+                    "eighty": 15,
+                    "hun": 15,
+                    "huntwenty": 15,
+                    "plus": 15
+                }
+            }
+        },
+        {
+            "id": 20,
+            "topic": "enhancing-student-life-outside-the-lecture-theatre",
+            "name": "Enhancing student life outside the lecture theatre",
+            "type": "lived",
+            "topictotal": 267,
+            "acaStaff": {
+                "total": 28,
+                "percentage": "10.487",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 5,
+                    "fourty": 5,
+                    "sixty": 12,
+                    "eighty": 14,
+                    "hun": 15,
+                    "huntwenty": 17,
+                    "plus": 28
+                }
+            },
+            "profStaff": {
+                "total": 119,
+                "percentage": "44.569",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 23,
+                    "fourty": 33,
+                    "sixty": 45,
+                    "eighty": 51,
+                    "hun": 54,
+                    "huntwenty": 56,
+                    "plus": 119
+                }
+            },
+            "undergrad": {
+                "total": 59,
+                "percentage": "22.097",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 10,
+                    "fourty": 16,
+                    "sixty": 20,
+                    "eighty": 21,
+                    "hun": 25,
+                    "huntwenty": 31,
+                    "plus": 59
+                }
+            },
+            "postgrad": {
+                "total": 28,
+                "percentage": "10.487",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 3,
+                    "eighty": 5,
+                    "hun": 8,
+                    "huntwenty": 11,
+                    "plus": 28
+                }
+            },
+            "phd": {
+                "total": 8,
+                "percentage": "2.996"
+            },
+            "alum": {
+                "total": 11,
+                "percentage": "4.120"
+            },
+            "partner": {
+                "total": 1,
+                "percentage": "0.375"
+            },
+            "friend": {
+                "total": 5,
+                "percentage": "1.873"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 8,
+                "percentage": "2.996",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 4,
+                    "plus": 8
+                }
+            }
+        },
+        {
+            "id": 2,
+            "topic": "building-on-our-research-strengths",
+            "name": "Building on our research strengths",
+            "type": "research",
+            "topictotal": 181,
+            "acaStaff": {
+                "total": 108,
+                "percentage": "59.669",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 29,
+                    "fourty": 50,
+                    "sixty": 63,
+                    "eighty": 71,
+                    "hun": 86,
+                    "huntwenty": 92,
+                    "plus": 108
+                }
+            },
+            "profStaff": {
+                "total": 43,
+                "percentage": "23.757",
+                "timeline": {
+                    "zero": 1,
+                    "twenty": 10,
+                    "fourty": 25,
+                    "sixty": 30,
+                    "eighty": 32,
+                    "hun": 35,
+                    "huntwenty": 37,
+                    "plus": 43
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.552",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 1,
+                "percentage": "0.552"
+            },
+            "alum": {
+                "total": 18,
+                "percentage": "9.945"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.552"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 9,
+                "percentage": "4.972",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 6,
+                    "sixty": 6,
+                    "eighty": 6,
+                    "hun": 6,
+                    "huntwenty": 7,
+                    "plus": 9
+                }
+            }
+        },
+        {
+            "id": 36,
+            "topic": "student-engagement-with-politics-and-society",
+            "name": "Student engagement with politics and society",
+            "type": "engagement",
+            "topictotal": 99,
+            "acaStaff": {
+                "total": 41,
+                "percentage": "41.414",
+                "timeline": {
+                    "zero": 4,
+                    "twenty": 22,
+                    "fourty": 40,
+                    "sixty": 41,
+                    "eighty": 41,
+                    "hun": 41,
+                    "huntwenty": 41,
+                    "plus": 41
+                }
+            },
+            "profStaff": {
+                "total": 8,
+                "percentage": "8.081",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 5,
+                    "fourty": 8,
+                    "sixty": 8,
+                    "eighty": 8,
+                    "hun": 8,
+                    "huntwenty": 8,
+                    "plus": 8
+                }
+            },
+            "undergrad": {
+                "total": 12,
+                "percentage": "12.121",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 10,
+                    "sixty": 10,
+                    "eighty": 10,
+                    "hun": 10,
+                    "huntwenty": 10,
+                    "plus": 12
+                }
+            },
+            "postgrad": {
+                "total": 13,
+                "percentage": "13.131",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 10,
+                    "sixty": 10,
+                    "eighty": 10,
+                    "hun": 12,
+                    "huntwenty": 13,
+                    "plus": 13
+                }
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "2.020"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 7,
+                "percentage": "7.071"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "1.010"
+            },
+            "other": {
+                "total": 15,
+                "percentage": "15.152",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 12,
+                    "fourty": 15,
+                    "sixty": 15,
+                    "eighty": 15,
+                    "hun": 15,
+                    "huntwenty": 15,
+                    "plus": 15
+                }
+            }
+        },
+        {
+            "id": 22,
+            "topic": "continuing-conversation-education-at-dcu",
+            "name": "Continuing the conversation: Education at DCU",
+            "type": "learning",
+            "topictotal": 80,
+            "acaStaff": {
+                "total": 36,
+                "percentage": "45.000",
+                "timeline": {
+                    "zero": 4,
+                    "twenty": 13,
+                    "fourty": 35,
+                    "sixty": 36,
+                    "eighty": 36,
+                    "hun": 36,
+                    "huntwenty": 36,
+                    "plus": 36
+                }
+            },
+            "profStaff": {
+                "total": 14,
+                "percentage": "17.500",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 12,
+                    "sixty": 13,
+                    "eighty": 14,
+                    "hun": 14,
+                    "huntwenty": 14,
+                    "plus": 14
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 6,
+                "percentage": "7.500"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 24,
+                "percentage": "30.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 16,
+                    "fourty": 24,
+                    "sixty": 24,
+                    "eighty": 24,
+                    "hun": 24,
+                    "huntwenty": 24,
+                    "plus": 24
+                }
+            }
+        },
+        {
+            "id": 37,
+            "topic": "wrap-up-session-with-prof-brian-maccraith",
+            "name": "wrap up session with prof Brian Maccraith",
+            "type": "other",
+            "topictotal": 48,
+            "acaStaff": {
+                "total": 25,
+                "percentage": "52.083",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 24,
+                    "fourty": 25,
+                    "sixty": 25,
+                    "eighty": 25,
+                    "hun": 25,
+                    "huntwenty": 25,
+                    "plus": 25
+                }
+            },
+            "profStaff": {
+                "total": 12,
+                "percentage": "25.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 10,
+                    "fourty": 11,
+                    "sixty": 11,
+                    "eighty": 12,
+                    "hun": 12,
+                    "huntwenty": 12,
+                    "plus": 12
+                }
+            },
+            "undergrad": {
+                "total": 3,
+                "percentage": "6.250",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "4.167",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "2.083"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "2.083"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "8.333",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 4,
+                    "sixty": 4,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            }
+        },
+        {
+            "id": 19,
+            "topic": "developing-life-long-supportive-relationships-with-our-graduates",
+            "name": "Developing life long supportive relationships with our graduates",
+            "type": "cross",
+            "topictotal": 138,
+            "acaStaff": {
+                "total": 19,
+                "percentage": "13.768",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 3,
+                    "sixty": 6,
+                    "eighty": 8,
+                    "hun": 10,
+                    "huntwenty": 10,
+                    "plus": 19
+                }
+            },
+            "profStaff": {
+                "total": 85,
+                "percentage": "61.594",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 16,
+                    "fourty": 24,
+                    "sixty": 30,
+                    "eighty": 34,
+                    "hun": 36,
+                    "huntwenty": 36,
+                    "plus": 85
+                }
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "2.899",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 4
+                }
+            },
+            "postgrad": {
+                "total": 8,
+                "percentage": "5.797",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 2,
+                    "sixty": 4,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 8
+                }
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.174"
+            },
+            "alum": {
+                "total": 17,
+                "percentage": "12.319"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.449",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        },
+        {
+            "id": 11,
+            "topic": "advancing-dcu-s-innovation-impact",
+            "name": "Advancing DCU's innovation impact",
+            "type": "research",
+            "topictotal": 134,
+            "acaStaff": {
+                "total": 25,
+                "percentage": "18.657",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 10,
+                    "sixty": 15,
+                    "eighty": 18,
+                    "hun": 22,
+                    "huntwenty": 24,
+                    "plus": 25
+                }
+            },
+            "profStaff": {
+                "total": 87,
+                "percentage": "64.925",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 20,
+                    "fourty": 49,
+                    "sixty": 63,
+                    "eighty": 74,
+                    "hun": 80,
+                    "huntwenty": 83,
+                    "plus": 87
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.746",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 21,
+                "percentage": "15.672",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 4,
+                    "eighty": 12,
+                    "hun": 19,
+                    "huntwenty": 21,
+                    "plus": 21
+                }
+            }
+        },
+        {
+            "id": 17,
+            "topic": "inclusion-widening-participation-in-education",
+            "name": "Inclusion: Widening participation in education",
+            "type": "cross",
+            "topictotal": 242,
+            "acaStaff": {
+                "total": 108,
+                "percentage": "44.628",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 22,
+                    "fourty": 37,
+                    "sixty": 59,
+                    "eighty": 76,
+                    "hun": 93,
+                    "huntwenty": 99,
+                    "plus": 108
+                }
+            },
+            "profStaff": {
+                "total": 48,
+                "percentage": "19.835",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 13,
+                    "fourty": 24,
+                    "sixty": 38,
+                    "eighty": 40,
+                    "hun": 47,
+                    "huntwenty": 48,
+                    "plus": 48
+                }
+            },
+            "undergrad": {
+                "total": 29,
+                "percentage": "11.983",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 4,
+                    "fourty": 11,
+                    "sixty": 19,
+                    "eighty": 23,
+                    "hun": 25,
+                    "huntwenty": 25,
+                    "plus": 29
+                }
+            },
+            "postgrad": {
+                "total": 3,
+                "percentage": "1.240",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            },
+            "phd": {
+                "total": 4,
+                "percentage": "1.653"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 11,
+                "percentage": "4.545"
+            },
+            "guest": {
+                "total": 12,
+                "percentage": "4.959"
+            },
+            "other": {
+                "total": 27,
+                "percentage": "11.157",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 14,
+                    "sixty": 18,
+                    "eighty": 24,
+                    "hun": 27,
+                    "huntwenty": 27,
+                    "plus": 27
+                }
+            }
+        },
+        {
+            "id": 25,
+            "topic": "supporting-dcu-researchers",
+            "name": "Supporting DCU researchers",
+            "type": "research",
+            "topictotal": 125,
+            "acaStaff": {
+                "total": 56,
+                "percentage": "44.800",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 11,
+                    "fourty": 24,
+                    "sixty": 44,
+                    "eighty": 48,
+                    "hun": 55,
+                    "huntwenty": 56,
+                    "plus": 56
+                }
+            },
+            "profStaff": {
+                "total": 34,
+                "percentage": "27.200",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 9,
+                    "fourty": 19,
+                    "sixty": 28,
+                    "eighty": 30,
+                    "hun": 33,
+                    "huntwenty": 34,
+                    "plus": 34
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 6,
+                "percentage": "4.800",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 3,
+                    "sixty": 5,
+                    "eighty": 5,
+                    "hun": 6,
+                    "huntwenty": 6,
+                    "plus": 6
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 16,
+                "percentage": "12.800"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 13,
+                "percentage": "10.400",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 5,
+                    "eighty": 10,
+                    "hun": 12,
+                    "huntwenty": 13,
+                    "plus": 13
+                }
+            }
+        },
+        {
+            "id": 8,
+            "topic": "maximising-the-effectiveness-efficiency",
+            "name": "Maximising the effectiveness efficiency",
+            "type": "operational",
+            "topictotal": 142,
+            "acaStaff": {
+                "total": 48,
+                "percentage": "33.803",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 20,
+                    "fourty": 27,
+                    "sixty": 38,
+                    "eighty": 46,
+                    "hun": 48,
+                    "huntwenty": 48,
+                    "plus": 48
+                }
+            },
+            "profStaff": {
+                "total": 90,
+                "percentage": "63.380",
+                "timeline": {
+                    "zero": 4,
+                    "twenty": 28,
+                    "fourty": 59,
+                    "sixty": 72,
+                    "eighty": 82,
+                    "hun": 89,
+                    "huntwenty": 89,
+                    "plus": 90
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "2.817",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 3,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            }
+        },
+        {
+            "id": 1,
+            "topic": "opening-conversation-chaired-by-brian-maccraith-president-of-dcu",
+            "name": "Opening conversation chaired by Brian Maccraith president of DCU",
+            "type": "other",
+            "topictotal": 62,
+            "acaStaff": {
+                "total": 27,
+                "percentage": "43.548",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 26,
+                    "fourty": 27,
+                    "sixty": 27,
+                    "eighty": 27,
+                    "hun": 27,
+                    "huntwenty": 27,
+                    "plus": 27
+                }
+            },
+            "profStaff": {
+                "total": 28,
+                "percentage": "45.161",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 21,
+                    "fourty": 25,
+                    "sixty": 26,
+                    "eighty": 26,
+                    "hun": 26,
+                    "huntwenty": 26,
+                    "plus": 28
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "1.613",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 4,
+                "percentage": "6.452"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "3.226",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        },
+        {
+            "id": 5,
+            "topic": "dcu-digital-campus",
+            "name": "DCU digital campus",
+            "type": "operational",
+            "topictotal": 130,
+            "acaStaff": {
+                "total": 18,
+                "percentage": "13.846",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 11,
+                    "sixty": 16,
+                    "eighty": 18,
+                    "hun": 18,
+                    "huntwenty": 18,
+                    "plus": 18
+                }
+            },
+            "profStaff": {
+                "total": 87,
+                "percentage": "66.923",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 26,
+                    "fourty": 59,
+                    "sixty": 73,
+                    "eighty": 81,
+                    "hun": 85,
+                    "huntwenty": 85,
+                    "plus": 87
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.769",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 24,
+                "percentage": "18.462",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 13,
+                    "fourty": 20,
+                    "sixty": 24,
+                    "eighty": 24,
+                    "hun": 24,
+                    "huntwenty": 24,
+                    "plus": 24
+                }
+            }
+        },
+        {
+            "id": 30,
+            "topic": "developing-our-campuses-2022-and-beyond",
+            "name": "Developing our campuses 2022 and beyond",
+            "type": "operational",
+            "topictotal": 104,
+            "acaStaff": {
+                "total": 14,
+                "percentage": "13.462",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 7,
+                    "sixty": 12,
+                    "eighty": 12,
+                    "hun": 13,
+                    "huntwenty": 14,
+                    "plus": 14
+                }
+            },
+            "profStaff": {
+                "total": 79,
+                "percentage": "75.962",
+                "timeline": {
+                    "zero": 3,
+                    "twenty": 17,
+                    "fourty": 38,
+                    "sixty": 55,
+                    "eighty": 65,
+                    "hun": 78,
+                    "huntwenty": 79,
+                    "plus": 79
+                }
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "3.846",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 3,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "1.923"
+            },
+            "alum": {
+                "total": 2,
+                "percentage": "1.923"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "2.885",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 4,
+            "topic": "enhancing-dcus-societal-impact",
+            "name": "Enhancing DCU's societal impact",
+            "type": "engagement",
+            "topictotal": 106,
+            "acaStaff": {
+                "total": 61,
+                "percentage": "57.547",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 13,
+                    "fourty": 28,
+                    "sixty": 41,
+                    "eighty": 50,
+                    "hun": 53,
+                    "huntwenty": 54,
+                    "plus": 61
+                }
+            },
+            "profStaff": {
+                "total": 32,
+                "percentage": "30.189",
+                "timeline": {
+                    "zero": 3,
+                    "twenty": 8,
+                    "fourty": 16,
+                    "sixty": 21,
+                    "eighty": 25,
+                    "hun": 27,
+                    "huntwenty": 28,
+                    "plus": 32
+                }
+            },
+            "undergrad": {
+                "total": 1,
+                "percentage": "0.943",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.943",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.830"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "2.830"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "4.717",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 5
+                }
+            }
+        },
+        {
+            "id": 10,
+            "topic": "promoting-a-culture-of-sustainability-at-dcu",
+            "name": "Promoting a culture of sustainability at DCU",
+            "type": "sustainability",
+            "topictotal": 129,
+            "acaStaff": {
+                "total": 75,
+                "percentage": "58.140",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 26,
+                    "fourty": 48,
+                    "sixty": 52,
+                    "eighty": 66,
+                    "hun": 72,
+                    "huntwenty": 72,
+                    "plus": 75
+                }
+            },
+            "profStaff": {
+                "total": 35,
+                "percentage": "27.132",
+                "timeline": {
+                    "zero": 3,
+                    "twenty": 11,
+                    "fourty": 18,
+                    "sixty": 21,
+                    "eighty": 28,
+                    "hun": 30,
+                    "huntwenty": 30,
+                    "plus": 35
+                }
+            },
+            "undergrad": {
+                "total": 2,
+                "percentage": "1.550",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 2
+                }
+            },
+            "postgrad": {
+                "total": 5,
+                "percentage": "3.876",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 5
+                }
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "2.326"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "2.326"
+            },
+            "partner": {
+                "total": 1,
+                "percentage": "0.775"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.775"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "3.101",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            }
+        },
+        {
+            "id": 6,
+            "topic": "developing-graduates-to-meet-21st-century-challenges",
+            "name": "Developing graduates to meet 21st century challenges",
+            "type": "learning",
+            "topictotal": 135,
+            "acaStaff": {
+                "total": 88,
+                "percentage": "65.185",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 26,
+                    "fourty": 53,
+                    "sixty": 67,
+                    "eighty": 77,
+                    "hun": 85,
+                    "huntwenty": 85,
+                    "plus": 88
+                }
+            },
+            "profStaff": {
+                "total": 31,
+                "percentage": "22.963",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 12,
+                    "fourty": 19,
+                    "sixty": 25,
+                    "eighty": 30,
+                    "hun": 31,
+                    "huntwenty": 31,
+                    "plus": 31
+                }
+            },
+            "undergrad": {
+                "total": 6,
+                "percentage": "4.444",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 5,
+                    "sixty": 5,
+                    "eighty": 5,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 6
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.741",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 6,
+                "percentage": "4.444"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "2.222",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 12,
+            "topic": "enhancing-learning-through-technology",
+            "name": "Enhancing learning through technology",
+            "type": "learning",
+            "topictotal": 195,
+            "acaStaff": {
+                "total": 132,
+                "percentage": "67.692",
+                "timeline": {
+                    "zero": 7,
+                    "twenty": 27,
+                    "fourty": 50,
+                    "sixty": 78,
+                    "eighty": 111,
+                    "hun": 118,
+                    "huntwenty": 126,
+                    "plus": 132
+                }
+            },
+            "profStaff": {
+                "total": 45,
+                "percentage": "23.077",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 17,
+                    "sixty": 28,
+                    "eighty": 31,
+                    "hun": 35,
+                    "huntwenty": 42,
+                    "plus": 45
+                }
+            },
+            "undergrad": {
+                "total": 14,
+                "percentage": "7.179",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 8,
+                    "sixty": 10,
+                    "eighty": 10,
+                    "hun": 12,
+                    "huntwenty": 12,
+                    "plus": 14
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.513",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "0.513"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.026",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        },
+        {
+            "id": 16,
+            "topic": "sport-and-wellness-at-dcu",
+            "name": "Sport and wellness at DCU",
+            "type": "cross",
+            "topictotal": 182,
+            "acaStaff": {
+                "total": 9,
+                "percentage": "4.945",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 2,
+                    "sixty": 4,
+                    "eighty": 5,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 9
+                }
+            },
+            "profStaff": {
+                "total": 121,
+                "percentage": "66.484",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 38,
+                    "fourty": 71,
+                    "sixty": 103,
+                    "eighty": 112,
+                    "hun": 116,
+                    "huntwenty": 117,
+                    "plus": 121
+                }
+            },
+            "undergrad": {
+                "total": 37,
+                "percentage": "20.330",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 9,
+                    "sixty": 18,
+                    "eighty": 26,
+                    "hun": 26,
+                    "huntwenty": 28,
+                    "plus": 37
+                }
+            },
+            "postgrad": {
+                "total": 3,
+                "percentage": "1.648",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 3
+                }
+            },
+            "phd": {
+                "total": 3,
+                "percentage": "1.648"
+            },
+            "alum": {
+                "total": 4,
+                "percentage": "2.198"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 1,
+                "percentage": "0.549"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "2.198",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 3,
+                    "sixty": 4,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            }
+        },
+        {
+            "id": 24,
+            "topic": "continuing-the-conversation-student-life-at-dcu",
+            "name": "Continuing the conversation: Student life at DCU",
+            "type": "lived",
+            "topictotal": 403,
+            "acaStaff": {
+                "total": 44,
+                "percentage": "10.918",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 14,
+                    "sixty": 22,
+                    "eighty": 24,
+                    "hun": 28,
+                    "huntwenty": 32,
+                    "plus": 44
+                }
+            },
+            "profStaff": {
+                "total": 84,
+                "percentage": "20.844",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 13,
+                    "sixty": 20,
+                    "eighty": 21,
+                    "hun": 21,
+                    "huntwenty": 21,
+                    "plus": 84
+                }
+            },
+            "undergrad": {
+                "total": 202,
+                "percentage": "50.124",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 13,
+                    "fourty": 21,
+                    "sixty": 34,
+                    "eighty": 45,
+                    "hun": 51,
+                    "huntwenty": 54,
+                    "plus": 202
+                }
+            },
+            "postgrad": {
+                "total": 59,
+                "percentage": "14.640",
+                "timeline": {
+                    "zero": 1,
+                    "twenty": 6,
+                    "fourty": 10,
+                    "sixty": 13,
+                    "eighty": 15,
+                    "hun": 15,
+                    "huntwenty": 16,
+                    "plus": 59
+                }
+            },
+            "phd": {
+                "total": 7,
+                "percentage": "1.737"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 2,
+                "percentage": "0.496"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "1.241",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 5,
+                    "fourty": 5,
+                    "sixty": 5,
+                    "eighty": 5,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 5
+                }
+            }
+        },
+        {
+            "id": 15,
+            "topic": "the-new-dcu-student-centre",
+            "name": "The new DCU student centre",
+            "type": "lived",
+            "topictotal": 104,
+            "acaStaff": {
+                "total": 11,
+                "percentage": "10.577",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 5,
+                    "eighty": 6,
+                    "hun": 6,
+                    "huntwenty": 6,
+                    "plus": 11
+                }
+            },
+            "profStaff": {
+                "total": 60,
+                "percentage": "57.692",
+                "timeline": {
+                    "zero": 7,
+                    "twenty": 22,
+                    "fourty": 39,
+                    "sixty": 44,
+                    "eighty": 46,
+                    "hun": 52,
+                    "huntwenty": 52,
+                    "plus": 60
+                }
+            },
+            "undergrad": {
+                "total": 16,
+                "percentage": "15.385",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 4,
+                    "sixty": 7,
+                    "eighty": 7,
+                    "hun": 7,
+                    "huntwenty": 7,
+                    "plus": 16
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.962",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 4,
+                "percentage": "3.846"
+            },
+            "alum": {
+                "total": 10,
+                "percentage": "9.615"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.923",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        },
+        {
+            "id": 29,
+            "topic": "creating-a-staff-community",
+            "name": "Creating a staff community",
+            "type": "staff",
+            "topictotal": 115,
+            "acaStaff": {
+                "total": 22,
+                "percentage": "19.130",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 10,
+                    "fourty": 19,
+                    "sixty": 22,
+                    "eighty": 22,
+                    "hun": 22,
+                    "huntwenty": 22,
+                    "plus": 22
+                }
+            },
+            "profStaff": {
+                "total": 88,
+                "percentage": "76.522",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 39,
+                    "fourty": 72,
+                    "sixty": 88,
+                    "eighty": 88,
+                    "hun": 88,
+                    "huntwenty": 88,
+                    "plus": 88
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 1,
+                "percentage": "0.870"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 4,
+                "percentage": "3.478",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 3,
+                    "sixty": 4,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 4
+                }
+            }
+        },
+        {
+            "id": 9,
+            "topic": "fostering-a-culture-of-creativity-at-dcu",
+            "name": "Fostering a culture of creativity at DCU",
+            "type": "cross",
+            "topictotal": 90,
+            "acaStaff": {
+                "total": 48,
+                "percentage": "53.333",
+                "timeline": {
+                    "zero": 4,
+                    "twenty": 13,
+                    "fourty": 20,
+                    "sixty": 25,
+                    "eighty": 30,
+                    "hun": 34,
+                    "huntwenty": 34,
+                    "plus": 48
+                }
+            },
+            "profStaff": {
+                "total": 26,
+                "percentage": "28.889",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 8,
+                    "sixty": 14,
+                    "eighty": 17,
+                    "hun": 22,
+                    "huntwenty": 23,
+                    "plus": 26
+                }
+            },
+            "undergrad": {
+                "total": 8,
+                "percentage": "8.889",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 3,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 8
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "2.222",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "3.333"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 3,
+                "percentage": "3.333",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 3
+                }
+            }
+        },
+        {
+            "id": 14,
+            "topic": "the-global-student-experience",
+            "name": "The global student experience",
+            "type": "international",
+            "topictotal": 147,
+            "acaStaff": {
+                "total": 19,
+                "percentage": "12.925",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 13,
+                    "sixty": 16,
+                    "eighty": 17,
+                    "hun": 18,
+                    "huntwenty": 18,
+                    "plus": 19
+                }
+            },
+            "profStaff": {
+                "total": 81,
+                "percentage": "55.102",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 26,
+                    "fourty": 47,
+                    "sixty": 56,
+                    "eighty": 68,
+                    "hun": 73,
+                    "huntwenty": 77,
+                    "plus": 81
+                }
+            },
+            "undergrad": {
+                "total": 23,
+                "percentage": "15.646",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 6,
+                    "sixty": 9,
+                    "eighty": 12,
+                    "hun": 13,
+                    "huntwenty": 15,
+                    "plus": 23
+                }
+            },
+            "postgrad": {
+                "total": 7,
+                "percentage": "4.762",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 3,
+                    "sixty": 5,
+                    "eighty": 6,
+                    "hun": 7,
+                    "huntwenty": 7,
+                    "plus": 7
+                }
+            },
+            "phd": {
+                "total": 1,
+                "percentage": "0.680"
+            },
+            "alum": {
+                "total": 8,
+                "percentage": "5.442"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 8,
+                "percentage": "5.442",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 5,
+                    "sixty": 6,
+                    "eighty": 7,
+                    "hun": 7,
+                    "huntwenty": 8,
+                    "plus": 8
+                }
+            }
+        },
+        {
+            "id": 26,
+            "topic": "international-engagement-students-institutions",
+            "name": "International engagement students institutions",
+            "type": "international",
+            "topictotal": 122,
+            "acaStaff": {
+                "total": 51,
+                "percentage": "41.803",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 19,
+                    "fourty": 32,
+                    "sixty": 46,
+                    "eighty": 51,
+                    "hun": 51,
+                    "huntwenty": 51,
+                    "plus": 51
+                }
+            },
+            "profStaff": {
+                "total": 61,
+                "percentage": "50.000",
+                "timeline": {
+                    "zero": 6,
+                    "twenty": 26,
+                    "fourty": 36,
+                    "sixty": 46,
+                    "eighty": 61,
+                    "hun": 61,
+                    "huntwenty": 61,
+                    "plus": 61
+                }
+            },
+            "undergrad": {
+                "total": 4,
+                "percentage": "3.279",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 1,
+                    "eighty": 3,
+                    "hun": 3,
+                    "huntwenty": 3,
+                    "plus": 4
+                }
+            },
+            "postgrad": {
+                "total": 2,
+                "percentage": "1.639",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 2,
+                "percentage": "1.639"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "1.639",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        },
+        {
+            "id": 31,
+            "topic": "diversity-at-dcu-living-up-to-our-values",
+            "name": "Diversity at DCU living up to our values",
+            "type": "cross",
+            "topictotal": 91,
+            "acaStaff": {
+                "total": 20,
+                "percentage": "21.978",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 6,
+                    "fourty": 9,
+                    "sixty": 15,
+                    "eighty": 16,
+                    "hun": 20,
+                    "huntwenty": 20,
+                    "plus": 20
+                }
+            },
+            "profStaff": {
+                "total": 58,
+                "percentage": "63.736",
+                "timeline": {
+                    "zero": 7,
+                    "twenty": 24,
+                    "fourty": 37,
+                    "sixty": 52,
+                    "eighty": 56,
+                    "hun": 58,
+                    "huntwenty": 58,
+                    "plus": 58
+                }
+            },
+            "undergrad": {
+                "total": 7,
+                "percentage": "7.692",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 3,
+                    "eighty": 6,
+                    "hun": 7,
+                    "huntwenty": 7,
+                    "plus": 7
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "1.099",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 5,
+                "percentage": "5.495",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 3,
+                    "sixty": 3,
+                    "eighty": 5,
+                    "hun": 5,
+                    "huntwenty": 5,
+                    "plus": 5
+                }
+            }
+        },
+        {
+            "id": 7,
+            "topic": "enhancing-the-working-environment",
+            "name": "Enhancing the working environment",
+            "type": "staff",
+            "topictotal": 229,
+            "acaStaff": {
+                "total": 31,
+                "percentage": "13.537",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 11,
+                    "fourty": 19,
+                    "sixty": 23,
+                    "eighty": 27,
+                    "hun": 28,
+                    "huntwenty": 30,
+                    "plus": 31
+                }
+            },
+            "profStaff": {
+                "total": 171,
+                "percentage": "74.672",
+                "timeline": {
+                    "zero": 5,
+                    "twenty": 45,
+                    "fourty": 84,
+                    "sixty": 112,
+                    "eighty": 135,
+                    "hun": 153,
+                    "huntwenty": 168,
+                    "plus": 171
+                }
+            },
+            "undergrad": {
+                "total": 0,
+                "percentage": "0.000",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 0,
+                    "eighty": 0,
+                    "hun": 0,
+                    "huntwenty": 0,
+                    "plus": 0
+                }
+            },
+            "postgrad": {
+                "total": 1,
+                "percentage": "0.437",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 1,
+                    "fourty": 1,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 1,
+                    "plus": 1
+                }
+            },
+            "phd": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "alum": {
+                "total": 3,
+                "percentage": "1.310"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 1,
+                "percentage": "0.437"
+            },
+            "guest": {
+                "total": 16,
+                "percentage": "6.987"
+            },
+            "other": {
+                "total": 6,
+                "percentage": "2.620",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 3,
+                    "eighty": 4,
+                    "hun": 4,
+                    "huntwenty": 4,
+                    "plus": 6
+                }
+            }
+        },
+        {
+            "id": 18,
+            "topic": "an-ghaeilge-i-dcu",
+            "name": "An Ghaeilge i DCU",
+            "type": "cross",
+            "topictotal": 236,
+            "acaStaff": {
+                "total": 94,
+                "percentage": "39.831",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 15,
+                    "fourty": 33,
+                    "sixty": 43,
+                    "eighty": 48,
+                    "hun": 61,
+                    "huntwenty": 78,
+                    "plus": 94
+                }
+            },
+            "profStaff": {
+                "total": 47,
+                "percentage": "19.915",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 11,
+                    "fourty": 21,
+                    "sixty": 24,
+                    "eighty": 26,
+                    "hun": 33,
+                    "huntwenty": 39,
+                    "plus": 47
+                }
+            },
+            "undergrad": {
+                "total": 33,
+                "percentage": "13.983",
+                "timeline": {
+                    "zero": 2,
+                    "twenty": 9,
+                    "fourty": 15,
+                    "sixty": 20,
+                    "eighty": 23,
+                    "hun": 31,
+                    "huntwenty": 31,
+                    "plus": 33
+                }
+            },
+            "postgrad": {
+                "total": 28,
+                "percentage": "11.864",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 7,
+                    "fourty": 11,
+                    "sixty": 17,
+                    "eighty": 18,
+                    "hun": 23,
+                    "huntwenty": 27,
+                    "plus": 28
+                }
+            },
+            "phd": {
+                "total": 2,
+                "percentage": "0.847"
+            },
+            "alum": {
+                "total": 5,
+                "percentage": "2.119"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 14,
+                "percentage": "5.932"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 13,
+                "percentage": "5.508",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 6,
+                    "sixty": 8,
+                    "eighty": 8,
+                    "hun": 8,
+                    "huntwenty": 8,
+                    "plus": 13
+                }
+            }
+        },
+        {
+            "id": 3,
+            "topic": "optimising-the-student-learning-experience-at-dcu",
+            "name": "Optimising the student learning experience at DCU",
+            "type": "learning",
+            "topictotal": 451,
+            "acaStaff": {
+                "total": 240,
+                "percentage": "53.215",
+                "timeline": {
+                    "zero": 7,
+                    "twenty": 51,
+                    "fourty": 103,
+                    "sixty": 150,
+                    "eighty": 162,
+                    "hun": 181,
+                    "huntwenty": 193,
+                    "plus": 240
+                }
+            },
+            "profStaff": {
+                "total": 103,
+                "percentage": "22.838",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 14,
+                    "fourty": 44,
+                    "sixty": 64,
+                    "eighty": 74,
+                    "hun": 88,
+                    "huntwenty": 93,
+                    "plus": 103
+                }
+            },
+            "undergrad": {
+                "total": 57,
+                "percentage": "12.639",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 3,
+                    "fourty": 9,
+                    "sixty": 18,
+                    "eighty": 29,
+                    "hun": 32,
+                    "huntwenty": 35,
+                    "plus": 57
+                }
+            },
+            "postgrad": {
+                "total": 12,
+                "percentage": "2.661",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 0,
+                    "fourty": 0,
+                    "sixty": 1,
+                    "eighty": 1,
+                    "hun": 1,
+                    "huntwenty": 3,
+                    "plus": 12
+                }
+            },
+            "phd": {
+                "total": 11,
+                "percentage": "2.439"
+            },
+            "alum": {
+                "total": 26,
+                "percentage": "5.765"
+            },
+            "partner": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "friend": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "guest": {
+                "total": 0,
+                "percentage": "0.000"
+            },
+            "other": {
+                "total": 2,
+                "percentage": "0.443",
+                "timeline": {
+                    "zero": 0,
+                    "twenty": 2,
+                    "fourty": 2,
+                    "sixty": 2,
+                    "eighty": 2,
+                    "hun": 2,
+                    "huntwenty": 2,
+                    "plus": 2
+                }
+            }
+        }
+    ],
+    "total": 5470,
+    "acaStaff": 1893,
+    "profStaff": 2065,
+    "undergrad": 609,
+    "postgrad": 214,
+    "phd": 54,
+    "alum": 178,
+    "partner": 12,
+    "friend": 44,
+    "guest": 55,
+    "other": 346
+}

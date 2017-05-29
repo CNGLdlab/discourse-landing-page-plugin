@@ -1,0 +1,92 @@
+a.sidebar-toggle {
+    color: white;
+}
+
+.main-header a.sidebar-toggle:hover {
+    color: #72afd2;
+}
+
+a {
+    color: black;
+}
+
+li > a:hover,
+li > a:active,
+li > a:focus{
+    color: rgba(23,41,84, 0.9)
+}
+
+.header {
+    color: rgb(23,41,84);
+}
+
+.sidebar-menu .treeview-menu > li > a {
+    white-space: normal;
+    margin-top: 5px;
+    display: block;
+    word-wrap: break-word;
+    line-height: 1.5em;
+    /*background-color: rgb(241,100,171);
+    color: white;
+    margin-right: 5px;
+    border-radius: 8px;*/
+}
+
+.sidebar-menu .treeview-menu > li > a ::before{
+    content: "1. "
+}
+
+.logo-img > img{
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 40px;
+}
+
+.logo-img-mini > img {
+    height: auto; 
+    width: auto; 
+    max-width: 40px; 
+    max-height: 40px;
+}
+
+img.smallicon {
+    width: 15px;
+    height: 15px;
+}
+
+.treeview-title {
+    background-color: antiquewhite !important;
+}
+
+.sidebar-menu>li>.treeview-menu1 {
+    background-color: rgba(245,158,201, .4);
+}
+.sidebar-menu>li>.treeview-menu2 {
+    background-color: rgba(147,140,166, .4);
+}
+.sidebar-menu>li>.treeview-menu3 {
+    background-color: rgba(255,245,51, .4);
+}
+.sidebar-menu>li>.treeview-menu4 {
+    background-color: rgba(242,174,49, .4);
+}
+.sidebar-menu>li>.treeview-menu5 {
+    background-color: rgba(237,42,40, .4);
+}
+.sidebar-menu>li>.treeview-menu6 {
+    background-color: rgba(237,61,150, .4);
+}
+.sidebar-menu>li>.treeview-menu7 {
+    background-color: rgba(103,0,133, .4);
+}
+.sidebar-menu>li>.treeview-menu8 {
+    background-color: rgba(37,36,84, .4);
+}
+.sidebar-menu>li>.treeview-menu9 {
+    background-color: rgba(39,161,211, .4);
+}
+
+body > div > aside > section > ul > li > a:nth-child(0) > span {
+    background-color: antiquewhite !important;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="icon" sizes="144x144" href="../img/fav.png">
+  <title>Fuse</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Bootstrap 3.3.6 -->
+  <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="../css/AdminLTE.css">
+  <link rel="stylesheet" href="../css/fuse.css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+
+  <header class="main-header">
+    <!-- Logo -->
+    <div class="logo" style="background-color: #ed3d96; color:white;">
+      <!-- mini logo for sidebar mini 50x50 pixels -->
+      <span class="logo-mini logo-img-mini"><img src="../img/fuse-small.png"></img></span>
+      <!-- logo for regular state and mobile devices -->
+      <span class="logo-lg logo-img"><img src="../img/fuse.png"></img></span>
+    </div>
+    <!-- Header Navbar: style can be found in header.less -->
+    <nav class="navbar navbar-static-top" style="background-color: #ed3d96;">
+
+    </nav>
+  </header>
+  <!-- Left side column. contains the logo and sidebar -->
+  <aside class="main-sidebar" style="background-color: white">
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+      <ul class="sidebar-menu">
+        <li class="header"><h4>MAIN NAVIGATION</h4></li>
+        <div style="padding: 12px 5px 12px 15px;">
+          <a href="../index.html">
+            <span>Graphs</span>
+          </a>
+        </div>
+        <div style="padding: 12px 5px 12px 15px;">
+          <a href="/views/LDA_Visualization.html">
+            <span>LDA Visuals</span>
+          </a>
+        </div>
+        <li class="header"><h4>Downloads<h4></li>
+        <div style="padding: 12px 5px 12px 15px;">
+          <a href="/img/Infographic.pdf" target="_blank">
+            <span>Infographic</span>
+          </a>
+        </div>
+        <li class="treeview">
+          <a href="#">
+            <span>Sentiment</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+          <ul class="treeview-menu">
+            <li><a href="/javascript/sentiment/positive.txt" target="_blank">Positive Sentiment</a></li>
+            <li><a href="/javascript/sentiment/neutral.txt" target="_blank">Neutral Sentiment</a></li>
+            <li><a href="/javascript/sentiment/negative.txt" target="_blank">Negative Sentiment</a></li>
+            <li><a href="/javascript/sentiment/uninteresting.txt" target="_blank">No Sentiment</a></li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper" style="height: 962px;">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>
+        DCUFuse
+        <small>Statistics</small>
+        <span><h1 style="font-size: 24px; display: inline; margin-left:30px">Hierarchical Dirichlet Process</h1></span>
+      </h1>
+    </section>
+
+    <section class="content">
+
+       <div class="col-md-12" style="padding:0px">
+          <!-- Pi CHART -->
+          <div class="box box-fuse" style="border-top-color: #ed3d96;">
+            <div class="box-header with-border">
+
+              <div class="box-tools pull-right">
+                <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+                </button>
+                <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+              </div>
+            </div>
+            <div class="box-body">
+              <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
+              <div id="ldavis_el7051245120927529435716328"></div>
+            </div>
+            <!-- /.box-body -->
+          </div>
+          <!-- /.box -->
+
+       </div>
+    </section>
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+      <div style="margin: 10px 0px 10px 0;">
+        <div style="display:inline-block">
+            <div style="margin: 11px 0;">
+                <a href="https://www.facebook.com/DCU" target="_blank">
+                    <img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/facebook-icon.jpg">
+                </a>
+            
+                <a href="https://twitter.com/dublincityuni/" target="_blank">
+                    <img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/twitter-icon.jpg">
+                </a>
+            
+                <a href="http://www.youtube.com/user/DublinCityUniversity" target="_blank">
+                    <img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/youtube-icon.jpg">
+                </a>
+                <a href="https://www.instagram.com/dublincityuniversity/" target="_blank">
+                    <img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/Multi-Color_Logo_thumbnail26.png">
+                </a>
+            </div>
+        </div>
+        <div id="footer_logo" style="float: right;border-left: 1px #919191 solid;">
+            <a href="http://www.adaptcentre.ie/" style="margin: 30px;" title=""><img src="../img/adapt.png"></a>
+            <a href="http://www.esf.ie/" style="margin: 30px;" title=""><img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/Irelands-EU-S-IFP-2014-2020.jpg" width="92" height="26"></a>
+            <a href="http://www.esf.ie/" style="margin: 30px;" title=""><img src="https://www.dcu.ie/sites/all/themes/dcu_responsive/images/eu_image.jpg"></a>
+        </div>
+    </div>
+    </footer>
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery 2.2.3 -->
+<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.3.6 -->
+<script src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+<!-- AdminLTE App -->
+<script src="../javascript/app.min.js"></script>
+<!-- HDP scripts and data -->
+<script type="text/javascript">
+
+var ldavis_el7051245120927529435716328_data // load json data here.
+
+function LDAvis_load_lib(url, callback){
+  var s = document.createElement('script');
+  s.src = url;
+  s.async = true;
+  s.onreadystatechange = s.onload = callback;
+  s.onerror = function(){console.warn("failed to load library " + url);};
+  document.getElementsByTagName("head")[0].appendChild(s);
+}
+
+
+ $.getJSON('../javascript/HDP.json', function(data){
+   ldavis_el7051245120927529435716328_data = data;
+   if(typeof(LDAvis) !== "undefined"){
+      // already loaded: just create the visualization
+      !function(LDAvis){
+          new LDAvis("#" + "ldavis_el7051245120927529435716328", ldavis_el7051245120927529435716328_data);
+      }(LDAvis);
+   }else if(typeof define === "function" && define.amd){
+      // require.js is available: use it to load d3/LDAvis
+      require.config({paths: {d3: "https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min"}});
+      require(["d3"], function(d3){
+          window.d3 = d3;
+          LDAvis_load_lib("https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.js", function(){
+            new LDAvis("#" + "ldavis_el7051245120927529435716328", ldavis_el7051245120927529435716328_data);
+          });
+        });
+   }else{
+        // require.js not available: dynamically load d3 & LDAvis
+        LDAvis_load_lib("https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js", function(){
+            LDAvis_load_lib("https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.js", function(){
+                    new LDAvis("#" + "ldavis_el7051245120927529435716328", ldavis_el7051245120927529435716328_data);
+                })
+            });
+   }
+ });
+</script>
+
+</body>
+</html>

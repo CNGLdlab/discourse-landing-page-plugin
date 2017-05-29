@@ -1,0 +1,5454 @@
+[
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Hussain, "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "maharey.co.nz "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Home "
+    },
+    {
+        "id": 0.5,
+        "content": "  "
+    },
+    {
+        "id": 0.5,
+        "content": "Steve Maharey "
+    },
+    {
+        "id": 0.5,
+        "content": "Governance. Commentator. Consultant. "
+    },
+    {
+        "id": 0.5,
+        "content": "  "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.linkedin.com/in/hon-steve-maharey-1b687739/ "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "maharey.co.nz "
+    },
+    {
+        "id": 0.5,
+        "content": "Steve's Twitter handle here for those tweeting... "
+    },
+    {
+        "id": 0.5,
+        "content": "@SteveMaharey "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "But educating is a political act, isn't it? "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "TrevorHolmes: "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "steve_maharey: "
+    },
+    {
+        "id": 0.5,
+        "content": "@Joe_O_Hara I think that is key, it is about teamwork and collaboration "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi its Greg Hughes here. "
+    },
+    {
+        "id": 0.5,
+        "content": "ruth_freeman: "
+    },
+    {
+        "id": 0.5,
+        "content": "Claireoc: "
+    },
+    {
+        "id": 0.5,
+        "content": "Is a new research prioritisation exercise on the cards? "
+    },
+    {
+        "id": 0.5,
+        "content": "Te "
+    },
+    {
+        "id": 0.5,
+        "content": "ruth_freeman: "
+    },
+    {
+        "id": 0.5,
+        "content": "ruth_freeman: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ditto!Thank you @ruth_freeman "
+    },
+    {
+        "id": 0.5,
+        "content": "ruth_freeman: "
+    },
+    {
+        "id": 0.5,
+        "content": "Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "Will get in touch offline to follow up with you.  Safe travels! "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "meetup.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Dublin PubhD Meetup "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "And we have lots of these!! "
+    },
+    {
+        "id": 0.5,
+        "content": "We're going to send an all-staff/PG email for April tomorrow. "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_011402.jpg2560x1440 1.04 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "David_Sinclair: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://linkresearchlab.org/about/staff/00:00 Friday: "
+    },
+    {
+        "id": 0.5,
+        "content": "Follow George on Twitter @gsiemens "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello everyone "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "linkresearchlab.org "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "LINK Research Lab "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "We could call this 'The Midnight Byte'!! "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www4.dcu.ie/nidl/people/advisory-board.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "All that in a short discussion thread! "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "When you say you treat the university as a \"student\" what do you mean by this ?? "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Brunton: "
+    },
+    {
+        "id": 0.5,
+        "content": "Indeed it does "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "Deirdre_Butler: "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "university is the learning agent, "
+    },
+    {
+        "id": 0.5,
+        "content": "George how does this concept differ from the university being a learning organisation? (or organisation for you) "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "From the student perspective "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "Enda_Donlon: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "openeducationeuropa.eu "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "PreparingDigitalUniversity.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "1419.75 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Eamon_Costello: "
+    },
+    {
+        "id": 0.5,
+        "content": "George do you have any final comments to share before I know you need to leave us? "
+    },
+    {
+        "id": 0.5,
+        "content": "Deirdre_Butler: "
+    },
+    {
+        "id": 0.5,
+        "content": "LEARNING "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "This is what is key "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "Go to bed. "
+    },
+    {
+        "id": 0.5,
+        "content": "https://project2021.utexas.edu/ "
+    },
+    {
+        "id": 0.5,
+        "content": "learning to be "
+    },
+    {
+        "id": 0.5,
+        "content": "learning to know "
+    },
+    {
+        "id": 0.5,
+        "content": "learning to do "
+    },
+    {
+        "id": 0.5,
+        "content": "learning to live together "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Glynn: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark "
+    },
+    {
+        "id": 0.5,
+        "content": "Triona_Barrow: "
+    },
+    {
+        "id": 0.5,
+        "content": "SamFahy: "
+    },
+    {
+        "id": 0.5,
+        "content": "paddy_woodworth: "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg869x595 62.4 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "charlotte.holland: "
+    },
+    {
+        "id": 0.5,
+        "content": "image.png3042x56 5.89 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "SamFahy: "
+    },
+    {
+        "id": 0.5,
+        "content": "paddy_woodworth: "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg3264x2448 1.03 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "@SamFahy It hasn't been for the last week for us country commuters! "
+    },
+    {
+        "id": 0.5,
+        "content": "belli: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mary "
+    },
+    {
+        "id": 0.5,
+        "content": "You can also follow their observations on Twitter! -  #mg334 "
+    },
+    {
+        "id": 0.5,
+        "content": "Barry "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sam, "
+    },
+    {
+        "id": 0.5,
+        "content": "paddy_woodworth: "
+    },
+    {
+        "id": 0.5,
+        "content": "Bernard: "
+    },
+    {
+        "id": 0.5,
+        "content": "paddy_woodworth: "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Price: "
+    },
+    {
+        "id": 0.5,
+        "content": "belli: "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Price: "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU is signed up to https://www.carsharing.ie "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5210.PNG1334x750 749 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5211.PNG750x1334 385 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5209.PNG750x1334 806 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "@SamFahy @Brian_McDonnell "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Lovatt: "
+    },
+    {
+        "id": 0.5,
+        "content": "I agree that there need to be general waste and recycling bins across the campus. "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Price: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi  Samantha, I know Saorla, we are fellow beekeepers. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU should provide a working from home policy "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Cummins: "
+    },
+    {
+        "id": 0.5,
+        "content": "SamFahy: "
+    },
+    {
+        "id": 0.5,
+        "content": "Orla "
+    },
+    {
+        "id": 0.5,
+        "content": "@Paul_Price "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Fiona, "
+    },
+    {
+        "id": 0.5,
+        "content": "Over to ye! "
+    },
+    {
+        "id": 0.5,
+        "content": "Maybe you can tell us what you think of DCU in the Community both as physical centre in Ballymun and as a concept denoting what DCU does and might do in terms of engagement locally? "
+    },
+    {
+        "id": 0.5,
+        "content": "Triona_Barrow: "
+    },
+    {
+        "id": 0.5,
+        "content": "Deiric_O_Broin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Rogers: "
+    },
+    {
+        "id": 0.5,
+        "content": "we could co-create with the local community in terms of purpose, content etc? "
+    },
+    {
+        "id": 0.5,
+        "content": "Christine, "
+    },
+    {
+        "id": 0.5,
+        "content": "Could local libraries be an extension of DCU? The Communiversity programme with Maynooth takes place in Northside Library. "
+    },
+    {
+        "id": 0.5,
+        "content": "Christine, "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_RogersCould local libraries be an extension of DCU? The Communiversity programme with Maynooth takes place in Northside Library. "
+    },
+    {
+        "id": 0.5,
+        "content": "TksRonnie "
+    },
+    {
+        "id": 0.5,
+        "content": "Andrew_Montague: "
+    },
+    {
+        "id": 0.5,
+        "content": "george_siemens: "
+    },
+    {
+        "id": 0.5,
+        "content": "Eamonn they can get paid personally for the extra effort and through official paye system. "
+    },
+    {
+        "id": 0.5,
+        "content": "Morning Ciaran, "
+    },
+    {
+        "id": 0.5,
+        "content": "The HEA recently undertook a consultation in relation to the review of the current funding  model for Higher Education InstitutionsHEA consultation http://hea.ie/sites/default/files/final_rfam_consultation.pdfScoping paper http://www.hea.ie/en/funding/funding-review "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Eamonn, "
+    },
+    {
+        "id": 0.5,
+        "content": "graham_love: "
+    },
+    {
+        "id": 0.5,
+        "content": "Graham, That's and interesting point.  One of the interesting discussions we have had at the DCU Brexit group is the need for DCU to have an active presence on the issue in the media and elsewhere. "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_105150.jpg2560x1440 1.35 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "There was an interesting proposal in this mornings IT on one of the knock-on effects from BREXIT with the relocation of high net worth individuals to Ireland and the need for expensive private primary and secondary schooling for their children. In DCU we have an excellent location between the financial centres and airport.This is potentially a huge growth area that could be tapped into. "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "irishtimes.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "South Dublin institute will be aimed at the children of multinational executives "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Lovatt: "
+    },
+    {
+        "id": 0.5,
+        "content": "Maybe an early meeting between the IUA and the IFA is required?!!(Ag)Tech transfer! "
+    },
+    {
+        "id": 0.5,
+        "content": "(Agreed)exp2!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Anne:-) "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Padraig, "
+    },
+    {
+        "id": 0.5,
+        "content": "We did recently, on foot of visits to three cities in St Patrick's week, discuss the idea of a 'US approach' so it is a further stimulus to hear you mention it. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Padraig, "
+    },
+    {
+        "id": 0.5,
+        "content": "Ronan_Murphy: "
+    },
+    {
+        "id": 0.5,
+        "content": "q&amp;a or virtual networking "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sylvia, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sylvia, "
+    },
+    {
+        "id": 0.5,
+        "content": "For those alumni living overseas you or your family members can continue your study online through DCU Connected. See... "
+    },
+    {
+        "id": 0.5,
+        "content": "http://connected.dcu.ie "
+    },
+    {
+        "id": 0.5,
+        "content": "Sean "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sidharth, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Paula, "
+    },
+    {
+        "id": 0.5,
+        "content": "Michaela_Gaffney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Aisling, "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian_MacCraith: "
+    },
+    {
+        "id": 0.5,
+        "content": "Michaela_Gaffney: "
+    },
+    {
+        "id": 0.5,
+        "content": "No problem Aisling, I'd love to be involved if it's something that you choose to do. "
+    },
+    {
+        "id": 0.5,
+        "content": "Do staff and students know about it though ? "
+    },
+    {
+        "id": 0.5,
+        "content": "Michaela_Gaffney: "
+    },
+    {
+        "id": 0.5,
+        "content": "No problem Aisling, I'd love to be involved if it's something that you choose to do. "
+    },
+    {
+        "id": 0.5,
+        "content": "Sean_Germaine: "
+    },
+    {
+        "id": 0.5,
+        "content": "Kim_Sweeney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Do staff and students know about it though ? "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.merrionstreet.ie/en/News-Room/Releases/GovernmentResponds_Comprehensively_to_Mulvey_Report_Recommendations_for_North_East_Inner_City.html_ "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "twitter.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Jack Hyland (hylanjac) "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "I feel that CoderDojo DCU used to be a lot better. The space we have (over the canteen) was great for a while but over the last year or so, it has filled up with old kitchen equipment which is making it an unpleasant environment. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hear, hear! "
+    },
+    {
+        "id": 0.5,
+        "content": "The School of Nursing and Human Sciences have a programme in Homelessness prevention and intervention for key workers in the homeless services. Many of these students come from the Dublin North West area. "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne_D: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Yvonne:We have a programme at DCU on Homeless Prevention and Intervention.https://www4.dcu.ie/courses/undergraduate/snhs/homeless-prevention-and-intervention.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "centre exterior.jpg800x600 59 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "we can do this through dcu in the community ok "
+    },
+    {
+        "id": 0.5,
+        "content": "Jamie_Stephen_Farrel: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "edu.google.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Yeah- it's hard to do homework without a kitchen table. "
+    },
+    {
+        "id": 0.5,
+        "content": "That sounds like a good way to tackle a few of the issues raised simultaneously! "
+    },
+    {
+        "id": 0.5,
+        "content": "I was just thinking that. "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "irishtimes.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "There is a challenger proramme running on the St Patrick's Campus doing this "
+    },
+    {
+        "id": 0.5,
+        "content": "Oops programme "
+    },
+    {
+        "id": 0.5,
+        "content": "You would have so many volunteers if you did that! "
+    },
+    {
+        "id": 0.5,
+        "content": "no box ticking, agreed! "
+    },
+    {
+        "id": 0.5,
+        "content": "Our schedule of speakers through the night: "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "dylanxo: "
+    },
+    {
+        "id": 0.5,
+        "content": "dylanxo: "
+    },
+    {
+        "id": 0.5,
+        "content": "Philip_Early: "
+    },
+    {
+        "id": 0.5,
+        "content": "dylanxo: "
+    },
+    {
+        "id": 0.5,
+        "content": "Abigail: "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Rachel_Keegan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Louise_Mc_Larnon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Joanne_Ozarowska: "
+    },
+    {
+        "id": 0.5,
+        "content": "Some Universities in the UK are subscribed to this service for out of hours IT and Library support:http://www.outofhourshelp.ac.uk/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ciaran, "
+    },
+    {
+        "id": 0.5,
+        "content": "Local101: "
+    },
+    {
+        "id": 0.5,
+        "content": "Jennifer_Reynolds: "
+    },
+    {
+        "id": 0.5,
+        "content": "Martin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Martina_Durkin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aine_C: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mike, "
+    },
+    {
+        "id": 0.5,
+        "content": "\"In the documents provided to councillors, Dublin City Council pointed out that the South East Area had 47% of the bike stations but only 25% of the advertising units.On the whole, the north side of Dublin City had 59% of the advertising hoardings but only 35% of the bike stations.\" "
+    },
+    {
+        "id": 0.5,
+        "content": "from http://www.thejournal.ie/dublin-bikes-row-2977594-Sep2016/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Basically we''re getting the adverts not the bike stations! "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "There isn't as much activities in All Hallows' or st pats campus's in comparison to dcu campus maybe this could be changed in the future "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU have a series of 'Graduate Attributes', which describe some common characteristics that all DCU graduates will have. "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.dcu.ie/generation21/graduateattributes.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "Will do Claire "
+    },
+    {
+        "id": 0.5,
+        "content": "Owen_Fitzpatrick: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "Thanks,Rebecca "
+    },
+    {
+        "id": 0.5,
+        "content": "Rebecca_Fenlon: "
+    },
+    {
+        "id": 0.5,
+        "content": "library pic.jpg2656x1494 1.29 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "And... pizza just arrived! "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Deirdre, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Claire, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Rebecca, "
+    },
+    {
+        "id": 0.5,
+        "content": "Carmel "
+    },
+    {
+        "id": 0.5,
+        "content": "The likes of CoderDojo is very intimidating for non coders. "
+    },
+    {
+        "id": 0.5,
+        "content": "Do you mean allowing the course to be finished over extra years? "
+    },
+    {
+        "id": 0.5,
+        "content": "@DaireKeogh just as the  arrives "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sumair, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "@AaronMcLoughlin "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Darren, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg, "
+    },
+    {
+        "id": 0.5,
+        "content": "Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Joe, "
+    },
+    {
+        "id": 0.5,
+        "content": "We ran a matchmaker event last year in DCU and there will be another one with industry in April.. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi James, "
+    },
+    {
+        "id": 0.5,
+        "content": "Alan "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Charlotte, "
+    },
+    {
+        "id": 0.5,
+        "content": "And perhaps look at short, medium and long term impacts? "
+    },
+    {
+        "id": 0.5,
+        "content": "Lisa_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Charlotte, "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian_MacCraith: "
+    },
+    {
+        "id": 0.5,
+        "content": "@Alan_Smeaton @Miles_Turner Do you have any suggestions about initiatives DCU could implement to bridge this divide? "
+    },
+    {
+        "id": 0.5,
+        "content": "Miles_Turner: "
+    },
+    {
+        "id": 0.5,
+        "content": "Greg, "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Conroy: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ana_Terres: "
+    },
+    {
+        "id": 0.5,
+        "content": "joe_duffy: "
+    },
+    {
+        "id": 0.5,
+        "content": "Neil_Farren: "
+    },
+    {
+        "id": 0.5,
+        "content": "My undergraduate class showed no interest in student politics. We only had class reps in Second Year because the head of our course asked us to elect people. "
+    },
+    {
+        "id": 0.5,
+        "content": "joe_duffy: "
+    },
+    {
+        "id": 0.5,
+        "content": "Community week "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.thecompleteuniversityguide.co.uk/news/university-course-comparison-website-goes-live/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Triona_Barrow: "
+    },
+    {
+        "id": 0.5,
+        "content": "David Cameron didn't get involved in student politics ! Who? #whereishenow "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi All "
+    },
+    {
+        "id": 0.5,
+        "content": "The DCU Gospel Choir in action! "
+    },
+    {
+        "id": 0.5,
+        "content": "gospel choir.jpg2420x1361 862 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Our schedule of speakers through the night: "
+    },
+    {
+        "id": 0.5,
+        "content": "david_lloyd: "
+    },
+    {
+        "id": 0.5,
+        "content": ". "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi David, "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Colum,The majority of our students are on campus, but we are founders of Open Universities Australia - which grew out of correspondence programs to become our online channel. We have a number of programs which are mixed mode - 'external' in our parlance, where there's a combination of online and face to face delivery "
+    },
+    {
+        "id": 0.5,
+        "content": "David, "
+    },
+    {
+        "id": 0.5,
+        "content": "Eamon "
+    },
+    {
+        "id": 0.5,
+        "content": "david_lloyd: "
+    },
+    {
+        "id": 0.5,
+        "content": "My short answer - by listening "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "david_lloyd: "
+    },
+    {
+        "id": 0.5,
+        "content": "but you do need to connect the cohorts and their sense of identity as DCU students "
+    },
+    {
+        "id": 0.5,
+        "content": "david_lloyd: "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.tutor.com "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi David, "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://w3.unisa.edu.au/tiu/TEACHING/Learning_analytics/Learning-Analytics.htm "
+    },
+    {
+        "id": 0.5,
+        "content": "This is a theme that has bubbled up in a number of Fuse conversations. Maybe Fuse itself is a part of the answer to the questions it is posing. We have had on campus students, remote Irish students and students from PNU Saudi Arabia all connecting around this event. Building digital bridges between different cohorts to re-conceptualize the idea of the student experience seems to be an emergent theme. "
+    },
+    {
+        "id": 0.5,
+        "content": "david_lloyd: "
+    },
+    {
+        "id": 0.5,
+        "content": "George Seimens "
+    },
+    {
+        "id": 0.5,
+        "content": "David, "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian_MacCraith: "
+    },
+    {
+        "id": 0.5,
+        "content": "Tks, Ronnie "
+    },
+    {
+        "id": 0.5,
+        "content": "Posts:   5,400 "
+    },
+    {
+        "id": 0.5,
+        "content": "Page Views:  68,800k "
+    },
+    {
+        "id": 0.5,
+        "content": "The centrality of the overall student experience is very evident here!! "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Corcoran: "
+    },
+    {
+        "id": 0.5,
+        "content": "I agree.Thanks Chris. "
+    },
+    {
+        "id": 0.5,
+        "content": "Very - let's start with International! "
+    },
+    {
+        "id": 0.5,
+        "content": "How long will analysis take? "
+    },
+    {
+        "id": 0.5,
+        "content": "Eithne_Guilfoyle: "
+    },
+    {
+        "id": 0.5,
+        "content": "Lisa_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "Gemma_Hogan: "
+    },
+    {
+        "id": 0.5,
+        "content": "@James_Brunton do you find that new students know what 'alumni' are or do you have to introduce the whole concept to them? "
+    },
+    {
+        "id": 0.5,
+        "content": "How did you find out about those groups Gemma - through communications from DCU's Alumni office or more informal networks/word of mouth? "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.tcd.ie/alumni/groups/ "
+    },
+    {
+        "id": 0.5,
+        "content": "James, are there any plans to re-introduce the alumni mentorship programme? "
+    },
+    {
+        "id": 0.5,
+        "content": "Nathalie.Walker: "
+    },
+    {
+        "id": 0.5,
+        "content": "If we are thinking of the same thing this runs every year? "
+    },
+    {
+        "id": 0.5,
+        "content": "DWynter: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sarah and @Declan_Raftery "
+    },
+    {
+        "id": 0.5,
+        "content": "Declan_Raftery: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://connected.dcu.ie "
+    },
+    {
+        "id": 0.5,
+        "content": "Annabella_Stover: "
+    },
+    {
+        "id": 0.5,
+        "content": "Annabella_Stover: "
+    },
+    {
+        "id": 0.5,
+        "content": "DWynter: "
+    },
+    {
+        "id": 0.5,
+        "content": "Alan_Smeaton: "
+    },
+    {
+        "id": 0.5,
+        "content": "Up for that "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig_McKeon: "
+    },
+    {
+        "id": 0.5,
+        "content": "learning... or just recapture a bit of your youth "
+    },
+    {
+        "id": 0.5,
+        "content": "Michele_Pringle: "
+    },
+    {
+        "id": 0.5,
+        "content": "A post was merged into an existing topic: Continuing conversation: Sustaining our Alumni relationships "
+    },
+    {
+        "id": 0.5,
+        "content": "Folks - we are moving over now to the overnight 'Continuing Conversation: Sustaining our alumni relationships'. "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Richard, "
+    },
+    {
+        "id": 0.5,
+        "content": "Richard_Stokes: "
+    },
+    {
+        "id": 0.5,
+        "content": "HI Eamonn "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ana, Richard, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "Ronan, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ger, "
+    },
+    {
+        "id": 0.5,
+        "content": "Ciaran_Dunne: "
+    },
+    {
+        "id": 0.5,
+        "content": "Any effort to commercialise DCU IP should be embraced.... "
+    },
+    {
+        "id": 0.5,
+        "content": "And what can the companies offer to DCU? "
+    },
+    {
+        "id": 0.5,
+        "content": "Richard_Stokes: "
+    },
+    {
+        "id": 0.5,
+        "content": "a TCD study by Brian Lucey said we were ahead of the field "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "Danny "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian "
+    },
+    {
+        "id": 0.5,
+        "content": "think 'Advisory Board as a Service' "
+    },
+    {
+        "id": 0.5,
+        "content": "Richard "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian "
+    },
+    {
+        "id": 0.5,
+        "content": "Stipend...career break.....funding to prototype or visit potential customers ...could we set up a universtity fund...our skin in the game!. "
+    },
+    {
+        "id": 0.5,
+        "content": "Eamonn "
+    },
+    {
+        "id": 0.5,
+        "content": "UIIN conference in Dublin in June "
+    },
+    {
+        "id": 0.5,
+        "content": "Danny "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Eithne. "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Should we be starting earlier - in primary school for example "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy_Kelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "Patrick "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps a foundation programme offered in conjunction with an FET? "
+    },
+    {
+        "id": 0.5,
+        "content": "What "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Anne, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Anne, "
+    },
+    {
+        "id": 0.5,
+        "content": "Exactly, education is diverse hence the need for a diversity in the differently methodologies and types of teachers. "
+    },
+    {
+        "id": 0.5,
+        "content": "Audrey "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.strath.ac.uk/studywithus/centreforlifelonglearning/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy "
+    },
+    {
+        "id": 0.5,
+        "content": "https://academy.moodle.net/institution/dublin-city-university/head-start-online-2017 "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Anne, "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "ec.europa.eu "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Cathy, I will do that. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Michaela, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Fiona, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Billy, "
+    },
+    {
+        "id": 0.5,
+        "content": "-Richard "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Michaela, "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Brunton: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.hea.ie/sites/default/files/hea-progression-irish-higher-education_final.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi everyone, "
+    },
+    {
+        "id": 0.5,
+        "content": "Could you draw on some of your own recent research to the impact of widening participation in HE through online distance learning programmes? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Joe, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi @Lorraine_Delaney , "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "irishexaminer.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Ana_Terres: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ana, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Rachel, "
+    },
+    {
+        "id": 0.5,
+        "content": "It's all about the "
+    },
+    {
+        "id": 0.5,
+        "content": "Gerry_McNamara: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Rachel, "
+    },
+    {
+        "id": 0.5,
+        "content": "Greg_Hughes: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ana_Terres: "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_105349.jpg2560x1440 1.33 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Nicholas_Dunne: "
+    },
+    {
+        "id": 0.5,
+        "content": "Is there an argument here for expanding the role of the hubs? "
+    },
+    {
+        "id": 0.5,
+        "content": "The answer to the last question these @Mark.Roantree is the million dollar question! "
+    },
+    {
+        "id": 0.5,
+        "content": "Ana_Terres: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ana/Greg "
+    },
+    {
+        "id": 0.5,
+        "content": "That's being looked at, @Joey_Decourcey "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello to all, "
+    },
+    {
+        "id": 0.5,
+        "content": "PJ_Byrne: "
+    },
+    {
+        "id": 0.5,
+        "content": "Do you have examples of this from your own recent experience, John? "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Gaffney: "
+    },
+    {
+        "id": 0.5,
+        "content": "David, this is key. "
+    },
+    {
+        "id": 0.5,
+        "content": "Aisling_McKenna: "
+    },
+    {
+        "id": 0.5,
+        "content": "Op Ex Mission - Imperial.png512x511 48.1 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Ciaran_McGivern: "
+    },
+    {
+        "id": 0.5,
+        "content": "Technology is only the enabler. "
+    },
+    {
+        "id": 0.5,
+        "content": "As an extension the aims and objectives for this unit are: "
+    },
+    {
+        "id": 0.5,
+        "content": "Op Ex Aims Objs - Imperial.png1003x541 85.9 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "PJ_Byrne: "
+    },
+    {
+        "id": 0.5,
+        "content": "PJ_Byrne: "
+    },
+    {
+        "id": 0.5,
+        "content": "fixedvsgrowth-670x821.jpg.jpg769x942 281 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "@Aisling_McKenna I don't think it's an approach that should be ruled out at the very least "
+    },
+    {
+        "id": 0.5,
+        "content": "An example of UCDs filter mechanism "
+    },
+    {
+        "id": 0.5,
+        "content": "Isn't that so important and perhaps what has caused the problems in the gardaí!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Michelle_Smyth: "
+    },
+    {
+        "id": 0.5,
+        "content": "See UU also https://www.ulster.ac.uk/fiveandfifty/operational-excellence "
+    },
+    {
+        "id": 0.5,
+        "content": "In other cases, however, it's been who's available/whose arm can be twisted/who hasn't seemed to be on a committee in a while. "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "afr.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello Julie, Michele here, one of Declan's team for this session. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Julie, "
+    },
+    {
+        "id": 0.5,
+        "content": "image.png1194x3058 1 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Declan "
+    },
+    {
+        "id": 0.5,
+        "content": "this is where the discipline of Design comes in "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Samatha "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Michele "
+    },
+    {
+        "id": 0.5,
+        "content": "20170330_120322 (1).jpg4128x3096 2.85 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Michele_Pringle: "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU manage the proliferation of devices. "
+    },
+    {
+        "id": 0.5,
+        "content": "Device standards and interoperability - Can we provide the same services to Windows/Mac/Linux/iOS/Android/Commodore 64 "
+    },
+    {
+        "id": 0.5,
+        "content": "joris: "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU Fuse.JPG2016x1512 441 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Joris "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "uniwise.dk "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Ciaran_McGivern: "
+    },
+    {
+        "id": 0.5,
+        "content": "utilisation of technology "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Rory_O_Connor: "
+    },
+    {
+        "id": 0.5,
+        "content": "@Barbara_McConalogue - a multi campus environment - automating manual transactions.  How do we address this? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ger "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne, "
+    },
+    {
+        "id": 0.5,
+        "content": "Ger "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian "
+    },
+    {
+        "id": 0.5,
+        "content": "We might give some thought to identifying informal spaces in our buildings? "
+    },
+    {
+        "id": 0.5,
+        "content": "I've previously written about this here: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "libfocus.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "@krnbrk  what do you mean by 'recreational realities'.  I understand the garda comment "
+    },
+    {
+        "id": 0.5,
+        "content": "Jack_Hyland: "
+    },
+    {
+        "id": 0.5,
+        "content": "Is it the journey or the destination ?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ian - the pilot is for a stationless scheme (reduced costs with no need for street furniture/infrastructure) which would be an alternative to the Dublin Bikes but it is a shared bike scheme so would operate similarly "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "theguardian.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Uber for bikes: how 'dockless' cycles flooded China – and are heading overseas "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Power nap pods? "
+    },
+    {
+        "id": 0.5,
+        "content": "@Gerard_McEvoy "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5212.PNG1334x750 713 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne, "
+    },
+    {
+        "id": 0.5,
+        "content": "Michael_Burke: "
+    },
+    {
+        "id": 0.5,
+        "content": "Collins AVE site (over-flow carpark) "
+    },
+    {
+        "id": 0.5,
+        "content": "Campus development should also focus on connectivity between GLA, SPD and AH. Is there scope to create a walking route through Albert College Park to SPD? "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy, "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_110213.jpg2560x1440 2.1 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "We are working on a permeability plan that links all the campuses "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg469x631 171 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "ore seating areas outside "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg700x441 104 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "authoritynutrition.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Does SPC have squat racks? "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Screen Shot 2017-03-31 at 11.34.43.png1856x1046 1.85 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Image our proposed public realm design and ideas for the Mall on the Glasnevin campus "
+    },
+    {
+        "id": 0.5,
+        "content": "Gerard_McEvoy: "
+    },
+    {
+        "id": 0.5,
+        "content": "public realm design and ideas for the Mall on the Glasnevin campus "
+    },
+    {
+        "id": 0.5,
+        "content": "Fab can't wait to see it ! "
+    },
+    {
+        "id": 0.5,
+        "content": "A need for a second glasnevin library. "
+    },
+    {
+        "id": 0.5,
+        "content": "A recreational area or garden are in the mall area in front of the Lonsdale and library building. "
+    },
+    {
+        "id": 0.5,
+        "content": "Extension of the interfaith. "
+    },
+    {
+        "id": 0.5,
+        "content": "Remodelling of the mall area "
+    },
+    {
+        "id": 0.5,
+        "content": "Ronaldo_Munck: "
+    },
+    {
+        "id": 0.5,
+        "content": "Grainne_Mooney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi John, "
+    },
+    {
+        "id": 0.5,
+        "content": "Moign, Padraig, "
+    },
+    {
+        "id": 0.5,
+        "content": "https://academy.moodle.net/institution/dublin-city-university "
+    },
+    {
+        "id": 0.5,
+        "content": "John "
+    },
+    {
+        "id": 0.5,
+        "content": "PB_FIG33_media_11jan2015_web2.jpg750x320 26 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Barry, "
+    },
+    {
+        "id": 0.5,
+        "content": "Sam "
+    },
+    {
+        "id": 0.5,
+        "content": "David_Robbins: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "un.org "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Chris_Ahearn: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Chris - we do - on the Glasnevin Campus we have a 1.6 acre organic garden for use by all DCU staff student and our local community  - we are also start small beds starting on the St. Patricks and All Hallows Campus "
+    },
+    {
+        "id": 0.5,
+        "content": "Ciaran_Dunne: "
+    },
+    {
+        "id": 0.5,
+        "content": "CommGardenStuffJuly15.jpg879x655 87.1 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Do you compost trash items as well? "
+    },
+    {
+        "id": 0.5,
+        "content": "In the QS rankings, University of Cambridge is probably ranked #1 or #2 in the World "
+    },
+    {
+        "id": 0.5,
+        "content": "Are there any plans to shorten the walk between St. Pats and the Glasnevin campus? "
+    },
+    {
+        "id": 0.5,
+        "content": "Barry, "
+    },
+    {
+        "id": 0.5,
+        "content": "Arizona State has a School of Sustainability...just sayin' "
+    },
+    {
+        "id": 0.5,
+        "content": "Screen Shot 2017-03-30 at 15.52.03.png1019x839 630 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Richard_Bolger: "
+    },
+    {
+        "id": 0.5,
+        "content": "Are there any plans to shorten the walk between St. Pats and the Glasnevin campus? "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg529x712 206 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "1angela: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi @Veronica_Crosbie - "
+    },
+    {
+        "id": 0.5,
+        "content": "Veronica_Crosbie: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi @charlotte.holland - "
+    },
+    {
+        "id": 0.5,
+        "content": "Just picking up on this comment: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all - "
+    },
+    {
+        "id": 0.5,
+        "content": "Hey @charlotte.holland - "
+    },
+    {
+        "id": 0.5,
+        "content": "Hey @Mahon_Macnamara - "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello Barry, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi @charlotte.holland "
+    },
+    {
+        "id": 0.5,
+        "content": "charlotte.holland: "
+    },
+    {
+        "id": 0.5,
+        "content": "Of course there is also the possibity of \"strategic recruitment\" of new staff (in theory at least!). "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi @Michael_Cronin - "
+    },
+    {
+        "id": 0.5,
+        "content": "image.png956x340 47.2 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Barry. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Barry &amp; everyone, "
+    },
+    {
+        "id": 0.5,
+        "content": "smoke-free campus &amp; "
+    },
+    {
+        "id": 0.5,
+        "content": "A brief survey for staff &amp; students is live at the moment until tomorrow evening - http://bit.ly/DCU_MG334 "
+    },
+    {
+        "id": 0.5,
+        "content": "You can also follow the observations of Business &amp; Society students on Twitter - #MG334 "
+    },
+    {
+        "id": 0.5,
+        "content": "Many thanksDeirdre "
+    },
+    {
+        "id": 0.5,
+        "content": "20170330_195307.jpg1440x2560 1.68 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Cite Reference: BCIT 2017 "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "commons.bcit.ca "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "B.RAINWATER HARVESTING SYSTEM in each faculty buildings! "
+    },
+    {
+        "id": 0.5,
+        "content": "SamFahy: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "We could go a step further !! "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "theguardian.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "UK's first 'poo bus' goes into regular service "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU plan to pilot a new stationless bike sharing scheme over the coming academic year where staff/students can find and book a bike via a smartphone app - keep an eye out for the introduction of DCU Bleeper Bikes over the summer "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg3264x2448 1.03 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "What expectations should we have of our students? "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www4.dcu.ie/node/44065 "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "** "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU Graduate Attributes "
+    },
+    {
+        "id": 0.5,
+        "content": "** "
+    },
+    {
+        "id": 0.5,
+        "content": "Here are the DCU's current Generation 21 Attributes... "
+    },
+    {
+        "id": 0.5,
+        "content": "Solution-Oriented "
+    },
+    {
+        "id": 0.5,
+        "content": "Globally Engaged "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Billy, "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps something along the lines of... "
+    },
+    {
+        "id": 0.5,
+        "content": "GLOBALLY AND PROFESSIONALLY ENGAGED "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, are you referring to the employer presentations? "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne_McLoughlin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "who can reshape "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy_Kelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy_Kelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "How can we incentivise students to develop Graduate Attributes "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy_Kelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "I think so too Phil. Maybe our next project "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Phil, "
+    },
+    {
+        "id": 0.5,
+        "content": "Billy_Kelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "Definitely more input on curriculum, only because that was what we were seeking at the time. "
+    },
+    {
+        "id": 0.5,
+        "content": "A slightly contrarian view.... "
+    },
+    {
+        "id": 0.5,
+        "content": "@Jimmy_Healy, @Billy Kelly, maybe event a prospective student - student - graduate life cycle. "
+    },
+    {
+        "id": 0.5,
+        "content": "University level CPD and/ or broader academic learning. "
+    },
+    {
+        "id": 0.5,
+        "content": "Do you think that DCU could provide CPD in any spaces? "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www4.dcu.ie/nidl/index.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mark "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "education.uic.edu "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Virtual Reality in the Classroom "
+    },
+    {
+        "id": 0.5,
+        "content": "By Jeremy Riel "
+    },
+    {
+        "id": 0.5,
+        "content": "September 7, 2016 "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian_Spillane: "
+    },
+    {
+        "id": 0.5,
+        "content": "Catherine_Quinlan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps group skype sessions could be organised with some on campus students? "
+    },
+    {
+        "id": 0.5,
+        "content": "Catherine_Quinlan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps group skype sessions could be organised with some on campus students? "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps the online learners could in some way link into the conventional classrooms via the new technology. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi everyone "
+    },
+    {
+        "id": 0.5,
+        "content": "Catherine_Quinlan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Perhaps the online learners could in some way link into the conventional classrooms via the new technology. "
+    },
+    {
+        "id": 0.5,
+        "content": "Looking to the future, what role do you see technology playing in the classroom at DCU? What types of classrooms and physical learning spaces do we need in the future? "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "jisc.ac.uk "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Noha_Fay_Shaibah: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi everyone, all the way from Saudi Arabia, Riyadh. "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "What stands out about this video? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Clare "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian_Spillane: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "ec.europa.eu "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Catherine, "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mark "
+    },
+    {
+        "id": 0.5,
+        "content": "Stephen_Cahill: "
+    },
+    {
+        "id": 0.5,
+        "content": "f the tech used in an institution is not user-friendly or reliable, their needs and expectations ar not being met.. "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian_Spillane: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mark, "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "our online learning environment known as Loop. "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian, "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "Orna_Duggan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Orna, "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "yup, that was part of my thinking too Suzanne "
+    },
+    {
+        "id": 0.5,
+        "content": "Enda_Donlon: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.icde.org/learning-analytics--reports---books "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Orna_Duggan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Blanaid_White: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Orna, "
+    },
+    {
+        "id": 0.5,
+        "content": "Blanaid, "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "http://connected.dcu.ie "
+    },
+    {
+        "id": 0.5,
+        "content": "Gerald_Cannon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Blanaid_White: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Glynn: "
+    },
+    {
+        "id": 0.5,
+        "content": "Blanaid_White: "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "y1feedback.ie "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Y1Feedback - Enhancing Feedback in First Year "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Bryan_Mulry: "
+    },
+    {
+        "id": 0.5,
+        "content": "Lina_Abdullah_Mazi: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello , this is Lina from saudi arabia "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "James_Brunton: "
+    },
+    {
+        "id": 0.5,
+        "content": "Bryan_Mulry: "
+    },
+    {
+        "id": 0.5,
+        "content": "Enda_Donlon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "openeducationweek.org "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.dcu.ie/stem_education_innovation_global_studies/news/2017/Feb/Lego-Education-Innovation-Studio.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian_Spillane: "
+    },
+    {
+        "id": 0.5,
+        "content": "learning through play "
+    },
+    {
+        "id": 0.5,
+        "content": "Yes learning should be both fun and challenging! "
+    },
+    {
+        "id": 0.5,
+        "content": "https://academy.moodle.net/institution/dublin-city-university "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "openeducationeuropa.eu "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "PreparingDigitalUniversity.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "1419.75 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "‘Preparing for the Digital University’. "
+    },
+    {
+        "id": 0.5,
+        "content": "And what we do with it after we collect it! "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "And what we do with it after we collect it! "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Deirdre_Butler: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "education.ie "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Digital-Strategy-for-Schools-2015-2020.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "1034.95 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "edx.org "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "ed-tech-paper.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "1156.76 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi  Anne and all, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mark, "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg1246x452 218 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "dcu trainers.png784x600 232 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Claire "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi ConorYes! http://www.dcu.ie/students/index.shtmlClaire "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne "
+    },
+    {
+        "id": 0.5,
+        "content": "Ian "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi All, "
+    },
+    {
+        "id": 0.5,
+        "content": "Chris "
+    },
+    {
+        "id": 0.5,
+        "content": "Yvonne_McGowan: "
+    },
+    {
+        "id": 0.5,
+        "content": "belli: "
+    },
+    {
+        "id": 0.5,
+        "content": "i "
+    },
+    {
+        "id": 0.5,
+        "content": "Jonny_Cooper: "
+    },
+    {
+        "id": 0.5,
+        "content": "Maybe we should \"run\" such an event again with some charity or community angle. Might also consider a connection with Parkrun or similar arrangement for ourselves, maybe once a month. Numbers might not be large to start but would grow. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Chris/Ross, "
+    },
+    {
+        "id": 0.5,
+        "content": "Cathy "
+    },
+    {
+        "id": 0.5,
+        "content": "DonalConway: "
+    },
+    {
+        "id": 0.5,
+        "content": "Deirdre_Moloney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aine: "
+    },
+    {
+        "id": 0.5,
+        "content": "Regards, from DCU@PNU "
+    },
+    {
+        "id": 0.5,
+        "content": "AnoudT: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aine: "
+    },
+    {
+        "id": 0.5,
+        "content": "Something along the lines or what UCD or Trinity do? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "It is certainly the direction we should be going - looking at students as a whole and developing them overall rather than from one area. "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all! "
+    },
+    {
+        "id": 0.5,
+        "content": "The lived experience on campus(es) "
+    },
+    {
+        "id": 0.5,
+        "content": "Sport at DCU "
+    },
+    {
+        "id": 0.5,
+        "content": "DCU at night; DCU at weekends "
+    },
+    {
+        "id": 0.5,
+        "content": "20170330_233357.jpg1440x2560 1.58 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hub Global Lounge.jpg751x402 70.5 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Computer image of the Global Lounge Area in the new Student Centre. "
+    },
+    {
+        "id": 0.5,
+        "content": "sumair: "
+    },
+    {
+        "id": 0.5,
+        "content": "DDD: "
+    },
+    {
+        "id": 0.5,
+        "content": "intra minibuses or golf cars around the campus? "
+    },
+    {
+        "id": 0.5,
+        "content": "20170330_233414.jpg2560x1440 1.29 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "And a sushi  bar!!! "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_011452.jpg2560x1440 1.38 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "WE need to hold the students to this "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "DaireKeogh: "
+    },
+    {
+        "id": 0.5,
+        "content": "Celine_Heffernan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Justin_Doyle: "
+    },
+    {
+        "id": 0.5,
+        "content": "I find the Intraportal to be very slack on Internships outside of the main companies, would there be any way of engaging with more local Irish companies? "
+    },
+    {
+        "id": 0.5,
+        "content": "emmajanegill: "
+    },
+    {
+        "id": 0.5,
+        "content": "How do we raise a ticket so? "
+    },
+    {
+        "id": 0.5,
+        "content": "Michaela_Gaffney: "
+    },
+    {
+        "id": 0.5,
+        "content": "General movie society perhaps ?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Robert_OC: "
+    },
+    {
+        "id": 0.5,
+        "content": "bubble-soccer-party-outdoors.jpg700x420 156 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Are we planning this for the next sports day? "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5203.JPG1200x650 151 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "IMG_5204.PNG750x1334 1.33 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "An intersociety sports day. Get a team from each society to compete against each other! "
+    },
+    {
+        "id": 0.5,
+        "content": "Triona_Barrow: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Aisling_McKenna: "
+    },
+    {
+        "id": 0.5,
+        "content": "FionaDW: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Our schedule of speakers through the night: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "I can see this on the lawn of Belvedere House! "
+    },
+    {
+        "id": 0.5,
+        "content": "spc pitches.jpg725x1153 387 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "SPC Sports Pitches.jpg725x452 73.4 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Here are the details plans for the redevelopment of the GAA pitch on the St Patrick's Campus and option for future provisionof a 3G training area (flood lit), sprint track and cross country loop. "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "We are working on this. See... "
+    },
+    {
+        "id": 0.5,
+        "content": "https://academy.moodle.net/institution/dublin-city-university "
+    },
+    {
+        "id": 0.5,
+        "content": "Are these the ones that they're building beside Larkfield on Glasnevin campus? "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.dcu.ie/studentlearning/online-resources.shtml#anchor6 "
+    },
+    {
+        "id": 0.5,
+        "content": "Count me in "
+    },
+    {
+        "id": 0.5,
+        "content": "Hub front elevation.jpg1500x938 186 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hub rear elevation.jpg1500x938 137 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hub auditorium.jpg1497x998 193 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "In terms of the 2400 seater what events would you see happening here? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sarah,How the space is ultimately used, final design etc will in full consultation with the students. "
+    },
+    {
+        "id": 0.5,
+        "content": "John, "
+    },
+    {
+        "id": 0.5,
+        "content": "Any suggestions John? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi John, "
+    },
+    {
+        "id": 0.5,
+        "content": "John_Treanor: "
+    },
+    {
+        "id": 0.5,
+        "content": "Bx6JV8WCAAIBPwp.jpg600x600 40.9 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi there, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mary, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "Danika, "
+    },
+    {
+        "id": 0.5,
+        "content": "Una, "
+    },
+    {
+        "id": 0.5,
+        "content": "FionaDW: "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_110026.jpg1948x1092 1.28 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Emer_Ni_Bhradaigh: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "Marian_Burns: "
+    },
+    {
+        "id": 0.5,
+        "content": "mccarthk: "
+    },
+    {
+        "id": 0.5,
+        "content": "jacksonn: "
+    },
+    {
+        "id": 0.5,
+        "content": "Do you have a link to that article? "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Here it is Deirdre - http://www.irishtimes.com/business/work/employers-must-actively-promote-staff-wellbeing-1.3028969 "
+    },
+    {
+        "id": 0.5,
+        "content": "Here's the link: http://www.irishtimes.com/business/work/employers-must-actively-promote-staff-wellbeing-1.3028969 "
+    },
+    {
+        "id": 0.5,
+        "content": "fcarv: "
+    },
+    {
+        "id": 0.5,
+        "content": "Claire_Bohan: "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_112303.jpg2560x1440 1.34 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "fcarv: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "\"Sipping Points\" "
+    },
+    {
+        "id": 0.5,
+        "content": "It goes without saying this initiative involves lots of tea/coffee for conversation! "
+    },
+    {
+        "id": 0.5,
+        "content": "Eamonn_Cuggy: "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "Madeleine_Patton: "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "It took place in the first semester Valerie. "
+    },
+    {
+        "id": 0.5,
+        "content": "Emer_McMahon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Patrick "
+    },
+    {
+        "id": 0.5,
+        "content": "Caoimhe2: "
+    },
+    {
+        "id": 0.5,
+        "content": "Pauline_Mooney: "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "creativeeducationfoundation.org "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Pauline_Mooney: "
+    },
+    {
+        "id": 0.5,
+        "content": "image.jpg564x752 233 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Is that creativity, or vandalism? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ciaran, Emer &amp; Ceadla "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Trevor, "
+    },
+    {
+        "id": 0.5,
+        "content": "Yamna_Ali_Alsheri: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Gemma, "
+    },
+    {
+        "id": 0.5,
+        "content": "Jonathan "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Trevor, perhaps we could look at what or where the value of a global experience means - are we looking at it from a student or a prospective employer's perspective? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Paul, "
+    },
+    {
+        "id": 0.5,
+        "content": "Audrey my response would have to be both "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi everyone, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Louise, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Patrick! "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Louise, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Neil, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "When on a DCU campus how do you expereicne the global student experience. How can DCU campuses be identified as global neighbourhoods. "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www4.dcu.ie/node/44065 "
+    },
+    {
+        "id": 0.5,
+        "content": "TrevorHolmes: "
+    },
+    {
+        "id": 0.5,
+        "content": "The last question we said we would try and address in this session wasWe would also like to hear inputs on what constitutes an excellent international student experience for our international student cohort at DCU and what are the elements that make or should make this a uniquely DCU experience "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.dcu.ie/uaneen/index.shtml "
+    },
+    {
+        "id": 0.5,
+        "content": "Ghadah.s: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "What makes DCU an option for international students, partner Institutions and where globally is DCU recognised as excelling in Teaching and Learning, Research and collaboration? "
+    },
+    {
+        "id": 0.5,
+        "content": "That's a very good thought, Lisa, and very important so as not to alienate existing and potential future partners. "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Anne_Looney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark_Brown: "
+    },
+    {
+        "id": 0.5,
+        "content": "Next week! "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mark, "
+    },
+    {
+        "id": 0.5,
+        "content": "Globally Engaged "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www4.dcu.ie/node/44065 "
+    },
+    {
+        "id": 0.5,
+        "content": "Richard_Stokes: "
+    },
+    {
+        "id": 0.5,
+        "content": "British Council report –‘The Shape of Things to Come: The evolution of transnational education’, (2013). http://www.britishcouncil.org/sites/britishcouncil.uk2/files/the_shape_of_things_to_come_2.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "Sylvia_Schroeder: "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.masseyworldwide.ac.nz "
+    },
+    {
+        "id": 0.5,
+        "content": "Eileen_Connolly: "
+    },
+    {
+        "id": 0.5,
+        "content": "Indeed and something we need to profile on our website "
+    },
+    {
+        "id": 0.5,
+        "content": "Orna_Farrell: "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www4.dcu.ie/ireland-india-institute/Climate-Change-Conference.shtmlhttps://www4.dcu.ie/ireland-india-institute/conference-seminars.shtmlhttps://www4.dcu.ie/ireland-india-institute "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "Access programmes "
+    },
+    {
+        "id": 0.5,
+        "content": "johnstk: "
+    },
+    {
+        "id": 0.5,
+        "content": "Sandra_Healy: "
+    },
+    {
+        "id": 0.5,
+        "content": "How do we address this? Mentoring? "
+    },
+    {
+        "id": 0.5,
+        "content": "farrelam: "
+    },
+    {
+        "id": 0.5,
+        "content": "https://www.into.ie/ROI/Publications/GenderImbalancePrimaryTeaching.pdfhttps://www.into.ie/ROI/Publications/GenderImbalancePrimaryTeaching.pdf "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Sandra, "
+    },
+    {
+        "id": 0.5,
+        "content": "20170331_110623.jpg1790x1201 1.43 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Sandra "
+    },
+    {
+        "id": 0.5,
+        "content": "Sarahlewis: "
+    },
+    {
+        "id": 0.5,
+        "content": "In addition to social(events  (and the DCU Fuse), is there anything else that the University can do to make staff feel connected /involved? "
+    },
+    {
+        "id": 0.5,
+        "content": ". "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen_Lee: "
+    },
+    {
+        "id": 0.5,
+        "content": "We are conscious of this and are currently developing an online orientation programme. "
+    },
+    {
+        "id": 0.5,
+        "content": "Paul_Francis_O_Neill: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ross_Munnelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mary_Comiskey: "
+    },
+    {
+        "id": 0.5,
+        "content": "Barbara_Flood: "
+    },
+    {
+        "id": 0.5,
+        "content": "We just won't tell them "
+    },
+    {
+        "id": 0.5,
+        "content": "Grainne_Mooney: "
+    },
+    {
+        "id": 0.5,
+        "content": "Barbara_Flood: "
+    },
+    {
+        "id": 0.5,
+        "content": "Barbara_Flood: "
+    },
+    {
+        "id": 0.5,
+        "content": "jacksonn: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mary_Comiskey: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Mary, "
+    },
+    {
+        "id": 0.5,
+        "content": "Moving from short-term contracts would enhance the working environment of many staff who are unable to plan further than a six-month window! "
+    },
+    {
+        "id": 0.5,
+        "content": "Ana_Terres: "
+    },
+    {
+        "id": 0.5,
+        "content": "ablack: "
+    },
+    {
+        "id": 0.5,
+        "content": "Catherine_Farrell: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Catherine, "
+    },
+    {
+        "id": 0.5,
+        "content": "Ross_Munnelly: "
+    },
+    {
+        "id": 0.5,
+        "content": "ablack: "
+    },
+    {
+        "id": 0.5,
+        "content": "She quoted Peter Druker - the Father of Management! "
+    },
+    {
+        "id": 0.5,
+        "content": "Fr Joe Jones "
+    },
+    {
+        "id": 0.5,
+        "content": "Ag súil go mór leis an bplé agus tuairmí eagsúla a chloisteáil faoin nGaeilge i DCU "
+    },
+    {
+        "id": 0.5,
+        "content": "Táim ag tnúth leis an bplé. Creidim go bhfuil borradh iontach ar an nGaeilge san Ollscoil agus ceapaim go bhfuil an-deis againn dea-thionchar a imirt ar an bplean. "
+    },
+    {
+        "id": 0.5,
+        "content": "Siobhán céard é an rud is mó a sheasann amach duitse agus tú ag cuir an Ghaeilge chun cinn san Ollscoil?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Beimid anseo, tar éis le Google aistriú.We will be here, following with Google translate. "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "Siobhán céard é an rud is mó a sheasann amach duitse agus tú ag cuir an Ghaeilge chun cinn san Ollscoil?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Aon moltaí agat féin? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Louise, "
+    },
+    {
+        "id": 0.5,
+        "content": "Louise_Mc_Larnon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Neil, "
+    },
+    {
+        "id": 0.5,
+        "content": "This happens in UCD at the moment through the electives programme. Also students can do a  diploma iin Irish in the evenings in UCD and NUIG. "
+    },
+    {
+        "id": 0.5,
+        "content": "RossWeir: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Ross, "
+    },
+    {
+        "id": 0.5,
+        "content": "Tuigim go maith ach b'fhéidir go mbeadh sé spéisiúil eolaire a bheith ann le daoine atá sásta a ngnó a dhéanamh trí Ghaeilge leat san Ollscoil fosta! "
+    },
+    {
+        "id": 0.5,
+        "content": "Smaoineamh eile, rud éigin a bhí mé fhéin agus @Siobhan_Seoighe ag caint faoi an bhliain seo chaite: TEDX as Ghaeilge - tá na hachmhainnií againn san Ollscoil "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Siobhan, "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Abigail, "
+    },
+    {
+        "id": 0.5,
+        "content": "An-smaoineamh! Ba bhreá liom a leithéid a fheiscint "
+    },
+    {
+        "id": 0.5,
+        "content": "Cruthaítear nascanna éifeachtacha idir fhoireann DCU agus scoileanna, Gael-Linn &amp; Foras na Gaeilge chun an Ghaeilge a spreagadh i measc páistí, múinteoirí agus an pobal i gcoitinne. B'fhiú go mór na nascanna seo a fhorbairt agus a fheabhsú trí tuilleadh cúrsaí inseirbhíse - forbairt ghairmiúil leanúnach. "
+    },
+    {
+        "id": 0.5,
+        "content": "Louise_Mc_Larnon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Siobhan, "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím go hiomlán gur chóir go mbeadh an Ghaeilge lárnach ar ghach campas. Tá buntáistí ag baint leis an nGaeilge pé cúrsa atá ar siúl agat! "
+    },
+    {
+        "id": 0.5,
+        "content": "Beadh spéis agam cinnte ansin - ná déan dearmad go bhfuil ábhair eile trí mheán na Gaeilge (gnó, fiontraíocht, teicneolaíocht, na meáin, iriseoireacht) againn san Ollscoil agus tá Scoil  idirdhisciplíneach againn trí Ghaeilge agus don Ghaeilge! "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen_Lee: "
+    },
+    {
+        "id": 0.5,
+        "content": "Cinnte Aileen. Bring it on! "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá an ceart agat - bheadh an-rogha againn "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig_O_Duibhir: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím go hiomlán! "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig_O_Duibhir: "
+    },
+    {
+        "id": 0.5,
+        "content": "Cinnte Aileen. Bring it on! "
+    },
+    {
+        "id": 0.5,
+        "content": "A chairde tá cuireadh túghta agam do Pheadar &amp; Oscar - Muintir an Pop-Up Gaeltacht le teacht chomh fada linn! Tuilleadh eolais le theacht "
+    },
+    {
+        "id": 0.5,
+        "content": "Eadaoin_Ni_Mhuirchea: "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá an ceart agat a Éadaoin. Is deis iontach dóibh é aithne a chur ar a chéile trí Ghaeilge ón tús. "
+    },
+    {
+        "id": 0.5,
+        "content": "Seo rud mór sílim. Tá an oiread daoine maithe ag plé leis an Ghaeilge ó thaobh cúrsaí de agus Cumann Gaelach s'againn ach níl aon chumarsáid nó chomhoibre ah tarlú. Tá dluthpháirtíocht de dhith chun campais Ghaelacha a chruthú. "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig_O_Duibhir: "
+    },
+    {
+        "id": 0.5,
+        "content": "Caoimhe_Ni_Chathail: "
+    },
+    {
+        "id": 0.5,
+        "content": "Cinnte agus d'fhéadfadh scéim chónaithe bheith lárnach ann leis! "
+    },
+    {
+        "id": 0.5,
+        "content": "Bheadh sé iontach Scéim Chónaithe a fheiscint ar ghach campas. "
+    },
+    {
+        "id": 0.5,
+        "content": "Barra_O_Scannlain: "
+    },
+    {
+        "id": 0.5,
+        "content": "Abigail: "
+    },
+    {
+        "id": 0.5,
+        "content": "Neil_Farren: "
+    },
+    {
+        "id": 0.5,
+        "content": "Caoimhe_Ni_Chathail: "
+    },
+    {
+        "id": 0.5,
+        "content": "Seo rud mór sílim. Tá an oiread daoine maithe ag plé leis an Ghaeilge ó thaobh cúrsaí de agus Cumann Gaelach s'againn ach níl aon chumarsáid nó chomhoibre ah tarlú. Tá dluthpháirtíocht de dhith chun campais Ghaelacha a chruthú. "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá cinnte Éadaoin agus tógfaidh sé ama na naisc a chruthú agus a neartú i measc na foirne ach creidim go bhfuil chuile duine toilteanach! "
+    },
+    {
+        "id": 0.5,
+        "content": "Edel_Ni_Bhrao: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen_Lee: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím leat "
+    },
+    {
+        "id": 0.5,
+        "content": "Bheadh sé go hiontach dá bhféadfaimis obair i dtreo cúrsa BOid nó cúrsa Iarchéime san Oideachas a chur ar fáil trí mheán na Gaeilge. "
+    },
+    {
+        "id": 0.5,
+        "content": "Joe_Travers: "
+    },
+    {
+        "id": 0.5,
+        "content": "Is dócha gur féidir linn ach an fhoireann a fháil agus an maoiniú cuí a chur isteach ann. Bheadh feachtas agus plean cinnte ag teastáil. "
+    },
+    {
+        "id": 0.5,
+        "content": "An bhféadfaí leas a bhaint as an bhfáinne óir? Is feachtas ardú feasachta a eagrú len é a chur chun cinn? D'fhéadfadh seo a bheith nasctha leis an Pop Up Gaeltacht agus imeachtaí eile a bhíonns ar siúl dár ndóigh! "
+    },
+    {
+        "id": 0.5,
+        "content": "Céard faoi fáinne faoi leith do DCU??? "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "Ciinte. We have a lot to learn from other minority language contexts. "
+    },
+    {
+        "id": 0.5,
+        "content": "An-smaoineamh! "
+    },
+    {
+        "id": 0.5,
+        "content": "Neil_Farren: "
+    },
+    {
+        "id": 0.5,
+        "content": "Caithfear an t-éileamnh a chruthú i measc na mac léinn. Má bhíonn go leor á lorg tá seans níos fearr go gcuirfear ar fáil é. "
+    },
+    {
+        "id": 0.5,
+        "content": "Barra_O_Scannlain: "
+    },
+    {
+        "id": 0.5,
+        "content": "Nach tú atá funnaí a Bharra! "
+    },
+    {
+        "id": 0.5,
+        "content": "Corcaigh abú! "
+    },
+    {
+        "id": 0.5,
+        "content": "Clodagh_Ni_Eili: "
+    },
+    {
+        "id": 0.5,
+        "content": "Rinne mé na cuid de na hábhair oideachais trí Ghaeilge agus mé sa chéad bhliain agus sílim gur chuidigh seo go mór leis an taithí dearfach a bhí agam san ollscoil a chruthú. "
+    },
+    {
+        "id": 0.5,
+        "content": "Clodagh_Ni_Eili: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím leat a Chlódagh.  Tá deis iontach againn anois tógáil ar an dea-chleachtas agus ar na cúrsaí speisialachais atá againn in am i láthair. Níl a leithéid de chúrsa B.Oid trí Ghaeilge ar fáil in aon cheann de na hinstitiúidí eile go fóill.  Ó mo thaithí fein ag múineadh ar an gcúrsa Gaelscolaíochta, tá a fhios agam go dtéann sé i bhfeidhm go mór ar dhaoine.  Cuireann sé lena ndeiseanna fostaíochta, agus tugann sé deis dóibh sainoiliúint a fháil ar theagasc na Gaeilge agus ar theagasc ábhar eile trí Ghaeilge. "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "Seomra Caidrimh.jpg1600x871 127 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Go  hiontach!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Siobhan_Seoighe: "
+    },
+    {
+        "id": 0.5,
+        "content": "Áis iontach a Shiobhán! Tá cruth an-ghairmiúil ar an seomra anois agus an-tóir air. "
+    },
+    {
+        "id": 0.5,
+        "content": "1457699_627731237269258_420984270_n.jpg960x720 78.5 KB "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "@Siobhan_Seoighe An mbeidh seoladh don 'look' nua don Seomra Caidrimh? "
+    },
+    {
+        "id": 0.5,
+        "content": "NiallBraon: "
+    },
+    {
+        "id": 0.5,
+        "content": "Chabhraigh na modúil trí Ghaeilge agus an rang seo go mór liomsa go pearsanta. "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá cuma iontach ar an mballa nua sa seomra caidrimh! An bhfuiltear ag súil go mbeidh an seomra ar fáil do mhic léinn le haghaidh sosanna caife agus deis rialta comhrá neamhfhoirmeálta a dhéanamh i nGaeilge? "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen_Lee: "
+    },
+    {
+        "id": 0.5,
+        "content": "@Siobhan_Seoighe An mbeidh seoladh don 'look' nua don Seomra Caidrimh? "
+    },
+    {
+        "id": 0.5,
+        "content": "Beidh! Cé atá ag iarraidh cabhrú liom? "
+    },
+    {
+        "id": 0.5,
+        "content": "Mise ! Ar an choinníoll go mbeidh an seoladh roimh dheireadh mhí Bealtaine "
+    },
+    {
+        "id": 0.5,
+        "content": "Cinnte go gcabróidh mé leat. Éinne eile? "
+    },
+    {
+        "id": 0.5,
+        "content": "Cuideoidh mise leat cinnte! "
+    },
+    {
+        "id": 0.5,
+        "content": "Cabharóidh mé leat freisin! "
+    },
+    {
+        "id": 0.5,
+        "content": "Deirdre_Nic_Mhathuna: "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá cuma iontach ar an mballa nua sa seomra caidrimh! An bhfuiltear ag súil go mbeidh an seomra ar fáil do mhic léinn le haghaidh sosanna caife agus deis rialta comhrá neamhfhoirmeálta a dhéanamh i nGaeilge? "
+    },
+    {
+        "id": 0.5,
+        "content": "Agus ar an gcoinníoll go bhfuilimid fós ag dul ar thuras go reilig Ghleas Naíon! "
+    },
+    {
+        "id": 0.5,
+        "content": "Neil_Farren: "
+    },
+    {
+        "id": 0.5,
+        "content": "Céard faoi 'Pop Up' Seomra Caidrimh roimh dheireadh an tseimeastair? "
+    },
+    {
+        "id": 0.5,
+        "content": "Mór an spórt é! "
+    },
+    {
+        "id": 0.5,
+        "content": "agus ar an choinníoll go mbeidh Bricfeasta Alumni eile - sula mbeidh muidinne inár Alumni !! "
+    },
+    {
+        "id": 0.5,
+        "content": "Cuir m'ainm sa phota, a Shiobhán!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Katie_Ni_Loingsigh: "
+    },
+    {
+        "id": 0.5,
+        "content": "An-smaoineamh. Sraith léachtaí ag am lóin b'fhéidir. "
+    },
+    {
+        "id": 0.5,
+        "content": "má táim thart ba bhrea liom lámh a thabhairt duit. níl tada déanta agam don Ghaeilge i mbliana #agmothúciontach "
+    },
+    {
+        "id": 0.5,
+        "content": "Bhí seomra again sa Mezz sa chaintín tráth! Céard faoi cheann i HUB nua na mac léinn a lorg!! "
+    },
+    {
+        "id": 0.5,
+        "content": "B'in an rud a rith liom - bíonn a leithéid de léachtaí ar siúl ag scoileanna eile. "
+    },
+    {
+        "id": 0.5,
+        "content": "Is breá liom an smaointiú seo a Katie. Tá fhios agam ó bheith i mo mhac léinn go bhfuil na mic léinn go ginearálta aineolach fána dtarlaíonn thuas sna hoifigí. Ach go réalaíoch muna bhfuil cuma mhealltach agus neamhfhoirmiúil ar an rud beidh sé doiligh mic léinn a mheallú chuig na cáinteanna seo - más orainne atá sé dírithe dar ndóighe! "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "Cinnte a Mhairéad. Comhfhiontar idir Fiontar agus Scoil na Gaeilge agus Scoil na Teanga, na Litearthachta agus an Oideachais Luathóige. "
+    },
+    {
+        "id": 0.5,
+        "content": "Celine_Heffernan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Gearoidin_Ui_Laighle: "
+    },
+    {
+        "id": 0.5,
+        "content": "Céard faoi grúpa tuistí &amp; leanaí? Úsáid a bhaint as an Seomra Caidirmh? "
+    },
+    {
+        "id": 0.5,
+        "content": "Pop-up Gaeltacht na nÓg? "
+    },
+    {
+        "id": 0.5,
+        "content": "Postgraduate_Society: "
+    },
+    {
+        "id": 0.5,
+        "content": "Failte romhat Barra!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Ta suim mhor agamsa i lar ionad taighde i dteagasc agus foghlaim na Gaeilge a bhunu i DCU.Suim ag einne eile?? "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá an-éileamh ar ranganna Gaeilge. Bheadh MOOC don Ghaeilge go hiontach. "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá cinnte ach céard faoi foghlaim agus faoi theagasc trí Ghaeilge fosta! "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá sé ag teacht!!!! "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian_MacCraith: "
+    },
+    {
+        "id": 0.5,
+        "content": "a suim mhor agamsa i lar ionad taighde i dteagasc agus foghlaim na Gaeilge a bhunu i DCU.Suim ag einne eile?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Agus b'fhéidir go dtiocfadh linn rud inteacht a fhorbairt do thuismitheoirí. "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím leis seo.Tá ceannaire uainn don tionscnamh seo!!Any volunteers?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá cinnte. "
+    },
+    {
+        "id": 0.5,
+        "content": "Brian_MacCraith: "
+    },
+    {
+        "id": 0.5,
+        "content": "Aontaím leis seo.Tá ceannaire uainn don tionscnamh seo!!Any volunteers?? "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá mise sásta tús a chur leis. "
+    },
+    {
+        "id": 0.5,
+        "content": "Cé eile a bheidh páirteach? "
+    },
+    {
+        "id": 0.5,
+        "content": "Go híontach!!Tús maith leath na hoibre!!!GRMA "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "Do tharla an rud céanna domsa uair ó shin! "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "DCUFUSE.jpg3264x2448 2.14 MB "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá muid beo anois agus ag foghlaim focail nua - féinphic @annelooney @muirtheimhne @DublinCityUni @FiontarGaeilge #DCUFuse #Gaeilge "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen_Lee: "
+    },
+    {
+        "id": 0.5,
+        "content": "Do tharla an rud céanna domsa uair ó shin! "
+    },
+    {
+        "id": 0.5,
+        "content": "Aileen bhocht "
+    },
+    {
+        "id": 0.5,
+        "content": "Gamers at Backstage Practicing.jpg1024x768 214 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "A chairde tá muid anseo beo go dtí a 9 - an smaointe eile? Beidh tú fós in ann teachtaireachtaí a phostáil anseo. "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá áthas an domhain orm an méid seo phlé faoin nGaeilge a fheiceáil. Tá an t-úafás smaointe baillte againn anocht agus tá súil agam go lainfaidh an Ghaeilge ag fás i DCU go deo! "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "seirbhísí trí Ghaeilge ar fáil sna láraonaid tacaíochtaláithreacht na Gaeilge ar champas Ghlas Naíon a threisiú "
+    },
+    {
+        "id": 0.5,
+        "content": "nicgiolm: "
+    },
+    {
+        "id": 0.5,
+        "content": "seirbhísí trí Ghaeilge ar fáil sna láraonaid tacaíochtaláithreacht na Gaeilge ar champas Ghlas Naíon a threisiú "
+    },
+    {
+        "id": 0.5,
+        "content": "Míle buíochas. "
+    },
+    {
+        "id": 0.5,
+        "content": "Go raibh maith agat Pádraig! Ar aghaidh leis an obair anois! "
+    },
+    {
+        "id": 0.5,
+        "content": "Abigail: "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig_O_Duibhir: "
+    },
+    {
+        "id": 0.5,
+        "content": "Gearoidin_Ui_Laighle: "
+    },
+    {
+        "id": 0.5,
+        "content": "Beidh sé ar fáil ar feadh tréimhse eile, táim ag fiosrú faoi láthair "
+    },
+    {
+        "id": 0.5,
+        "content": "Stats_DCUFuse.jpg826x566 102 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Mórchomhdháil nó sraith imeachtaí faoi Ghnó le Gaeilge? Údarás na Gaeltachta agus Ealaín na Gaeltachta a thabhairt isteach agus féachaint an féidir leis an Ollscoil tacú leis an nGaeltacht agus leis an bhfiontraíocht as Gaeilge. "
+    },
+    {
+        "id": 0.5,
+        "content": "Ná déan dearmad cliceáil isteach ar an nasc seo a leanas : www.scathan.ieIris Ghaeilge na mac léinn "
+    },
+    {
+        "id": 0.5,
+        "content": "Caitriona_Ni_Chleirc: "
+    },
+    {
+        "id": 0.5,
+        "content": "Grma a Chaitríona. Tá fógraíocht, eolas ar na meán shóisialta agus decals ar fáil agus dár ndóigh an forum seo. "
+    },
+    {
+        "id": 0.5,
+        "content": "Mairin_Nic_Eoin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Mórchomhdháil nó sraith imeachtaí faoi Ghnó le Gaeilge? Údarás na Gaeltachta agus Ealaín na Gaeltachta a thabhairt isteach agus féachaint an féidir leis an Ollscoil tacú leis an nGaeltacht agus leis an bhfiontraíocht as Gaeilge. "
+    },
+    {
+        "id": 0.5,
+        "content": "An smaoineamh! Ríomhphost seolta agam ag Údarás na Gaeltachta agus Ealaín na Gaeltachta ar maidin. Cabhair ag teastáil a chairde - spéis ag aon duine? "
+    },
+    {
+        "id": 0.5,
+        "content": "Siobhan_Seoighe: "
+    },
+    {
+        "id": 0.5,
+        "content": "Beidh sé ar fáil ar feadh tréimhse eile, táim ag fiosrú faoi láthair "
+    },
+    {
+        "id": 0.5,
+        "content": "Siobhan_Seoighe: "
+    },
+    {
+        "id": 0.5,
+        "content": "Céard faoi grúpa tuistí &amp; leanaí? Úsáid a bhaint as an Seomra Caidirmh? "
+    },
+    {
+        "id": 0.5,
+        "content": "Tá mé cinnte go bhfuil an suíomh seo feicthe agat:  http://irishforparents.ie/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Go raibh maith agat as seo, a Shiobhán. "
+    },
+    {
+        "id": 0.5,
+        "content": "What is different about the DCU student experience, do you all think? What makes it special? What else should we do, do you think? "
+    },
+    {
+        "id": 0.5,
+        "content": "Hello James "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg, "
+    },
+    {
+        "id": 0.5,
+        "content": "Fully agree Rod - CG86 is equipped with this already...the question is - is there demand so that we need to install more of these? "
+    },
+    {
+        "id": 0.5,
+        "content": "Martin: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg, "
+    },
+    {
+        "id": 0.5,
+        "content": "hi Martin, "
+    },
+    {
+        "id": 0.5,
+        "content": "hi Martin, "
+    },
+    {
+        "id": 0.5,
+        "content": "or blended? "
+    },
+    {
+        "id": 0.5,
+        "content": "... and you had to tell us!! Hi James!! "
+    },
+    {
+        "id": 0.5,
+        "content": "https://tutor.com "
+    },
+    {
+        "id": 0.5,
+        "content": "An example of what another University have in place "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www.ucc.ie/en/tcentre/ecdl/ "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Artemisa,Welcome to the conversation!Brian "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg. "
+    },
+    {
+        "id": 0.5,
+        "content": "Artemisa, "
+    },
+    {
+        "id": 0.5,
+        "content": "maybe they can look at our MSC Programmes in DCU Connected:http://connected.dcu.ie/world-class-courses...Colum "
+    },
+    {
+        "id": 0.5,
+        "content": "A few things. "
+    },
+    {
+        "id": 0.5,
+        "content": "1) For into-English translation roles, "
+    },
+    {
+        "id": 0.5,
+        "content": "This is a really topical issue because recent research has shown that students who have been lured by bonus points into doing higher maths and get D or C grades, struggle badly at maths in college. The entire education system needs to be a lot more joined up. "
+    },
+    {
+        "id": 0.5,
+        "content": "Is the lecture no longer fit for purpose? "
+    },
+    {
+        "id": 0.5,
+        "content": "Mark, I think it would help alleviate 'death by powerpoint' style lectures - if students can familiarise themselves with the content before a lecture, it can turn into more of a discussion than a 'lecture' "
+    },
+    {
+        "id": 0.5,
+        "content": "http://www4.dcu.ie/nidl "
+    },
+    {
+        "id": 0.5,
+        "content": "- "
+    },
+    {
+        "id": 0.5,
+        "content": "dad and me.jpg1600x1200 179 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Gerald,I am wondering, online mentoring in a virtual environment? "
+    },
+    {
+        "id": 0.5,
+        "content": "List item "
+    },
+    {
+        "id": 0.5,
+        "content": "I suppose so, or as a 2-day intensive course (possibly under a tree Socrates-style)? "
+    },
+    {
+        "id": 0.5,
+        "content": "Some of our dissertation supervisors organise a weekly skype conversation for their student groups "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Denise "
+    },
+    {
+        "id": 0.5,
+        "content": "David's story "
+    },
+    {
+        "id": 0.5,
+        "content": "http://connected.dcu.ie/david-dearmey "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "twitter.com "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hugh Kearns (ithinkwellHugh) "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Many PhD students will experience mental health issues "
+    },
+    {
+        "id": 0.5,
+        "content": "https://t.co/DERjJtP0Vr "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": " "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Barbara "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Philip "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Orla "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Orla, "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg, "
+    },
+    {
+        "id": 0.5,
+        "content": "Food for thought @Brian_MacCraith "
+    },
+    {
+        "id": 0.5,
+        "content": "Scientific status of learning styles (https://my.queens.edu/cafe/Best%20Practices%20Documents/Learning%20Styles%20Do%20Not%20Matter%20or%20Work.pdf) "
+    },
+    {
+        "id": 0.5,
+        "content": "[http://www.learningscientists.org/] "
+    },
+    {
+        "id": 0.5,
+        "content": "AS we come to the end of this session, here's a picture of an owl "
+    },
+    {
+        "id": 0.5,
+        "content": "owl.jpg950x960 104 KB "
+    },
+    {
+        "id": 0.5,
+        "content": "Of course, my email is ryan.orla@gmail.com "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi, "
+    },
+    {
+        "id": 0.5,
+        "content": "Mirenda_Rosenberg: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Emma "
+    },
+    {
+        "id": 0.5,
+        "content": "Orla "
+    },
+    {
+        "id": 0.5,
+        "content": "Alan_Crean: "
+    },
+    {
+        "id": 0.5,
+        "content": "just "
+    },
+    {
+        "id": 0.5,
+        "content": "Padraig "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Barbara, "
+    },
+    {
+        "id": 0.5,
+        "content": "I've got a couple of suggestions: "
+    },
+    {
+        "id": 0.5,
+        "content": "Maybe we should talk about that another time; cathal.guiomard@dcu.ie "
+    },
+    {
+        "id": 0.5,
+        "content": "Caroline_McMullan: "
+    },
+    {
+        "id": 0.5,
+        "content": "Another: "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi all, "
+    },
+    {
+        "id": 0.5,
+        "content": "HI Maryam "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Siobhan "
+    },
+    {
+        "id": 0.5,
+        "content": "Hi Greg "
+    }
+]
