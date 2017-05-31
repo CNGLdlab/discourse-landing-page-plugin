@@ -1,0 +1,61 @@
+Setting up:
+Install RVM and ruby
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+\curl -L https://get.rvm.io | bash -s stable --ruby
+apt install ruby-dev
+apt install g++
+apt install libpq-dev
+apt install libz-dev
+
+Setup gem properly
+create ~/.gemrc file and insert
+gem: --user-install
+add gems directory to the PATH
+export PATH="$PATH:$HOME/.gem/ruby/2.3.0/bin" # Add gems to PATH
+
+Install and configure bundler and rails
+gem install bundler
+bundle config path "$HOME/.gem/ruby/2.3.0/bin"
+gem install rails
+
+Install and setup postgreSQL
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+apt update
+apt install postgresql-9.5 (or what ever)
+sudo -u postgres psql postgres
+
+Postgresql commands:
+CREATE ROLE dturner WITH LOGIN ENCRYPTED PASSWORD 'discourse' CREATEDB SUPERUSER;
+CREATE DATABASE discourse_development WITH OWNER dturner ENCODING 'UTF8' TEMPLATE template0;
+CREATE DATABASE discourse_test WITH OWNER dturner ENCODING 'UTF8' TEMPLATE template0;
+\d
+psql -d discourse_development -U dturner -h localhost
+CREATE EXTENSION pg_trgm;
+CREATE EXTENSION hstore; ############## if these fail install postgresql-contrib (apt install postgresql-contrib-9.5)
+\d
+psql -d discourse_test -U dturner -h localhost
+CREATE EXTENSION pg_trgm;
+CREATE EXTENSION hstore;
+
+Install Redis
+wget http://download.redis.io/releases/redis-3.2.7.tar.gz
+tar xzf redis-3.2.7.tar.gz
+cd redis-3.2.7
+make
+make test
+
+Test and start discourse 
+Run redis-server (binary found in redis/src/redis-server)
+Setup database and configure connection:
+bundle exec rake db:migrate db:test:prepare db:seed_fu
+Test:
+bundle exec rake autospec
+If that doesn't work try updating the amount of watchers and try again:
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -pbundle
+Run the server:
+bundle exec rails server
+If developing set the $RAILS_ENV to development
+RAILS_ENV=development
+Create a new admin user (follow the instructions):
+bundle exec rake admin:create
+bundle exec rails server
