@@ -147,11 +147,11 @@ function initializePlugin(api, component) {
       let x = '';
       let type = '';
       if (line.startsWith('video')) {
-        x = line.split('@')[1].trim();
+        x = line.split('@')[1].trim().split(')[1];
         type = 'video';
       }
       else if (line.startsWith('image')) {
-        x = line.split('@')[1].trim();
+        x = line.split('@')[1].trim().split(')[1];
         type = 'image';
       }
       else if (line.startsWith('other')) {
