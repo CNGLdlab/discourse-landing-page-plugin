@@ -136,7 +136,7 @@ function getCategoryCallback(result, component, componentString) {
 
 function initializePlugin(api, component) {
   ajax({
-    url: '/t/139.json',
+    url: '/t/22.json',
     data: apiAccess,
   }).then((res) => {
     let body = res.post_stream.posts[0].cooked;
