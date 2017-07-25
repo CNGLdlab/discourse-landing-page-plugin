@@ -2,8 +2,8 @@ import {ajax} from 'discourse/lib/ajax';
 import {withPluginApi} from 'discourse/lib/plugin-api';
 
 
-const apiKey = '0115ca82b81e4884c95ed31a1d0291083599596a5fc377514b57bc7277092742';
-const username = 'api_user';
+const apiKey = '882dae34504d30fe7f17d31f8733512ed80518b6f7b58074e065728ad840c632';
+const username = 'daniel.turner';
 const queryEnd = `?api_key=${apiKey}&api_username=${username}`;
 
 const apiAccess = {api_key: apiKey, api_username: username};
