@@ -20,8 +20,25 @@ const nextCategory = {
   slug: 'next-management',
 };
 
+var year   = undefined;
+var month  = undefined;
+var day    = undefined;
+var hour   = undefined;
+var minute = undefined;
+var second = undefined;
+
+
 function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
+  if (t <= 0) {
+    return {
+      'total': 0,
+      'days': 0,
+      'hours': 0,
+      'minutes': 0,
+      'seconds': 0
+    };
+  }
   var seconds = Math.floor((t / 1000) % 60);
   var minutes = Math.floor((t / 1000 / 60) % 60);
   var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
@@ -150,6 +167,16 @@ function initializePlugin(api, component) {
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
         type = 'video';
       }
+      else if (line.startsWith('clockTime') {
+        var time = line.split('@')[1].trim();
+        var values = time.split(':');
+        year   = values[0];
+        month  = values[1];
+        day    = values[2];
+        hour   = values[3];
+        minute = values[4];
+        second = values[5]; 
+      }
       else if (line.startsWith('image')) {
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
         type = 'image';
@@ -204,9 +231,8 @@ function initializePlugin(api, component) {
         console.log(e);
       });
 
-
       // clock stuff
-      let deadline = new Date(2017, 8, 14, 17, 0, 0);
+      let deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
       setTimeout(function() {
           initializeClock('clockdiv', deadline);
       }, 500);
