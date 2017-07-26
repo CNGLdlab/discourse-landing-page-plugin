@@ -205,7 +205,7 @@ function initializePlugin(api, component) {
       if (x !== '') {
         component.set(type, x);
       }
-    });
+    }
   });
 
   api.onPageChange((url) => {
