@@ -166,7 +166,7 @@ function initializePlugin(api, component) {
         console.log(line);
         x = line.split('@')[1].trim();
         console.log(x);
-        x = x.split('\')[1];
+        x = x.split('\\')[1];
         type = 'live';
       }
       if (x !== '') {
