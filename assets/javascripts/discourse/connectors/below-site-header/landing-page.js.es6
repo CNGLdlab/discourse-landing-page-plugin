@@ -59,6 +59,11 @@ function initializeClock(id, endtime) {
   var secondsSpan = clock.querySelector('.seconds');
 
   function updateClock() {
+    if (newTime) {
+      endtime = new Date(year, month, day, hour, minute, second);
+      newTime = false;
+      console.log(endtime);
+    }
     var t = getTimeRemaining(endtime);
 
     hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
@@ -235,13 +240,8 @@ function initializePlugin(api, component) {
       // clock stuff
       let deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
       setTimeout(function() {
-          if (newTime) {
-            deadline = new Date(year, month, day, hour, minute, second);
-            newTime = false;
-          }
-          console.log(deadline);
-          initializeClock('clockdiv', deadline);
-      }, 2500);
+        initializeClock('clockdiv', deadline);
+      }, 500);
     }
     else {
       renderPage = false;
