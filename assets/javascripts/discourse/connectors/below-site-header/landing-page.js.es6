@@ -26,7 +26,7 @@ var day    = undefined;
 var hour   = undefined;
 var minute = undefined;
 var second = undefined;
-
+var newTime = false;
 
 function getTimeRemaining(endtime) {
   var t = Date.parse(endtime) - Date.parse(new Date());
@@ -167,7 +167,7 @@ function initializePlugin(api, component) {
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
         type = 'video';
       }
-      else if (line.startsWith('clockTime') {
+      else if (line.startsWith('clockTime')) {
         var time = line.split('@')[1].trim();
         var values = time.split(':');
         year   = values[0];
@@ -175,7 +175,8 @@ function initializePlugin(api, component) {
         day    = values[2];
         hour   = values[3];
         minute = values[4];
-        second = values[5]; 
+        second = values[5];
+        newTime = true; 
       }
       else if (line.startsWith('image')) {
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
@@ -234,6 +235,10 @@ function initializePlugin(api, component) {
       // clock stuff
       let deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
       setTimeout(function() {
+          if (newTime) {
+            deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
+            newTime = false;
+          }
           initializeClock('clockdiv', deadline);
       }, 500);
     }
