@@ -165,7 +165,8 @@ function initializePlugin(api, component) {
     body = body.replace('<p>', '');
     body = body.replace('</p>', '');
     const lines = body.split('<br>');
-    lines.forEach((line) => {
+    for (var loop = 0; loop < lines.length; loop++){
+      var line = line[loop];
       let x = '';
       let type = '';
       if (line.startsWith('clockTime')) {
@@ -198,9 +199,7 @@ function initializePlugin(api, component) {
         type = 'clocktitle';
       }
       else if (line.startsWith('livestream')) {
-        console.log(line);
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
-        console.log(x);
         type = 'live';
       }
       if (x !== '') {
