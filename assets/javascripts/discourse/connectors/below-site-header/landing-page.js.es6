@@ -166,7 +166,7 @@ function initializePlugin(api, component) {
     body = body.replace('</p>', '');
     const lines = body.split('<br>');
     for (var loop = 0; loop < lines.length; loop++){
-      var line = lines[loop];
+      var line = lines[loop].replace(/(\r\n|\n|\r)/gm,"");
       console.log('Line ', loop, ' : ', line);
       let x = '';
       let type = '';
