@@ -178,7 +178,7 @@ function initializePlugin(api, component) {
         minute = values[4];
         second = values[5];
         newTime = true;
-        console.log('Setting new time");
+        console.log('Setting new time');
       }
 
       if (line.startsWith('video')) {
