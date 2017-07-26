@@ -163,7 +163,10 @@ function initializePlugin(api, component) {
         type = 'clocktitle';
       }
       else if (line.startsWith('livestream')) {
+        console.log(line);
         x = line.split('@')[1].trim();
+        console.log(x);
+        x = x.split('\')[1];
         type = 'live';
       }
       if (x !== '') {
