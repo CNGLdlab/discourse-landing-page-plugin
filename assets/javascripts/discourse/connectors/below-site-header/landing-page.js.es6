@@ -236,9 +236,10 @@ function initializePlugin(api, component) {
       let deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
       setTimeout(function() {
           if (newTime) {
-            deadline = new Date(year || 2017, month || 8, day || 25, hour || 12, minute || 0, second || 0);
+            deadline = new Date(year, month, day, hour, minute, second);
             newTime = false;
           }
+          console.log(deadline);
           initializeClock('clockdiv', deadline);
       }, 500);
     }
