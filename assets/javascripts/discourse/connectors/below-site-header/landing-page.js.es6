@@ -166,7 +166,7 @@ function initializePlugin(api, component) {
     body = body.replace('</p>', '');
     const lines = body.split('<br>');
     for (var loop = 0; loop < lines.length; loop++){
-      var line = line[loop];
+      var line = lines[loop];
       let x = '';
       let type = '';
       if (line.startsWith('clockTime')) {
