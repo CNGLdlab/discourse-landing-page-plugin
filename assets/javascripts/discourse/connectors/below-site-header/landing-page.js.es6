@@ -164,9 +164,8 @@ function initializePlugin(api, component) {
       }
       else if (line.startsWith('livestream')) {
         console.log(line);
-        x = line.split('@')[1].trim();
+        x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
         console.log(x);
-        x = x.split('\\')[1];
         type = 'live';
       }
       if (x !== '') {
