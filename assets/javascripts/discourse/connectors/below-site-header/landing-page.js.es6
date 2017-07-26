@@ -241,7 +241,7 @@ function initializePlugin(api, component) {
           }
           console.log(deadline);
           initializeClock('clockdiv', deadline);
-      }, 500);
+      }, 2500);
     }
     else {
       renderPage = false;
