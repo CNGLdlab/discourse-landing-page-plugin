@@ -162,6 +162,10 @@ function initializePlugin(api, component) {
         x = line.split('@')[1].trim();
         type = 'clocktitle';
       }
+      else if (line.startsWith('livestream')) {
+        x = line.split('@')[1].trim();
+        type = 'live';
+      }
       if (x !== '') {
         component.set(type, x);
       }
