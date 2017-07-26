@@ -168,11 +168,7 @@ function initializePlugin(api, component) {
     lines.forEach((line) => {
       let x = '';
       let type = '';
-      if (line.startsWith('video')) {
-        x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
-        type = 'video';
-      }
-      else if (line.startsWith('clockTime')) {
+      if (line.startsWith('clockTime')) {
         var time = line.split('@')[1].trim();
         var values = time.split(':');
         year   = values[0];
@@ -181,7 +177,12 @@ function initializePlugin(api, component) {
         hour   = values[3];
         minute = values[4];
         second = values[5];
-        newTime = true; 
+        newTime = true;
+      }
+
+      if (line.startsWith('video')) {
+        x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
+        type = 'video';
       }
       else if (line.startsWith('image')) {
         x = line.split('@')[1].trim().replace(/(<([^>]+)>)/ig, '');
