@@ -63,7 +63,6 @@ function initializeClock(id, endtime) {
     if (newTime) {
       endtime = new Date(year, month, day, hour, minute, second);
       newTime = false;
-      console.log(endtime);
     }
     var t = getTimeRemaining(endtime);
 
@@ -78,11 +77,8 @@ function initializeClock(id, endtime) {
 
     var secondValue = ('0' + t.seconds).slice(-2);
     secondsSpan.innerHTML = secondValue
-    console.log(dayValue)
-    console.log(dayValue == '01');
     if (dayValue == '01') {
-      var div = document.querySelector("#clockdiv > div:nth-child(1) > div");
-      div.style.display = "none";
+      daysSpan.nextElementSibling.innerHTML = "Day";
     } else if (dayValue == '00'){
       var div = document.querySelector("#clockdiv > div:nth-child(1)");
       div.style.display = "none";
@@ -202,7 +198,6 @@ function initializePlugin(api, component) {
     const lines = body.split('<br>');
     for (var loop = 0; loop < lines.length; loop++){
       var line = lines[loop].replace(/(\r\n|\n|\r)/gm,"");
-      console.log('Line ', loop, ' : ', line);
       let x = '';
       let type = '';
       if (line.startsWith('clockTime')) {
@@ -215,7 +210,6 @@ function initializePlugin(api, component) {
         minute = values[4];
         second = values[5];
         newTime = true;
-        console.log('Setting new time');
       }
 
       if (line.startsWith('video')) {
