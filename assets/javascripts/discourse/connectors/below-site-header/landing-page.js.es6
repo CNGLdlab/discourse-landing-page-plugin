@@ -81,28 +81,28 @@ function initializeClock(id, endtime) {
     console.log(dayValue)
     console.log(dayValue == '01');
     if (dayValue == '01') {
-      console.log('Here editing');
-      daysSpan.nextElementSibling.innnerHTML = "Day";
+      var div = document.querySelector("#clockdiv > div:nth-child(1) > div");
+      div.style.display = "none";
     } else if (dayValue == '00'){
       var div = document.querySelector("#clockdiv > div:nth-child(1)");
       div.style.display = "none";
     } else {
-      daysSpan.nextElementSibling.innnerHTML = "Days";
+      daysSpan.nextElementSibling.innerHTML = "Days";
     }
     if (hourValue == '01') {
-      hoursSpan.nextElementSibling.innnerHTML = "Hour";
+      hoursSpan.nextElementSibling.innerHTML = "Hour";
     } else {
-      hoursSpan.nextElementSibling.innnerHTML = "Hours";
+      hoursSpan.nextElementSibling.innerHTML = "Hours";
     }
     if (minuteValue == '01') {
-      minutesSpan.nextElementSibling.innnerHTML = "Minute"
+      minutesSpan.nextElementSibling.innerHTML = "Minute"
     } else {
-      minutesSpan.nextElementSibling.innnerHTML = "Minutes"
+      minutesSpan.nextElementSibling.innerHTML = "Minutes"
     }
     if (secondValue == '01') {
-      secondsSpan.nextElementSibling.innnerHTML = "Second"
+      secondsSpan.nextElementSibling.innerHTML = "Second"
     } else {
-      secondsSpan.nextElementSibling.innnerHTML = "Seconds"
+      secondsSpan.nextElementSibling.innerHTML = "Seconds"
     }
 
     if (t.total <= 0) {
