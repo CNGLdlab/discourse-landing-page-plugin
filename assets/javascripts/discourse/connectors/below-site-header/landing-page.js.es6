@@ -67,7 +67,7 @@ function initializeClock(id, endtime) {
     }
     var t = getTimeRemaining(endtime);
 
-    hoursSpan.innerHTML = ('0' + t.days).slice(-2);
+    daysSpan.innerHTML = ('0' + t.days).slice(-2);
     hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
     minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
     secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
