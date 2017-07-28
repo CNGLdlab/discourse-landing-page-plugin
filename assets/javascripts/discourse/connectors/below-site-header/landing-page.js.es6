@@ -72,22 +72,22 @@ function initializeClock(id, endtime) {
     minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
     secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
 
-    if (daysSpan.innerHTML == 1) {
+    if (daysSpan.innerHTML == '01') {
       daysSpan.nextElementSibling.innnerHTML = "Day";
     } else {
       daysSpan.nextElementSibling.innnerHTML = "Days";
     }
-    if (hoursSpan.innerHTML == 1) {
+    if (hoursSpan.innerHTML == '01') {
       hoursSpan.nextElementSibling.innnerHTML = "Hour";
     } else {
       hoursSpan.nextElementSibling.innnerHTML = "Hours";
     }
-    if (minutesSpan.innerHTML == 1) {
+    if (minutesSpan.innerHTML == '01') {
       minutesSpan.nextElementSibling.innnerHTML = "Minute"
     } else {
       minutesSpan.nextElementSibling.innnerHTML = "Minutes"
     }
-    if (secondsSpan.innerHTML == 1) {
+    if (secondsSpan.innerHTML == '01') {
       secondsSpan.nextElementSibling.innnerHTML = "Second"
     } else {
       secondsSpan.nextElementSibling.innnerHTML = "Seconds"
