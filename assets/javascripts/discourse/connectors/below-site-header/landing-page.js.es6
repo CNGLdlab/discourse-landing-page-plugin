@@ -67,27 +67,37 @@ function initializeClock(id, endtime) {
     }
     var t = getTimeRemaining(endtime);
 
-    daysSpan.innerHTML = ('0' + t.days).slice(-2);
-    hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
-    minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-    secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+    var dayValue = ('0' + t.days).slice(-2);
+    daysSpan.innerHTML = dayValue;
 
-    if (daysSpan.innerHTML == '01') {
+    var hourValue = ('0' + t.hours).slice(-2);
+    hoursSpan.innerHTML = hourValue
+
+    var minuteValue = ('0' + t.minutes).slice(-2);
+    minutesSpan.innerHTML = minuteValue;
+
+    var secondValue = ('0' + t.seconds).slice(-2);
+    secondsSpan.innerHTML = secondValue
+
+    if (dayValue == '01') {
       daysSpan.nextElementSibling.innnerHTML = "Day";
+    } else if (dayValue == '00'){
+      var div = document.querySelector("#clockdiv > div:nth-child(1)");
+      x.style.display = "none";
     } else {
       daysSpan.nextElementSibling.innnerHTML = "Days";
     }
-    if (hoursSpan.innerHTML == '01') {
+    if (hourValue == '01') {
       hoursSpan.nextElementSibling.innnerHTML = "Hour";
     } else {
       hoursSpan.nextElementSibling.innnerHTML = "Hours";
     }
-    if (minutesSpan.innerHTML == '01') {
+    if (minuteValue == '01') {
       minutesSpan.nextElementSibling.innnerHTML = "Minute"
     } else {
       minutesSpan.nextElementSibling.innnerHTML = "Minutes"
     }
-    if (secondsSpan.innerHTML == '01') {
+    if (secondValue == '01') {
       secondsSpan.nextElementSibling.innnerHTML = "Second"
     } else {
       secondsSpan.nextElementSibling.innnerHTML = "Seconds"
