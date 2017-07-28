@@ -72,6 +72,27 @@ function initializeClock(id, endtime) {
     minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
     secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
 
+    if (daysSpan.innerHTML == 1) {
+      daysSpan.nextElementSibling.innnerHTML = "Day";
+    } else {
+      daysSpan.nextElementSibling.innnerHTML = "Days";
+    }
+    if (hoursSpan.innerHTML == 1) {
+      hoursSpan.nextElementSibling.innnerHTML = "Hour";
+    } else {
+      hoursSpan.nextElementSibling.innnerHTML = "Hours";
+    }
+    if (minutesSpan.innerHTML == 1) {
+      minutesSpan.nextElementSibling.innnerHTML = "Minute"
+    } else {
+      minutesSpan.nextElementSibling.innnerHTML = "Minutes"
+    }
+    if (secondsSpan.innerHTML == 1) {
+      secondsSpan.nextElementSibling.innnerHTML = "Second"
+    } else {
+      secondsSpan.nextElementSibling.innnerHTML = "Seconds"
+    }
+
     if (t.total <= 0) {
       clearInterval(timeinterval);
     }
