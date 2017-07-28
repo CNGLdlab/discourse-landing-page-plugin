@@ -78,12 +78,14 @@ function initializeClock(id, endtime) {
 
     var secondValue = ('0' + t.seconds).slice(-2);
     secondsSpan.innerHTML = secondValue
-
+    console.log(dayValue)
+    console.log(dayValue == '01');
     if (dayValue == '01') {
+      console.log('Here editing');
       daysSpan.nextElementSibling.innnerHTML = "Day";
     } else if (dayValue == '00'){
       var div = document.querySelector("#clockdiv > div:nth-child(1)");
-      x.style.display = "none";
+      div.style.display = "none";
     } else {
       daysSpan.nextElementSibling.innnerHTML = "Days";
     }
