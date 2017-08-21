@@ -2,7 +2,7 @@ import {ajax} from 'discourse/lib/ajax';
 import {withPluginApi} from 'discourse/lib/plugin-api';
 
 
-const apiKey = '882dae34504d30fe7f17d31f8733512ed80518b6f7b58074e065728ad840c632';
+const apiKey = '7b0fe63c318a36c604fa7b5c3e350c70b378553a405b01e75d3d98a92dfdbacd';
 const username = 'daniel.turner';
 const queryEnd = `?api_key=${apiKey}&api_username=${username}`;
 
@@ -187,9 +187,12 @@ function getCategoryCallback(result, component, componentString) {
   }
 }
 
+var contentId = 139;
+// var contentId = 22;
+
 function initializePlugin(api, component) {
   ajax({
-    url: '/t/22.json',
+    url: `/t/${contentId}.json`,
     data: apiAccess,
   }).then((res) => {
     let body = res.post_stream.posts[0].cooked;
